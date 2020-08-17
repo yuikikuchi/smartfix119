@@ -47,23 +47,4 @@
         <property name="dataSource" ref="dataSource" />
         <property name="rollbackOnCommitFailure" value="true" />
     </bean>
-    
-    <!-- GMAIL SETTING -->
-    <bean id="mailSender" class="org.springframework.mail.javamail.JavaMailSenderImpl">
-        <property name="host" value="smtp.gmail.com"/>
-        <property name="port" value="587"/>
-        <property name="username" value="k.yui1993"/> <!-- (1) -->
-        <property name="password" value="Kyui3173"/> <!-- (2) -->
-        <property name="javaMailProperties">
-            <props>
-                <prop key="mail.smtp.auth">true</prop> <!-- (3) -->
-            </props>
-        </property>
-    </bean>
-    
-    <!-- GMAIL TEMPLATE SETTING -->
-    <bean id="templateMessage" class="org.springframework.mail.SimpleMailMessage">
-        <property name="from" value="info@example.com" />
-        <property name="subject" value="Registration confirmation." />
-    </bean>
 </beans>
