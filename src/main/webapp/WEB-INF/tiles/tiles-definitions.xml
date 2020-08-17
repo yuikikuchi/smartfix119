@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <!DOCTYPE tiles-definitions PUBLIC
+    "-//Apache Software Foundation//DTD Tiles Configuration 3.0//EN"
+    "http://tiles.apache.org/dtds/tiles-config_3_0.dtd">
+
+ <tiles-definitions>
+ 
+<!--      <definition name="layouts"
+        template="/WEB-INF/views/layout/template.jsp"> (2)
+        <put-attribute name="header"
+            value="/WEB-INF/views/layout/header.jsp" /> (3)
+        <put-attribute name="footer"
+            value="/WEB-INF/views/layout/footer.jsp" /> (4)
+    </definition>
+
+    <definition name="*/*" extends="layouts"> (5)
+        <put-attribute name="title" value="title.{1}.{2}" /> (6)
+        <put-attribute name="body" value="/WEB-INF/views/todo/{1}.jsp" /> (7)
+    </definition> -->
+ 
+<!--      <definition name="layoutsOfMyPage" template="/WEB-INF/views/layout/templateMyPage.jsp">
+         <put-attribute name="header" value="/WEB-INF/views/layout/header.jsp" />
+         <put-attribute name="leftMenu" value="/WEB-INF/views/layout/leftMenu.jsp" />
+         <put-attribute name="footer" value="/WEB-INF/views/layout/footer.jsp" />
+     </definition>
+
+     <definition name="myPage/*" extends="layoutsOfMyPage">
+         <put-attribute name="body" value="/WEB-INF/views/myPage/{1}.jsp" />
+     </definition> -->
+ 
+     <definition name="layouts" template="/WEB-INF/views/layout/template.jsp">
+         <put-attribute name="header" value="/WEB-INF/views/layout/header.jsp" />
+         <put-attribute name="footer" value="/WEB-INF/views/layout/footer.jsp" />
+     </definition>
+
+     <definition name="*" extends="layouts">
+         <put-attribute name="body" value="/WEB-INF/views/{1}.jsp" />
+     </definition>
+ </tiles-definitions>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC
+    "-//mybatis.org//DTD Mapper 3.0//EN"
+    "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+
+<mapper namespace="com.antelope.smartfix119.domain.repository.NewsListRepository">
+
+    <resultMap id="newsListResultMap" type="NewsListEntity">
+        <id property="newsNo" column="news_no" />
+        <result property="koumoku" column="koumoku" />
+        <result property="siteName" column="site_name" />
+        <result property="script" column="script" />
+        <result property="script2" column="script2" />
+        <result property="createdAt" column="created_at" />
+    </resultMap>
+    
+    <select id="findAll" parameterType="string" resultMap="newsListResultMap">
+    <![CDATA[
+        SELECT
+            news_no, 
+            koumoku, 
+            site_name, 
+            script, 
+            script2, 
+            created_at 
+        FROM
+             smartfix119_pro.news
+        ORDER BY
+            news_no DESC
+        LIMIT
+            6;
+    ]]>
+    </select>
+</mapper>

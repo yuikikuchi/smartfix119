@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC
+    "-//mybatis.org//DTD Mapper 3.0//EN"
+    "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+
+<mapper namespace="com.antelope.smartfix119.domain.repository.AreaListRepository">
+
+    <resultMap id="areaListResultMap" type="AreaListEntity">
+        <id property="area2No" column="area2_no" />
+        <result property="area2Name" column="area2_name" />
+        <result property="area2Name2" column="area2_name2" />
+        <result property="area1No" column="area1_no" />
+    </resultMap>
+    
+    <select id="findByArea" parameterType="string" resultMap="areaListResultMap">
+    <![CDATA[
+        SELECT
+            area2_no, 
+            area2_name, 
+            area2_name2, 
+            area1_no 
+        FROM
+            smartfix119_pro.area2
+        WHERE
+            area2_name2 = #{area}
+    ]]>
+    </select>
+</mapper>

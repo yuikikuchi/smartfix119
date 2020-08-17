@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC
+    "-//mybatis.org//DTD Mapper 3.0//EN"
+    "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+
+<!-- <mapper namespace="com.example.todo.domain.repository.sample.SampleRepository"> -->
+<mapper namespace="com.antelope.smartfix119.domain.repository.ShopListRepository">
+
+    <resultMap id="shopListResultMap" type="ShopListEntity">
+        <id property="shopId" column="shop_id" />
+        <result property="shopName" column="shop_name" />
+        <result property="location1" column="location_01" />
+        <result property="location2" column="location_02" />
+        <result property="phoneNo1" column="phone_no_01" />
+        <result property="phoneNo2" column="phone_no_02" />
+        <result property="businessHour1" column="business_hour_01" />
+        <result property="businessHour2" column="business_hour_02" />
+        <result property="holidays" column="holidays" />
+        <result property="shopSite" column="shop_site" />
+        <result property="area1Id" column="area_01_id" />
+        <result property="area2Id" column="area_02_id" />
+        <result property="map" column="map" />
+    </resultMap>
+    
+    <select id="findByAreaNo" parameterType="string" resultMap="shopListResultMap">
+    <![CDATA[
+        SELECT
+            shop_id, 
+            shop_name, 
+            location_01, 
+            location_02, 
+            phone_no_01, 
+            phone_no_02, 
+            business_hour_01, 
+            business_hour_02, 
+            holidays, 
+            shop_site, 
+            area_01_id, 
+            area_02_id, 
+            map 
+        FROM
+             smartfix119_pro.shopinfo 
+        WHERE
+            area_02_id = #{areaNo}
+    ]]>
+    </select>
+</mapper>
