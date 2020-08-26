@@ -180,7 +180,7 @@
       </div>
       <div class="line"></div>
       <div class="desc-box">
-        <p class="desc">画面の割れたスマホを使用し続けると、液晶破損につながり、タッチが利かなくなる可能性が高くなります。また湿気や手汗により、基板など重要部品の致命的な故障の原因になり危険です。軽度の画面割れでも修理をおすすめします。</p>
+        <p class="desc1">画面の割れたスマホを使用し続けると、液晶破損につながり、タッチが利かなくなる可能性が高くなります。また湿気や手汗により、基板など重要部品の致命的な故障の原因になり危険です。軽度の画面割れでも修理をおすすめします。</p>
       </div>
     </div>
     <div class="card">
@@ -190,7 +190,7 @@
       </div>
       <div class="line"></div>
       <div class="desc-box">
-        <p class="desc">スマホの防水性能のはほとんどの場合、生活防止レベルになります。水没後の通電は、基板や回路の損傷原因となるため、電源は入れず、お近くの修理店舗にお持ちください。</p>
+        <p class="desc1">スマホの防水性能のはほとんどの場合、生活防止レベルになります。水没後の通電は、基板や回路の損傷原因となるため、電源は入れず、お近くの修理店舗にお持ちください。</p>
       </div>
     </div>
     <div class="card">
@@ -200,7 +200,7 @@
       </div>
       <div class="line"></div>
       <div class="desc-box">
-        <p class="desc">毎日使用するスマホはバッテリーも早い段階で寿命を迎えます。長く使用したいお気に入りのスマホは、バッテリーの交換で継続して使用できます。どの店舗でも機種によっては最短5分で交換できますので、お気軽にご相談ください。</p>
+        <p class="desc1">毎日使用するスマホはバッテリーも早い段階で寿命を迎えます。長く使用したいお気に入りのスマホは、バッテリーの交換で継続して使用できます。どの店舗でも機種によっては最短5分で交換できますので、お気軽にご相談ください。</p>
       </div>
     </div>
     <div class="card">
@@ -210,7 +210,7 @@
       </div>
       <div class="line"></div>
       <div class="desc-box">
-        <p class="desc">電源ボタンや音量ボタンは破損しやすいパーツの代表です。接触不良やボタンがとれてしまった、などのお悩みなら、ボタン部品の交換で解決します。</p>
+        <p class="desc1">電源ボタンや音量ボタンは破損しやすいパーツの代表です。接触不良やボタンがとれてしまった、などのお悩みなら、ボタン部品の交換で解決します。</p>
       </div>
     </div>
     <div class="card">
@@ -220,7 +220,7 @@
       </div>
       <div class="line"></div>
       <div class="desc-box">
-        <p class="desc">アンテナ・Wi-Fiの障害は突然訪れます。Wi-Fi環境なのにWi-Fi接続できない。勝手に圏外になってしまう。こんな症状はWi-Fiやアンテナパーツの故障･劣化が考えられます。たいていの場合は部品交換で治すことが可能です。</p>
+        <p class="desc1">アンテナ・Wi-Fiの障害は突然訪れます。Wi-Fi環境なのにWi-Fi接続できない。勝手に圏外になってしまう。こんな症状はWi-Fiやアンテナパーツの故障･劣化が考えられます。たいていの場合は部品交換で治すことが可能です。</p>
       </div>
     </div>
     <div class="card">
@@ -230,7 +230,7 @@
       </div>
       <div class="line"></div>
       <div class="desc-box">
-        <p class="desc">外部スピーカーやイヤースピーカー、マイクは湿気やほこりにに弱いため、音が出なくなったり、ノイズが入ったりします。マイクやスピーカー部分の部品交換ですぐに解決します！</p>
+        <p class="desc1">外部スピーカーやイヤースピーカー、マイクは湿気やほこりにに弱いため、音が出なくなったり、ノイズが入ったりします。マイクやスピーカー部分の部品交換ですぐに解決します！</p>
       </div>
     </div>
     <div class="card">
@@ -240,7 +240,7 @@
       </div>
       <div class="line"></div>
       <div class="desc-box">
-        <p class="desc">最近は自分でパーツを購入することも可能なため、不調なスマホを分解して直そうとしたところ、電源が入らなくなってしまったという方も…。そんな時はプロの修理業者にお任せしましょう！すぐに原因を特定して修理します！</p>
+        <p class="desc1">最近は自分でパーツを購入することも可能なため、不調なスマホを分解して直そうとしたところ、電源が入らなくなってしまったという方も…。そんな時はプロの修理業者にお任せしましょう！すぐに原因を特定して修理します！</p>
       </div>
     </div>
     <div class="card">
@@ -250,7 +250,7 @@
       </div>
       <div class="line"></div>
       <div class="desc-box">
-        <p class="desc">起動しなくなったスマホも、プロの修理業者ならすぐに原因を特定してくれるはず。大切な写真や連絡先、ゲームアプリなどの保存データも諦めないでください！何をやっても起動しない端末でも諦めずに一度ご相談しましょう。</p>
+        <p class="desc1">起動しなくなったスマホも、プロの修理業者ならすぐに原因を特定してくれるはず。大切な写真や連絡先、ゲームアプリなどの保存データも諦めないでください！何をやっても起動しない端末でも諦めずに一度ご相談しましょう。</p>
       </div>
     </div>
   </div>
@@ -280,12 +280,12 @@
 
 <!-- MAKER SECTION -->
 <section id="maker_section" class="fdb-block py-0 section_box maker_section_img" data-block-type="contents" data-id="14" draggable="true">
-    <div class="row text-left pt-5">
-      <div class="col-12 col-md-8 col-lg-6">
-        <div class="fdb-box fdb-touch rounded-bottom-0">
+    <!-- <div class="row text-left pt-5"> -->
+      <!-- <div class="col-12 col-md-8 col-lg-6"> -->
+        <!-- <div class="fdb-box fdb-touch rounded-bottom-0"> -->
           <h2><b>対応機種</b></h2>
-        </div>
-      </div>
+        <!-- </div> -->
+      <!-- </div> -->
       <ul class="top-banner">
 		<li><img src="${pageContext.request.contextPath}/resources/app/img/maker/acer.svg" alt="acer_logo"></li>
 		<li><img src="${pageContext.request.contextPath}/resources/app/img/maker/akaso.svg" alt="akaso_logo"></li>
@@ -337,7 +337,7 @@
 		<li><img src="${pageContext.request.contextPath}/resources/app/img/maker/zte.svg" alt="zte_logo"></li>
 		<li><img src="${pageContext.request.contextPath}/resources/app/img/maker/other.svg" alt="other_logo"></li>
 	</ul>
-  </div>
+  <!-- </div> -->
 </section>
 
 <hr>

@@ -278,13 +278,14 @@ ul.area_menu li{
 }
 
 iframe {
-  width: 300px;
-  height: 200px;
+  width: 100%;
+  height: 180px;
   frameborder: 0;
   border: 0;
   allowfullscreen: "";
   aria-hidden: false;
   tabindex: 0;
+  border-radius: 8px 8px 0px 0px;
 }
 
 .smartfix119_map {
@@ -296,20 +297,78 @@ iframe {
 /* ----- SERVICE SECTION ----- */
 .cssgrid {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  grid-template-columns: repeat(auto-fit, minmax(270px, 1fr));
   grid-auto-rows: 1fr;
-  grid-gap: 0.8em;
-  padding: 0.8em;
-  margin: 0 0 2em;
+  grid-gap: 1.6em;
+  /* padding: 0.8em; */
+  /* margin: 0 0 2em; */
 }
 
 .card {
   position: relative;
   display: block;
-  width: 300px;
+  width: 270px;
   margin-left: auto;
   margin-right: auto;
+  border: 0px none;
 }
+
+.image-box1 {
+  border-radius: 5px 5px 0px 0px;
+  background-color: #F8F8F8;
+  height: 180px;
+  background: url(../img/animate/fix_service_01.svg) center center /cover no-repeat;
+}
+
+.image-box2 {
+  border-radius: 5px 5px 0px 0px;
+  background-color: #F8F8F8;
+  height: 180px;
+  background: url(../img/animate/fix_service_02.svg) center center /cover no-repeat;
+}
+
+.image-box3 {
+  border-radius: 5px 5px 0px 0px;
+  background-color: #F8F8F8;
+  height: 180px;
+  background: url(../img/animate/fix_service_03.svg) center center /cover no-repeat;
+}
+
+.image-box4 {
+  border-radius: 5px 5px 0px 0px;
+  background-color: #F8F8F8;
+  height: 180px;
+  background: url(../img/animate/fix_service_04.svg) center center /cover no-repeat;
+}
+
+.image-box5 {
+  border-radius: 5px 5px 0px 0px;
+  background-color: #F8F8F8;
+  height: 180px;
+  background: url(../img/animate/fix_service_05.svg) center center /cover no-repeat;
+}
+
+.image-box6 {
+  border-radius: 5px 5px 0px 0px;
+  background-color: #F8F8F8;
+  height: 180px;
+  background: url(../img/animate/fix_service_06.svg) center center /cover no-repeat;
+}
+
+.image-box7 {
+  border-radius: 5px 5px 0px 0px;
+  background-color: #F8F8F8;
+  height: 180px;
+  background: url(../img/animate/fix_service_07.svg) center center /cover no-repeat;
+}
+
+.image-box8 {
+  border-radius: 5px 5px 0px 0px;
+  background-color: #F8F8F8;
+  height: 180px;
+  background: url(../img/animate/fix_service_08.svg) center center /cover no-repeat;
+}
+
 
 /* ----- MAKER SECTION ----- */
 .top-banner{
@@ -344,101 +403,57 @@ iframe {
   }
 }
 
+/* iPhone4s等の小スマホ*/
+@media (max-width: 370px) {
+  .top-banner li {
+    width: calc(100%/3);
+  }
+  
+  .section_box {
+    width: 100%;
+    padding: 25px 10px 25px;
+  }
+  
+  .section_box_top {
+    width: 100%;
+    padding: 50px 10px 25px;
+  }
+}
+
 .image-box {
-  border-radius: 5px 5px 0 0;
-  margin-bottom: -6px;
-  height: 200px;
+  border-radius: 8px 8px 0px 0px;
+  /* margin-bottom: -6px; */
+  height: 180px;
 }
 
 .image-box img {
-  border-radius: 4px 4px 0px 0px;
-  height: 200px;
+  border-radius: 8px 8px 0px 0px;
+  height: 180px;
 }
 
-.image-box iframe {
+/* .image-box  {
   padding: 5px;
   border-radius: 10px 10px 0px 0px;
-}
+} */
 
-.image-box1 {
-  border-radius: 5px 5px 0 0;
-  background-color: #F8F8F8;
-  margin-bottom: -6px;
-  height: 120px;
-  background: url(../img/animate/fix_service_01.svg) center center /cover no-repeat;
-}
-
-.image-box2 {
-  border-radius: 5px 5px 0 0;
-  background-color: #F8F8F8;
-  margin-bottom: -6px;
-  height: 120px;
-  background: url(../img/animate/fix_service_02.svg) center center /cover no-repeat;
-}
-
-.image-box3 {
-  border-radius: 5px 5px 0 0;
-  background-color: #F8F8F8;
-  margin-bottom: -6px;
-  height: 120px;
-  background: url(../img/animate/fix_service_03.svg) center center /cover no-repeat;
-}
-
-.image-box4 {
-  border-radius: 5px 5px 0 0;
-  background-color: #F8F8F8;
-  margin-bottom: -6px;
-  height: 120px;
-  background: url(../img/animate/fix_service_04.svg) center center /cover no-repeat;
-}
-
-.image-box5 {
-  border-radius: 5px 5px 0 0;
-  background-color: #F8F8F8;
-  margin-bottom: -6px;
-  height: 120px;
-  background: url(../img/animate/fix_service_05.svg) center center /cover no-repeat;
-}
-
-.image-box6 {
-  border-radius: 5px 5px 0 0;
-  background-color: #F8F8F8;
-  margin-bottom: -6px;
-  height: 120px;
-  background: url(../img/animate/fix_service_06.svg) center center /cover no-repeat;
-}
-
-.image-box7 {
-  border-radius: 5px 5px 0 0;
-  background-color: #F8F8F8;
-  margin-bottom: -6px;
-  height: 120px;
-  background: url(../img/animate/fix_service_07.svg) center center /cover no-repeat;
-}
-
-.image-box8 {
-  border-radius: 5px 5px 0 0;
-  background-color: #F8F8F8;
-  margin-bottom: -6px;
-  height: 120px;
-  background: url(../img/animate/fix_service_08.svg) center center /cover no-repeat;
-}
 
 .title-box {
-  margin: 0 auto;
+  /* margin: 0 auto; */
+  height: 60px;
+  color: #FFC039;
   font-size: 18px;
-  padding: 0px 10px;
+  padding: 6px;
 }
 
 .line {
   height: 1px;
   background: #E8E8E8;
-  margin-bottom: 10px;
+  /* margin-bottom: 10px; */
 }
 
 .desc-box {
-  height: 150px;
-  padding: 10px;
+  height: 160px;
+  /* padding: 10px; */
   font-size: 12px;
 }
 
@@ -451,18 +466,29 @@ iframe {
   width : 80%;
 }
 
-.desc {
-  height: 50px;
+.desc1 {
+  font-size: 8px;
+  height: 86px;
+  padding: 6px;
+  margin: 0px;
+}
+
+.desc2 {
+  font-size: 8px;
+  height: 74px;
+  padding: 6px;
+  margin: 0px;
 }
 
 .title {
-  color: #FFC039;
-  margin: 10px;
+  /* height: 50px;
+  color: #FFC039; */
+  margin: 0px;
 }
 
-.title,.desc {
-  width: 280px;
-}
+/* .title,.desc {
+  width: 270px;
+} */
 
 /* ----- NEWS SECTION ----- */
 .news {
@@ -474,9 +500,9 @@ iframe {
 }
 
 .news_item {
+  padding:10px;
   width: calc(100%/3);
   display: flex;
-  padding: 0.2em;
   position: relative;
 }
 
@@ -648,15 +674,15 @@ em {
 /* ----- SHOP LIST ----- */
 h1 {
   font-size: 24px;
-  font-weight: 400;
+  font-weight: ２00;
   text-align: center;
 }
 
 .title-box h1 {
   color: #FFC039;
-  margin-left: 4px;
+  margin-left: 2px;
   text-align: left;
-  font-size: 24px;
+  font-size: 20px;
   font-weight: bold;
 }
 
@@ -686,57 +712,32 @@ img {
   background-color: #5BA9FF;
 }
 
-/* .cards {
-  display: flex;
-  flex-wrap: wrap;
-  list-style: none;
-  margin: 0;
-  padding: 0;
-} */
-
-/* .cards_item {
-  width: calc(100%/4);
-  display: flex;
-  padding: 1rem;
-} */
-
 .shop_card {
+  position: relative;
   display: block;
   color: #FFFFFF;
-  width: 300px;
-  height: 440px;
+  width: 270px;
+  height: 405px;
   margin-left: auto;
   margin-right: auto;
   background: linear-gradient(to bottom left, #4C6FFF 40%, #97DFE4 100%);
+  border-radius: 8px;
+  border: 0px none;
 }
 
 @media (max-width: 960px) {
   .responsive {
+    padding:10px;
     width: calc(100%/2);
   }
 }
 
 @media (max-width: 560px) {
   .responsive {
+    padding:10px;
     width: calc(100%/1);
   }
 }
-
-/* .card_title {
-  color: #FFC039;
-  font-size: 1.2rem;
-  font-weight: 700;
-  letter-spacing: 1px;
-  text-transform: capitalize;
-  margin: 0px;
-} */
-
-/* .card_text {
-  color: #FFFFFF;
-  font-size: 0.875rem;
-  line-height: 1.5;
-  font-weight: 400;
-} */
 
 .card_contents{
   position: relative;
