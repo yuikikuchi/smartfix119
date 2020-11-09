@@ -10,6 +10,7 @@
         <result property="area2Name" column="area2_name" />
         <result property="area2Name2" column="area2_name2" />
         <result property="area1No" column="area1_no" />
+        <result property="map" column="map" />
     </resultMap>
     
     <select id="findByArea" parameterType="string" resultMap="areaListResultMap">
@@ -18,7 +19,8 @@
             area2_no, 
             area2_name, 
             area2_name2, 
-            area1_no 
+            area1_no, 
+            map 
         FROM
             smartfix119_pro.area2
         WHERE

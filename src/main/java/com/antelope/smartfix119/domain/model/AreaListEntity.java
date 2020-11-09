@@ -19,6 +19,8 @@ public class AreaListEntity implements Serializable {
 	private String area2Name2;
 	
 	private String area1No;
+	
+	private String map;
 
 	public String getArea2No() {
 		return area2No;
@@ -50,6 +52,14 @@ public class AreaListEntity implements Serializable {
 
 	public void setArea1No(String area1No) {
 		this.area1No = area1No;
+	}
+
+	public String getMap() {
+		return map;
+	}
+
+	public void setMap(String map) {
+		this.map = map;
 	}
 
 }

@@ -8,8 +8,14 @@
     <p>修理料金や修理時間については必ず各店舗のHPをご確認の上、各店舗への問い合わせをお願いいたします。</p>
   </div>
   
+  <div class="mymap">
+    <iframe class="smartfix119_map" src="${f:h(areaList.map)}"></iframe>
+  </div>
+  
+  <hr>
+  
   <div class="cssgrid">
-    <c:forEach var="shopList" varStatus="s" items="${shopList}">
+    <c:forEach var="shopList" varStatus="s" items="${page.content}">
     <div>
       <div class="card_contents">
       <div class="card open_flg">
@@ -44,6 +50,19 @@
       </div>
     </c:forEach>
   </div>
+
+  <t:pagination criteriaQuery="area=${f:h(areaList.area2Name2)}" 
+  page="${page}" 
+  outerElementClass="pagination" 
+  maxDisplayCount="0" 
+  previousLinkText="Prev" 
+  nextLinkText="Next" />
+  
+  <div class="totalPages">
+    ${f:h(page.number + 1) } / 
+    ${f:h(page.totalPages)} Pages
+  </div>
+
 </section>
 <hr>
 </main>
