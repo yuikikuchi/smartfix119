@@ -33,6 +33,10 @@ public class ShopListEntity {
 	private String area2Id;
 	
 	private String map;
+	
+	private String introduction;
+	
+	private String pickup;
 
 	public int getShopId() {
 		return shopId;
@@ -136,6 +140,22 @@ public class ShopListEntity {
 
 	public void setMap(String map) {
 		this.map = map;
+	}
+
+	public String getIntroduction() {
+		return introduction;
+	}
+
+	public void setIntroduction(String introduction) {
+		this.introduction = introduction;
+	}
+
+	public String getPickup() {
+		return pickup;
+	}
+
+	public void setPickup(String pickup) {
+		this.pickup = pickup;
 	}
 
 }

@@ -191,3 +191,26 @@ jQuery(function($){
 		});
 	}
 });
+
+/* ページネーション Bootstrap4対応 */
+jQuery(function($){
+	$('.pagination li').addClass('page-item');
+	$('.pagination a').addClass('page-link');
+	$('.pagination').addClass('justify-content-center');
+});
+
+/* モーダルウィンドウ テスト */
+$(function(){
+    $('.js-modal-open').on('click',function(){
+        $('.js-modal').fadeIn();
+        scrollPosition = $(window).scrollTop();
+        $('body').addClass('fixed').css({'top': -scrollPosition});
+        return false;
+    });
+    $('.js-modal-close').on('click',function(){
+        $('.js-modal').fadeOut();
+        $('body').removeClass('fixed').css({'top': 0});
+        window.scrollTo( 0 , scrollPosition );
+        return false;
+    });
+});

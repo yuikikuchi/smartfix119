@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC
+    "-//mybatis.org//DTD Mapper 3.0//EN"
+    "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+
+<mapper namespace="com.antelope.smartfix119.domain.repository.ChargeListRepository">
+
+    <resultMap id="chargeListResultMap" type="ChargeListEntity">
+        <id property="no" column="no" />
+        <result property="shopId" column="shop_id" />
+        <result property="maker" column="maker" />
+        <result property="model" column="model" />
+        <result property="glass" column="glass" />
+        <result property="lcd" column="lcd" />
+        <result property="battery" column="battery" />
+        <result property="power" column="power" />
+        <result property="connector" column="connector" />
+        <result property="submerge" column="submerge" />
+    </resultMap>
+    
+    <select id="findByShopId" parameterType="string" resultMap="chargeListResultMap">
+    <![CDATA[
+        SELECT
+            no, 
+            shop_id, 
+            maker, 
+            model, 
+            glass, 
+            lcd, 
+            battery, 
+            power, 
+            connector, 
+            submerge 
+        FROM
+            smartfix119_pro.charge
+        WHERE
+            shop_id = #{shopId}
+    ]]>
+    </select>
+</mapper>

@@ -299,7 +299,7 @@ iframe {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(270px, 1fr));
   grid-auto-rows: 1fr;
-  grid-gap: 1.6em;
+  grid-gap: 2em;
   /* padding: 0.8em; */
   /* margin: 0 0 2em; */
 }
@@ -476,6 +476,13 @@ iframe {
 .desc2 {
   font-size: 8px;
   height: 74px;
+  padding: 6px;
+  margin: 0px;
+}
+
+.service_desc {
+  font-size: 14px;
+  height: 160px;
   padding: 6px;
   margin: 0px;
 }
@@ -664,8 +671,9 @@ em {
     text-indent: 1em;
 }
 
-  td {
+  .Tbl td {
     border-bottom: none;
+    /* TODO */
     display: block;
     /* width: 100%; */
   }
@@ -840,3 +848,133 @@ img {
   animation: a2_2 0.5s forwards;
 }
 
+/* ページネーション */
+.pagination {
+  padding: 25px;
+  margin: 0px;
+}
+
+.totalPages {
+  text-align: center
+}
+
+/* モーダルウィンドウ　テスト */
+.content{
+    margin: 0 auto;
+    /* padding: 40px; */
+}
+.modal{
+    display: none;
+    height: 100vh;
+    position: fixed;
+    top: 0;
+    width: 100%;
+}
+.modal__bg{
+    background: rgba(0,0,0,0.4);
+    height: 100vh;
+    position: absolute;
+    width: 100%;
+}
+.modal__content{
+    background: #fff;
+    left: 50%;
+    /* padding: 40px */;
+    position: absolute;
+    top: 50%;
+    transform: translate(-50%,-50%);
+    width: 90%;
+}
+
+/* 料金表 */
+.charge_table {
+  width: 100%;
+  border-collapse: collapse;
+  display: block;
+  overflow-x: scroll;
+  white-space: nowrap;
+  -webkit-overflow-scrolling: touch;
+}
+
+.charge_list {
+  background-image: linear-gradient(40deg, #4C6FFF 0%, #97DFE4 74%);
+}
+
+.charge_list:last-child *{
+  border-bottom: none;
+}
+
+.charge_list th, .charge_list td{
+  width: 100%;
+  text-align: center;
+  border: solid 2px #fff;
+  color: white;
+  padding: 10px;
+}
+
+
+
+/* test */
+ul,li{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+#accordion_menu > li {
+    border: #ccc 1px solid;
+    margin-bottom: -1px;
+}
+#accordion_menu a{
+    color: #666;
+}
+#accordion_menu a[data-toggle="collapse"]{
+    display: block;
+    padding: 10px;
+    text-decoration: none;
+  position: relative;
+}
+#accordion_menu a[data-toggle="collapse"]:hover{
+    background: #e7e7e7;
+}
+#accordion_menu a[data-toggle="collapse"]::after{
+    content:"";
+    display: block;
+    width: 8px;
+    height: 8px;
+    border-top: #666 1px solid;
+    border-right: #666 1px solid;
+    position: absolute;
+    right: 15px;
+    top: 0;
+    bottom: 0;
+    margin: auto;
+}
+#accordion_menu a[aria-expanded=false]::after{
+    -webkit-transform: rotate(45deg);
+    -ms-transform: rotate(45deg);
+    transform: rotate(45deg);
+    transition-duration: 0.3s;
+}
+#accordion_menu a[aria-expanded=true]::after{
+    -webkit-transform: rotate(135deg);
+    -ms-transform: rotate(135deg);
+    transform: rotate(135deg);
+    transition-duration: 0.3s;
+}
+[id^="menu"] li{
+    padding: 10px 10px 10px 20px;
+}
+
+.modal__content {
+	max-height: 80%;
+	overflow: auto;
+}
+
+/* モーダルウィンドウテスト */
+body.fixed {
+	position: fixed;
+	width: 100%;
+	height: 100%;
+	left: 0;
+}

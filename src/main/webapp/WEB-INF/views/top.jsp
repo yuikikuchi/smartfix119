@@ -78,6 +78,89 @@
 
 <hr>
 
+<!-- PICKUP SECTION -->
+<section id="pickup_section" class="section_box">
+  <h2><b>Pickup Shop</b></h2>
+  <div class="cssgrid">
+    <c:forEach var="shopList" varStatus="s" items="${shopList}">
+    <div>
+      <div class="card_contents">
+      <div class="card open_flg">
+        <div class="i2 shop_card back" onclick="gtag('event', '店舗カードタップ', {'event_category': '店舗カードタップ', 'event_label': '${f:h(shopList.shopName)}'});">
+          <div class="image-box">
+            <iframe src="${f:h(shopList.map)}"></iframe>
+          </div>
+          <div class="desc-box">
+            <p class="desc2">${f:h(shopList.location1)}<br></p>
+            <p class="desc2">${f:h(shopList.location2)}<br></p>
+            <a class="btn card_btn" href="${f:h(shopList.shopSite)}" onclick="gtag('event', 'READ MORE', {'event_category': 'HPクリック', 'event_label': '${f:h(shopList.shopName)}'});" role="button">Read More</a>
+          </div>
+        </div>
+        <div class="i1 shop_card front" onclick="gtag('event', '店舗カードタップ', {'event_category': '店舗カードタップ', 'event_label': '${f:h(shopList.shopName)}'});">
+          <!-- <div class="image-box"><img src="https://picsum.photos/500/300/?image=10"></div> -->
+          <div class="image-box"><img src="${pageContext.request.contextPath}/resources/app/img/shop/quickrepairplus_image.png"></div>
+          <div class="title-box">
+            <h1 class="title">${f:h(shopList.shopName)}</h1>
+          </div>
+          <div class="line"></div>
+          <div class="desc-box">
+            <p class="desc1">【店舗紹介】<br><!-- 100文字 -->
+            ${f:h(shopList.introduction)}
+            </p>
+            <p class="desc2">
+                                 営業時間：${f:h(shopList.businessHour1)}<br>
+                                電話番号：<a href="tel:${f:h(shopList.phoneNo1)}" onClick="gtag('event', '電話番号', {'event_category': '番号タップ', 'event_label': '${f:h(shopList.shopName)}', 'value': '0'});">${f:h(shopList.phoneNo1)}</a><br>
+                                定休日　：${f:h(shopList.holidays)}<br>
+             <a class="js-modal-open" href="">修理料金</a></p>
+          </div>
+        </div>
+      </div>
+      </div>
+      </div>
+    </c:forEach>
+  </div>
+<%--   <div class="cssgrid">
+    <div>
+      <div class="card_contents">
+      <div class="card open_flg">
+        <div class="i2 shop_card back" onclick="gtag('event', '店舗カードタップ', {'event_category': '店舗カードタップ', 'event_label': 'QuickRepair+'});">
+          <div class="image-box">
+            <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d6797.0524938401295!2d130.553269!3d31.592037!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x923c4c94132a9a07!2zaVBob25l5L-u55CGIOOCr-OCpOODg-OCr-ODquODmuOCouODl-ODqeOCuem5v-WFkOWztuW6lw!5e0!3m2!1sja!2sjp!4v1598425932314!5m2!1sja!2sjp"></iframe>
+          </div>
+          <div class="desc-box">
+            <p class="desc2">〒892-0842 鹿児島市東千石町5-12 CUBEビル 602号<br></p>
+            <p class="desc2"><br></p>
+            <a class="btn card_btn" href="https://quickrepair-plus.jp/" onclick="gtag('event', 'READ MORE', {'event_category': 'HPクリック', 'event_label': 'QuickRepair+'});" role="button">Read More</a>
+          </div>
+        </div>
+        <div class="i1 shop_card front" onclick="gtag('event', '店舗カードタップ', {'event_category': '店舗カードタップ', 'event_label': 'QuickRepair+'});">
+          <div class="image-box"><img src="${pageContext.request.contextPath}/resources/app/img/shop/quickrepairplus_image.png"></div>
+          <div class="title-box">
+            <h1 class="title">QuickRepair+<br>（クイックリペアプラス）</h1>
+          </div>
+          <div class="line"></div>
+          <div class="desc-box">
+            <p class="desc1">【店舗紹介】<br><!-- 100文字 -->
+            画面割れだけでなく、バッテリー交換やカメラ・充電コネクター・各ボタン交換、水没の修理は復旧90%を超えるお店です。最新機種から昔の機種までスマホ・タブレットに関することならなんでもお問い合わせください！
+            </p>
+            <p class="desc2">
+                                 営業時間：10:00～19:00<br>
+                                電話番号：<a href="tel:099-248-9321" onClick="gtag('event', '電話番号', {'event_category': '番号タップ', 'event_label': 'QuickRepair+', 'value': '0'});">099-248-9321</a><br>
+                                定休日　：不定休<br>
+                <!-- <div class="content"> -->
+                  <a class="js-modal-open" href="">修理料金</a>
+                <!-- </div> -->
+            </p>
+          </div>
+        </div>
+      </div>
+      </div>
+      </div>
+  </div> --%>
+</section>
+
+<!-- <hr> -->
+
 <!-- SEARCH SECTION -->
   <section id="search_section" class="section_box search_section_img">
     <h2><b>Search by Area</b></h2>
@@ -180,7 +263,7 @@
       </div>
       <div class="line"></div>
       <div class="desc-box">
-        <p class="desc1">画面の割れたスマホを使用し続けると、液晶破損につながり、タッチが利かなくなる可能性が高くなります。また湿気や手汗により、基板など重要部品の致命的な故障の原因になり危険です。軽度の画面割れでも修理をおすすめします。</p>
+        <p class="service_desc">画面の割れたスマホを使用し続けると、液晶破損につながり、タッチが利かなくなる可能性が高くなります。また湿気や手汗により、基板など重要部品の致命的な故障の原因になり危険です。軽度の画面割れでも修理をおすすめします。</p>
       </div>
     </div>
     <div class="card">
@@ -190,7 +273,7 @@
       </div>
       <div class="line"></div>
       <div class="desc-box">
-        <p class="desc1">スマホの防水性能のはほとんどの場合、生活防止レベルになります。水没後の通電は、基板や回路の損傷原因となるため、電源は入れず、お近くの修理店舗にお持ちください。</p>
+        <p class="service_desc">スマホの防水性能のはほとんどの場合、生活防止レベルになります。水没後の通電は、基板や回路の損傷原因となるため、電源は入れず、お近くの修理店舗にお持ちください。</p>
       </div>
     </div>
     <div class="card">
@@ -200,7 +283,7 @@
       </div>
       <div class="line"></div>
       <div class="desc-box">
-        <p class="desc1">毎日使用するスマホはバッテリーも早い段階で寿命を迎えます。長く使用したいお気に入りのスマホは、バッテリーの交換で継続して使用できます。どの店舗でも機種によっては最短5分で交換できますので、お気軽にご相談ください。</p>
+        <p class="service_desc">毎日使用するスマホはバッテリーも早い段階で寿命を迎えます。長く使用したいお気に入りのスマホは、バッテリーの交換で継続して使用できます。どの店舗でも機種によっては最短5分で交換できますので、お気軽にご相談ください。</p>
       </div>
     </div>
     <div class="card">
@@ -210,7 +293,7 @@
       </div>
       <div class="line"></div>
       <div class="desc-box">
-        <p class="desc1">電源ボタンや音量ボタンは破損しやすいパーツの代表です。接触不良やボタンがとれてしまった、などのお悩みなら、ボタン部品の交換で解決します。</p>
+        <p class="service_desc">電源ボタンや音量ボタンは破損しやすいパーツの代表です。接触不良やボタンがとれてしまった、などのお悩みなら、ボタン部品の交換で解決します。</p>
       </div>
     </div>
     <div class="card">
@@ -220,7 +303,7 @@
       </div>
       <div class="line"></div>
       <div class="desc-box">
-        <p class="desc1">アンテナ・Wi-Fiの障害は突然訪れます。Wi-Fi環境なのにWi-Fi接続できない。勝手に圏外になってしまう。こんな症状はWi-Fiやアンテナパーツの故障･劣化が考えられます。たいていの場合は部品交換で治すことが可能です。</p>
+        <p class="service_desc">アンテナ・Wi-Fiの障害は突然訪れます。Wi-Fi環境なのにWi-Fi接続できない。勝手に圏外になってしまう。こんな症状はWi-Fiやアンテナパーツの故障･劣化が考えられます。たいていの場合は部品交換で治すことが可能です。</p>
       </div>
     </div>
     <div class="card">
@@ -230,7 +313,7 @@
       </div>
       <div class="line"></div>
       <div class="desc-box">
-        <p class="desc1">外部スピーカーやイヤースピーカー、マイクは湿気やほこりにに弱いため、音が出なくなったり、ノイズが入ったりします。マイクやスピーカー部分の部品交換ですぐに解決します！</p>
+        <p class="service_desc">外部スピーカーやイヤースピーカー、マイクは湿気やほこりにに弱いため、音が出なくなったり、ノイズが入ったりします。マイクやスピーカー部分の部品交換ですぐに解決します！</p>
       </div>
     </div>
     <div class="card">
@@ -240,7 +323,7 @@
       </div>
       <div class="line"></div>
       <div class="desc-box">
-        <p class="desc1">最近は自分でパーツを購入することも可能なため、不調なスマホを分解して直そうとしたところ、電源が入らなくなってしまったという方も…。そんな時はプロの修理業者にお任せしましょう！すぐに原因を特定して修理します！</p>
+        <p class="service_desc">最近は自分でパーツを購入することも可能なため、不調なスマホを分解して直そうとしたところ、電源が入らなくなってしまったという方も…。そんな時はプロの修理業者にお任せしましょう！すぐに原因を特定して修理します！</p>
       </div>
     </div>
     <div class="card">
@@ -250,7 +333,7 @@
       </div>
       <div class="line"></div>
       <div class="desc-box">
-        <p class="desc1">起動しなくなったスマホも、プロの修理業者ならすぐに原因を特定してくれるはず。大切な写真や連絡先、ゲームアプリなどの保存データも諦めないでください！何をやっても起動しない端末でも諦めずに一度ご相談しましょう。</p>
+        <p class="service_desc">起動しなくなったスマホも、プロの修理業者ならすぐに原因を特定してくれるはず。大切な写真や連絡先、ゲームアプリなどの保存データも諦めないでください！何をやっても起動しない端末でも諦めずに一度ご相談しましょう。</p>
       </div>
     </div>
   </div>
@@ -259,7 +342,7 @@
 <hr>
 
 <!-- NEWS SECTION -->
-<section id="news_section" class="section_box">
+<%-- <section id="news_section" class="section_box">
   <h2><b>News</b></h2>
   <ul class="news">
     <c:forEach var="newsList" varStatus="s" items="${newsList}">
@@ -276,7 +359,7 @@
   </ul>
 </section>
 
-<hr>
+<hr> --%>
 
 <!-- MAKER SECTION -->
 <section id="maker_section" class="fdb-block py-0 section_box maker_section_img" data-block-type="contents" data-id="14" draggable="true">
@@ -347,7 +430,7 @@
     <form:form class="ContactForm" name="contactForm" id="contactForm" action="${pageContext.request.contextPath}/contact" modelAttribute="contactForm" method="POST" target="send">
     <div id="contactInfos">
       <div id="v1" class="ItemContent"><!-- 入力画面 -->
-        <h2><b>お問い合わせ入力</b></h2>
+        <h2><b>お問い合わせ</b></h2>
         <table class="Tbl">
           <tbody>
             <tr>
@@ -426,4 +509,130 @@
     <iframe name="send" style="width:0px;height:0px;border:0px;"></iframe>
   </section>
   <hr>
+    <div class="modal js-modal">
+      <div class="modal__bg js-modal-close"></div>
+      <div class="modal__content">
+          <ul id="accordion_menu">
+            <li>
+              <a data-toggle="collapse" href="#menu01" aria-controls="#menu01" aria-expanded="false">Apple</a>
+            </li>
+            <table id="menu01" class="collapse charge_table" data-parent="#accordion_menu">
+              <tr class="charge_list">
+                <th>機種</th>
+                <th>ガラス割れ</th>
+                <th>液晶不良</th>
+                <th>バッテリー交換</th>
+                <th>電源ボタン不良</th>
+                <th>充電コネクタ不良</th>
+                <th>水没修理</th>
+              </tr>
+              <c:forEach var="chargeList" varStatus="s" items="${chargeList}">
+              <c:set var="maker" value="${f:h(chargeList.maker)}" />
+              <c:if test="${maker == 'Apple'}">
+              <tr class="charge_list">
+                <th>${f:h(chargeList.model)}</th>
+                <td>${f:h(chargeList.glass)}</td>
+                <td>${f:h(chargeList.lcd)}</td>
+                <td>${f:h(chargeList.battery)}</td>
+                <td>${f:h(chargeList.power)}</td>
+                <td>${f:h(chargeList.connector)}</td>
+                <td>${f:h(chargeList.submerge)}</td>
+              </tr>
+              </c:if>
+              </c:forEach>
+            </table>
+            <li>
+              <a data-toggle="collapse" href="#menu02" aria-controls="#menu02" aria-expanded="false">SONY</a>
+            </li>
+            <table id="menu02" class="collapse charge_table" data-parent="#accordion_menu">
+              <tr class="charge_list">
+                <th>機種</th>
+                <th>ガラス割れ</th>
+                <th>液晶不良</th>
+                <th>バッテリー交換</th>
+                <th>電源ボタン不良</th>
+                <th>充電コネクタ不良</th>
+                <th>水没修理</th>
+              </tr>
+              <c:forEach var="chargeList" varStatus="s" items="${chargeList}">
+              <c:set var="maker" value="${f:h(chargeList.maker)}" />
+              <c:if test="${maker == 'SONY'}">
+              <tr class="charge_list">
+                <th>${f:h(chargeList.model)}</th>
+                <td>${f:h(chargeList.glass)}</td>
+                <td>${f:h(chargeList.lcd)}</td>
+                <td>${f:h(chargeList.battery)}</td>
+                <td>${f:h(chargeList.power)}</td>
+                <td>${f:h(chargeList.connector)}</td>
+                <td>${f:h(chargeList.submerge)}</td>
+              </tr>
+              </c:if>
+              </c:forEach>
+            </table>
+            <li>
+              <a data-toggle="collapse" href="#menu03" aria-controls="#menu03" aria-expanded="false">ASUS</a>
+            </li>
+            <table id="menu03" class="collapse charge_table" data-parent="#accordion_menu">
+              <tr class="charge_list">
+                <th>機種</th>
+                <th>ガラス割れ</th>
+                <th>液晶不良</th>
+                <th>バッテリー交換</th>
+                <th>電源ボタン不良</th>
+                <th>充電コネクタ不良</th>
+                <th>水没修理</th>
+              </tr>
+              <c:forEach var="chargeList" varStatus="s" items="${chargeList}">
+              <c:set var="maker" value="${f:h(chargeList.maker)}" />
+              <c:if test="${maker == 'ASUS'}">
+              <tr class="charge_list">
+                <th>${f:h(chargeList.model)}</th>
+                <td>${f:h(chargeList.glass)}</td>
+                <td>${f:h(chargeList.lcd)}</td>
+                <td>${f:h(chargeList.battery)}</td>
+                <td>${f:h(chargeList.power)}</td>
+                <td>${f:h(chargeList.connector)}</td>
+                <td>${f:h(chargeList.submerge)}</td>
+              </tr>
+              </c:if>
+              </c:forEach>
+            </table>
+            <li>
+              <a data-toggle="collapse" href="#menu04" aria-controls="#menu04" aria-expanded="false">Microsoft</a>
+            </li>
+            <table id="menu04" class="collapse charge_table" data-parent="#accordion_menu">
+              <tr class="charge_list">
+                <th>機種</th>
+                <th>ガラス割れ</th>
+                <th>液晶不良</th>
+                <th>バッテリー交換</th>
+                <th>電源ボタン不良</th>
+                <th>充電コネクタ不良</th>
+                <th>水没修理</th>
+              </tr>
+              <c:forEach var="chargeList" varStatus="s" items="${chargeList}">
+              <c:set var="maker" value="${f:h(chargeList.maker)}" />
+              <c:if test="${maker == 'Microsoft'}">
+              <tr class="charge_list">
+                <th>${f:h(chargeList.model)}</th>
+                <td>${f:h(chargeList.glass)}</td>
+                <td>${f:h(chargeList.lcd)}</td>
+                <td>${f:h(chargeList.battery)}</td>
+                <td>${f:h(chargeList.power)}</td>
+                <td>${f:h(chargeList.connector)}</td>
+                <td>${f:h(chargeList.submerge)}</td>
+              </tr>
+              </c:if>
+              </c:forEach>
+            </table>
+          </ul>
+      </div>
+      <a class="js-modal-close" href="">×</a>
+    </div>
+    <%-- <c:forEach var="chargeList" varStatus="s" items="${chargeList}">
+            <p>${f:h(chargeList.shopId)}</p>
+            <p>${f:h(chargeList.maker)}</p>
+            <p>${f:h(chargeList.model)}</p>
+            <p>${f:h(chargeList.glass)}</p>
+    </c:forEach> --%>
 </main>

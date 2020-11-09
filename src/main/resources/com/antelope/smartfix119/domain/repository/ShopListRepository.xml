@@ -20,6 +20,7 @@
         <result property="area1Id" column="area_01_id" />
         <result property="area2Id" column="area_02_id" />
         <result property="map" column="map" />
+        <result property="introduction" column="introduction" />
     </resultMap>
     
     <select id="findByAreaNo" parameterType="string" resultMap="shopListResultMap">
@@ -37,11 +38,100 @@
             shop_site, 
             area_01_id, 
             area_02_id, 
-            map 
+            map, 
+            introduction 
         FROM
              smartfix119_pro.shopinfo 
         WHERE
             area_02_id = #{areaNo}
+    ]]>
+    </select>
+    
+        <select id="findAll" parameterType="string" resultMap="shopListResultMap">
+    <![CDATA[
+        SELECT
+            shop_id, 
+            shop_name, 
+            location_01, 
+            location_02, 
+            phone_no_01, 
+            phone_no_02, 
+            business_hour_01, 
+            business_hour_02, 
+            holidays, 
+            shop_site, 
+            area_01_id, 
+            area_02_id, 
+            map, 
+            introduction 
+        FROM
+             smartfix119_pro.shopinfo 
+    ]]>
+    </select>
+    
+    <!-- 検索条件に一致するEntityの総件数を取得するSQL -->
+    <select id="countByCriteria" parameterType="ShopListEntity" resultType="_long">
+        <![CDATA[
+        SELECT
+            COUNT(*)
+        FROM
+            smartfix119_pro.shopinfo 
+        WHERE
+            area_02_id = #{areaNo}
+        ]]>
+    </select>
+    
+    <!-- 検索条件に一致するEntityのリストを取得するSQL -->
+     <select id="findPageByCriteria" parameterType="ShopListEntity" resultType="ShopListEntity">
+    <![CDATA[
+        SELECT
+            shop_id, 
+            shop_name, 
+            location_01, 
+            location_02, 
+            phone_no_01, 
+            phone_no_02, 
+            business_hour_01, 
+            business_hour_02, 
+            holidays, 
+            shop_site, 
+            area_01_id, 
+            area_02_id, 
+            map, 
+            introduction 
+        FROM
+             smartfix119_pro.shopinfo 
+        WHERE
+            area_02_id = #{areaNo}
+        ORDER BY
+            shop_id
+    ]]>
+    </select>
+    
+    <!-- PICKUP店舗のリストを取得するSQL -->
+    <select id="findByPickupShop" parameterType="ShopListEntity" resultType="ShopListEntity">
+    <![CDATA[
+        SELECT
+            shop_id, 
+            shop_name, 
+            location_01, 
+            location_02, 
+            phone_no_01, 
+            phone_no_02, 
+            business_hour_01, 
+            business_hour_02, 
+            holidays, 
+            shop_site, 
+            area_01_id, 
+            area_02_id, 
+            map, 
+            introduction 
+        FROM
+             smartfix119_pro.shopinfo 
+        WHERE
+            pickup = 1
+        ORDER BY
+            shop_id
     ]]>
     </select>
 </mapper>
