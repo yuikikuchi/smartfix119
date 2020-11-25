@@ -12,9 +12,9 @@ public class NewsListEntity {
 	@Id
 	private int newsNo;
 	
-	private String koumoku;
+//	private String koumoku;
 	
-	private String siteName;
+//	private String siteName;
 	
 	private String script;
 	
@@ -30,21 +30,21 @@ public class NewsListEntity {
 		this.newsNo = newsNo;
 	}
 
-	public String getKoumoku() {
-		return koumoku;
-	}
+//	public String getKoumoku() {
+//		return koumoku;
+//	}
 
-	public void setKoumoku(String koumoku) {
-		this.koumoku = koumoku;
-	}
+//	public void setKoumoku(String koumoku) {
+//		this.koumoku = koumoku;
+//	}
 
-	public String getSiteName() {
-		return siteName;
-	}
+//	public String getSiteName() {
+//		return siteName;
+//	}
 
-	public void setSiteName(String siteName) {
-		this.siteName = siteName;
-	}
+//	public void setSiteName(String siteName) {
+//		this.siteName = siteName;
+//	}
 
 	public String getScript() {
 		return script;

@@ -9,6 +9,8 @@
       </div> 
     </div>
   </section>
+  
+  <a href="<c:url value="/model"></c:url>">モデル</a>
 
   <!-- OVERVIEW SECTION -->
   <section id="home_section" class="fdb-block section_box_top">
@@ -119,44 +121,6 @@
       </div>
     </c:forEach>
   </div>
-<%--   <div class="cssgrid">
-    <div>
-      <div class="card_contents">
-      <div class="card open_flg">
-        <div class="i2 shop_card back" onclick="gtag('event', '店舗カードタップ', {'event_category': '店舗カードタップ', 'event_label': 'QuickRepair+'});">
-          <div class="image-box">
-            <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d6797.0524938401295!2d130.553269!3d31.592037!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x923c4c94132a9a07!2zaVBob25l5L-u55CGIOOCr-OCpOODg-OCr-ODquODmuOCouODl-ODqeOCuem5v-WFkOWztuW6lw!5e0!3m2!1sja!2sjp!4v1598425932314!5m2!1sja!2sjp"></iframe>
-          </div>
-          <div class="desc-box">
-            <p class="desc2">〒892-0842 鹿児島市東千石町5-12 CUBEビル 602号<br></p>
-            <p class="desc2"><br></p>
-            <a class="btn card_btn" href="https://quickrepair-plus.jp/" onclick="gtag('event', 'READ MORE', {'event_category': 'HPクリック', 'event_label': 'QuickRepair+'});" role="button">Read More</a>
-          </div>
-        </div>
-        <div class="i1 shop_card front" onclick="gtag('event', '店舗カードタップ', {'event_category': '店舗カードタップ', 'event_label': 'QuickRepair+'});">
-          <div class="image-box"><img src="${pageContext.request.contextPath}/resources/app/img/shop/quickrepairplus_image.png"></div>
-          <div class="title-box">
-            <h1 class="title">QuickRepair+<br>（クイックリペアプラス）</h1>
-          </div>
-          <div class="line"></div>
-          <div class="desc-box">
-            <p class="desc1">【店舗紹介】<br><!-- 100文字 -->
-            画面割れだけでなく、バッテリー交換やカメラ・充電コネクター・各ボタン交換、水没の修理は復旧90%を超えるお店です。最新機種から昔の機種までスマホ・タブレットに関することならなんでもお問い合わせください！
-            </p>
-            <p class="desc2">
-                                 営業時間：10:00～19:00<br>
-                                電話番号：<a href="tel:099-248-9321" onClick="gtag('event', '電話番号', {'event_category': '番号タップ', 'event_label': 'QuickRepair+', 'value': '0'});">099-248-9321</a><br>
-                                定休日　：不定休<br>
-                <!-- <div class="content"> -->
-                  <a class="js-modal-open" href="">修理料金</a>
-                <!-- </div> -->
-            </p>
-          </div>
-        </div>
-      </div>
-      </div>
-      </div>
-  </div> --%>
 </section>
 
 <!-- <hr> -->
@@ -342,7 +306,7 @@
 <hr>
 
 <!-- NEWS SECTION -->
-<%-- <section id="news_section" class="section_box">
+<section id="news_section" class="section_box">
   <h2><b>News</b></h2>
   <ul class="news">
     <c:forEach var="newsList" varStatus="s" items="${newsList}">
@@ -359,7 +323,7 @@
   </ul>
 </section>
 
-<hr> --%>
+<hr>
 
 <!-- MAKER SECTION -->
 <section id="maker_section" class="fdb-block py-0 section_box maker_section_img" data-block-type="contents" data-id="14" draggable="true">

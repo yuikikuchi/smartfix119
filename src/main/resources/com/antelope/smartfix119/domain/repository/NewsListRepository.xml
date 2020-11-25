@@ -7,8 +7,8 @@
 
     <resultMap id="newsListResultMap" type="NewsListEntity">
         <id property="newsNo" column="news_no" />
-        <result property="koumoku" column="koumoku" />
-        <result property="siteName" column="site_name" />
+        <!-- <result property="koumoku" column="koumoku" /> -->
+        <!-- <result property="siteName" column="site_name" /> -->
         <result property="script" column="script" />
         <result property="script2" column="script2" />
         <result property="createdAt" column="created_at" />
@@ -18,8 +18,6 @@
     <![CDATA[
         SELECT
             news_no, 
-            koumoku, 
-            site_name, 
             script, 
             script2, 
             created_at 

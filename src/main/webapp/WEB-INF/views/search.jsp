@@ -1,5 +1,9 @@
 <main>
 <section class="section_box_top">
+  <div class="breadcrumbs">
+    <a href="<%= request.getContextPath() %>/#search_section">検索</a>
+    <a class="active">${f:h(areaList.area2Name)}</a>
+  </div>
   <hr>
     <h2><b>${f:h(areaList.area2Name)} エリア</b></h2>
   

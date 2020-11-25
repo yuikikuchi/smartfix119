@@ -27,6 +27,7 @@
           <li class="nav-item mr-auto">
             <a class="nav-link" href="<%= request.getContextPath() %>/#news_section">News</a>
           </li>
+          
           <li class="nav-item mr-auto">
             <a class="nav-link" href="<%= request.getContextPath() %>/#maker_section">Maker</a>
           </li>

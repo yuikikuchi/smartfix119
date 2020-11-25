@@ -28,12 +28,16 @@
          <put-attribute name="body" value="/WEB-INF/views/myPage/{1}.jsp" />
      </definition> -->
  
+     <!-- Topページ・検索ページ -->
      <definition name="layouts" template="/WEB-INF/views/layout/template.jsp">
          <put-attribute name="header" value="/WEB-INF/views/layout/header.jsp" />
+         <put-attribute name="aside" value="/WEB-INF/views/layout/aside.jsp" />
          <put-attribute name="footer" value="/WEB-INF/views/layout/footer.jsp" />
      </definition>
 
      <definition name="*" extends="layouts">
+         <!-- <put-attribute name="title" value="title.{1}" /> -->
          <put-attribute name="body" value="/WEB-INF/views/{1}.jsp" />
      </definition>
+     
  </tiles-definitions>

@@ -86,6 +86,7 @@ header {
 
 footer {
   background-color: #FFFFFF;
+  z-index: 21;
 }
 
 .bg-image-full {
@@ -987,4 +988,185 @@ body.fixed {
 	width: 100%;
 	height: 100%;
 	left: 0;
+}
+
+
+/* モデルページ */
+.rwdBox, .rwdBox2 {
+  height: 100%;
+  display: flex;
+  justify-content: center; /*左右中央揃え*/
+  /* align-items: center; */
+}
+
+.rwdBox2 {
+  height: 100%;
+}
+
+.cssTest, .cssTest2 {
+  height: 70%;
+  width:40%;
+  /* border:3px solid red; */
+  margin: 0 auto;
+  background-color: #FFFFFF;
+}
+
+.cssTest .img-fluid {
+  padding: 20px;
+  max-height: 100%
+  /* height: auto; */
+}
+
+.cssTest2 h1 {
+  color: #5BA9FF;
+  padding: 5px;
+}
+
+.cssTest2 table {
+  width:100%;
+  margin: 0 auto;
+}
+
+.cssTest2 th {
+  color: #FFFFFF;
+  background-color: #5BA9FF;
+}
+
+.tableTest {
+  height: 80%;
+  width:50%;
+  /* border:3px solid blue; */
+  padding: 10px;
+  margin: 0 auto;
+}
+
+/* モバイル表示 */
+@media only screen and (max-width : 640px){
+  .rwdBox, .rwdBox2 {
+    display: block;
+  }
+  
+  .rwdBox2 {
+    height: 80%;
+  }
+  
+  .cssTest {
+    height: 50%;
+    width:100%;
+    margin: 0 auto;
+    /* padding: 60px 20px 0; */
+  }
+  
+  .cssTest2 {
+    /* height: 50%; */
+    width:100%;
+    margin: 0 auto;
+  }
+  
+  .tableTest {
+    /* height: 50%; */
+    width:100%;
+    margin: 0 auto;
+    height: auto;
+  }
+  
+  .img-fluid {
+    width: 100% \9;
+    max-height: 100%;
+    height: auto;
+  }
+}
+
+/* Tablet&スマホ横*/
+@media (max-width: 960px) {
+.rwdBox2 {
+    display: block;
+  }
+  
+  .rwdBox2 {
+    height: 80%;
+  }
+  
+  .tableTest {
+    height: 50%;
+    width:100%;
+    margin: 0 auto;
+    height: auto;
+  }
+}
+
+/* 背景ドット */
+#model_section {
+ background-color   : #5ba9ff;
+  background-image   : radial-gradient(#ffffff 20%, transparent 23%),
+                       radial-gradient(#ffffff 20%, transparent 23%);
+  background-position: 0 0, 6px 6px;
+  background-size    : 12px 12px;
+}
+
+
+
+/* パンくずリスト */
+.breadcrumbs {
+    display: inline-block;
+    margin: 20px 0 0;
+    counter-reset: flag;
+    color: black;
+    box-shadow: 0 0 2px #aaa;
+}
+
+.breadcrumbs a {
+    position: relative;
+    float: left;
+    padding-left: 30px;
+    padding-right: 10px;
+    text-decoration: none;
+    line-height: 36px;
+    color: black;
+    background: white;
+    transition: all 0.5s;
+}
+
+.breadcrumbs a::after {
+    content: '';
+    position: absolute;
+    top: 0;
+    right: -18px;
+    z-index: 1;
+    width: 36px;
+    height: 36px;
+    background: white;
+    box-shadow: 1px 1px 0 1px #ddd;
+    border-radius: 50px 0 0 0;
+    transform: rotate(-45deg) scale(0.73);
+    transition: all 0.5s;
+}
+
+.breadcrumbs a:hover,
+.breadcrumbs a:hover::after,
+.breadcrumbs a.active,
+.breadcrumbs a.active::after{
+    background: #f1c40f;
+}
+
+.breadcrumbs a::before {
+    /* content: counter(flag);
+    /* counter-increment: flag; */
+    position: absolute;
+    top: 8px;
+    left: 30px;
+    line-height: 20px;
+    box-shadow: 0 0 2px #ccc;
+    width: 20px;
+    height: 20px;
+    background: #fff;
+    border-radius: 50%;
+}
+
+.breadcrumbs a:first-child {
+    padding-left: 46px;
+}
+
+.breadcrumbs a:first-child::before {
+    left: 14px;
 }
