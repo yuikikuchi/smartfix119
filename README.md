@@ -7,4 +7,4 @@ https://smartfix119.com
 
 ### javadoc
 
-https://yuikikuchi.github.io/smartfix119/document
+https://yuikikuchi.github.io/smartfix119/document/index.html
