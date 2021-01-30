@@ -5,11 +5,22 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;
 import org.springframework.web.bind.annotation.ResponseBody;
 
+/**
+ * サイトマップ用コントローラ.
+ * 
+ * @author Yui Kikuchi
+ * @version 1.0.0
+ */
 @Controller
 public class SitemapController {
 
-	@RequestMapping(value = "/sitemap.xml", method = RequestMethod.GET)
+	/**
+	 * サイトマップの描画処理.
+	 * 
+	 * @return xmlUrlSetの返却
+	 */
 	@ResponseBody
+	@RequestMapping(value = "/sitemap.xml", method = RequestMethod.GET)
 	public XmlUrlSet main() {
 		XmlUrlSet xmlUrlSet = new XmlUrlSet();
 		create(xmlUrlSet, "", XmlUrl.Priority.HIGH);
@@ -67,6 +78,9 @@ public class SitemapController {
 		return xmlUrlSet;
 	}
 
+	/**
+	 * サイトマップのパス生成.
+	 */
 	private void create(XmlUrlSet xmlUrlSet, String link, XmlUrl.Priority priority) {
 		xmlUrlSet.addUrl(new XmlUrl("https://smartfix119.com" + link, priority));
 	}

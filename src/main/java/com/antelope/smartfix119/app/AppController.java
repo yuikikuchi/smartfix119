@@ -22,6 +22,13 @@ import com.antelope.smartfix119.domain.service.MakerListService;
 import com.antelope.smartfix119.domain.service.NewsListService;
 import com.antelope.smartfix119.domain.service.ShopListService;
 
+/**
+ * トップページ用コントローラ.<br>
+ * ニュース、料金表、おすすめ店舗、端末メーカーを表示.
+ * 
+ * @author Yui Kikuchi
+ * @version 1.0.0
+ */
 @Controller
 @RequestMapping("/")
 @Mapper
@@ -29,16 +36,25 @@ public class AppController {
 
 	@Inject
 	NewsListService newsListService;
-	
+
 	@Inject
 	ChargeListService chargeListService;
-	
+
 	@Inject
 	ShopListService shopListService;
-	
+
 	@Inject
 	MakerListService makerListService;
 
+	/**
+	 * トップページの描画処理.<br>
+	 * ニュース、料金表、おすすめ店舗、端末メーカーを表示.
+	 * 
+	 * @param model   ビューのレンダリングに使用する属性
+	 * @param session リクエストに対するセッション情報
+	 * @param request HTTPサーブレットのリクエスト情報
+	 * @return top.jspの返却
+	 */
 	@GetMapping("")
 	public String top(Model model, HttpSession session, HttpServletRequest request) {
 		List<NewsListEntity> newsList = newsListService.findAll();
@@ -50,17 +66,11 @@ public class AppController {
 		model.addAttribute("shopList", shopList);
 		model.addAttribute("contactForm", new ContactForm());
 		model.addAttribute("makerList", makerList);
-		
+
 		// HttpSessionインスタンスの取得（パンくずリスト用）
 		session = request.getSession();
 		session.setAttribute("session", "top");
 
 		return "top";
 	}
-	
-//	@GetMapping("model")
-//	public String model(Model model) {
-//		return "model";
-//	}
-	
 }

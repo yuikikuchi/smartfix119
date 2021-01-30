@@ -23,9 +23,15 @@ import com.antelope.smartfix119.domain.service.AreaListService;
 import com.antelope.smartfix119.domain.service.MakerListService;
 import com.antelope.smartfix119.domain.service.ShopListService;
 
+/**
+ * 店舗検索用コントローラ.
+ * 
+ * @author Yui Kikuchi
+ * @version 1.0.0
+ */
+@Mapper
 @Controller
 @RequestMapping("/")
-@Mapper
 public class SearchController {
 
 	@Inject
@@ -33,34 +39,26 @@ public class SearchController {
 
 	@Inject
 	ShopListService shopListService;
-	
+
 	@Inject
 	MakerListService makerListService;
 
 	/**
-	 * 店舗検索
+	 * 店舗検索ページの描画処理.
 	 * 
-	 * @param area
-	 * @param model
+	 * @param model    ビューのレンダリングに使用する属性
+	 * @param area     都道府県情報
+	 * @param pageable ページ情報
+	 * @param session  リクエストに対するセッション情報
+	 * @param request  HTTPサーブレットのリクエスト情報
+	 * @return searchの返却
 	 */
-	/*
-	 * @GetMapping("search") public String search(@RequestParam(defaultValue =
-	 * "NOT PARAM") String area, Pageable pageable, Model model) {
-	 * 
-	 * AreaListEntity areaList = areaListService.searchArea(area);
-	 * List<ShopListEntity> shopList = new
-	 * ArrayList<>(shopListService.findByAreaNo(areaList.getArea2No())); //
-	 * 各店舗をランダム表示 Collections.shuffle(shopList); model.addAttribute("areaList",
-	 * areaList); model.addAttribute("shopList", shopList); return "search"; }
-	 */
-
 	@GetMapping("search")
-	public String searchTest(@RequestParam(defaultValue = "NOT PARAM") String area,
-			@PageableDefault(page = 0, size = 8) Pageable pageable, Model model, HttpSession session,
-			HttpServletRequest request) {
+	public String searchTest(Model model, @RequestParam(defaultValue = "NOT PARAM") String area,
+			@PageableDefault(page = 0, size = 8) Pageable pageable, HttpSession session, HttpServletRequest request) {
 
 		if (!area.equals("NOT PARAM")) {
-			session.setAttribute("area",area);
+			session.setAttribute("area", area);
 		}
 
 		AreaListEntity areaList = areaListService.searchArea((String) session.getAttribute("area"));
@@ -69,7 +67,7 @@ public class SearchController {
 		model.addAttribute("page", page);
 		model.addAttribute("areaList", areaList);
 		model.addAttribute("makerList", makerList);
-		
+
 		// HttpSessionインスタンスの取得（パンくずリスト用）
 		session = request.getSession();
 		session.setAttribute("session", "search");
@@ -77,20 +75,30 @@ public class SearchController {
 
 		return "search";
 	}
-	
+
+	/**
+	 * 端末情報ページの描画処理.
+	 * 
+	 * @param model     ビューのレンダリングに使用する属性
+	 * @param modelName 端末名
+	 * @param session   リクエストに対するセッション情報
+	 * @param request   HTTPサーブレットのリクエスト情報
+	 * @return model.jspの返却
+	 */
+
 	@GetMapping("model")
-	public String searchModel(@RequestParam(defaultValue = "NOT PARAM") String modelName, Model model,
+	public String searchModel(Model model, @RequestParam(defaultValue = "NOT PARAM") String modelName,
 			HttpSession session, HttpServletRequest request) {
 
 		if (!modelName.equals("NOT PARAM")) {
-			session.setAttribute("modelName",modelName);
+			session.setAttribute("modelName", modelName);
 		}
-		
+
 		List<MakerListEntity> makerList = makerListService.searchMaker();
 		List<MakerListEntity> modelList = makerListService.searchMaker(modelName);
 		model.addAttribute("makerList", makerList);
 		model.addAttribute("modelList", modelList);
-		
+
 		// HttpSessionインスタンスの取得（パンくずリスト用）
 //		session = request.getSession();
 //		session.setAttribute("session", "model");

@@ -15,10 +15,20 @@ import org.springframework.stereotype.Service;
 
 import com.antelope.smartfix119.domain.model.Contact;
 
+/**
+ * 問い合わせサービス.
+ * 
+ * @author Yui Kikuchi
+ * @version 1.0.0
+ */
 @Service
 public class ContactServiceImple implements ContactService {
 
-	// メール送信
+	/**
+	 * 問い合わせメールの送信（相手）
+	 * 
+	 * @param contact 問い合わせ情報
+	 */
 	@Override
 	public void replyMail(Contact contact) {
 		try {
@@ -56,9 +66,10 @@ public class ContactServiceImple implements ContactService {
 					+ "平素より弊サイトをご利用いただき、誠にありがとうございます。 \n" + "以下の内容でお問い合わせを受け付けいたしました。 \n" + " \n"
 					+ "━━━━━━□■□　お問い合わせ内容　□■□━━━━━━ \n" + "お名前：" + contact.getName() + " \n" + "E-Mail："
 					+ contact.getMailAddress() + " \n" + "電話番号：" + contact.getPhone() + " \n" + " \n" + "お問い合わせ内容："
-					+ contact.getSubject() + " \n" + contact.getMessage() + " \n" + " \n" + "━━━━━━━━━━━━━━━━━━━━━━━━━━━━ \n"
-					+ " \n" + "受付日時：" + recepDate + " \n" + " \n" + "担当者より、追ってご回答させていただきます。 \n" + " \n"
-					+ "スマホ・タブレット修理のキュレーションメディア【SmartFix119】 \n" + "https://smartfix119.com/ \n" + " \n";
+					+ contact.getSubject() + " \n" + contact.getMessage() + " \n" + " \n"
+					+ "━━━━━━━━━━━━━━━━━━━━━━━━━━━━ \n" + " \n" + "受付日時：" + recepDate + " \n" + " \n"
+					+ "担当者より、追ってご回答させていただきます。 \n" + " \n" + "スマホ・タブレット修理のキュレーションメディア【SmartFix119】 \n"
+					+ "https://smartfix119.com/ \n" + " \n";
 
 			mimeMessage.setSubject(title, "ISO-2022-JP");
 			mimeMessage.setText(text, "ISO-2022-JP");
@@ -71,6 +82,11 @@ public class ContactServiceImple implements ContactService {
 		}
 	}
 
+	/**
+	 * 問い合わせメールの送信（自分）
+	 * 
+	 * @param contact 問い合わせ情報
+	 */
 	@Override
 	public void mailSend(Contact contact) {
 		try {
