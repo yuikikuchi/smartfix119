@@ -20,7 +20,7 @@
               </c:if>
               </c:forEach>
             </table>
-            <%-- <li>
+            <li>
               <a data-toggle="collapse" href="#menu11" aria-controls="#menu11" aria-expanded="false">SHARP</a>
             </li>
             <table id="menu11" class="collapse charge_table" data-parent="#accordion_menu">
@@ -32,12 +32,12 @@
               <c:set var="makerName" value="${f:h(makerList.makerName)}" />
               <c:if test="${makerName == 'SHARP'}">
                 <tr class="charge_list">
-                  <th>${f:h(makerList.modelName)}</th>
+                  <th><a href="<c:url value="/model"><c:param name="modelName" value="${f:h(makerList.modelName)}" /></c:url>">${f:h(makerList.modelName)}</a></th>
                   <td>${f:h(makerList.releaseDay)}</td>
                 </tr>
               </c:if>
               </c:forEach>
-            </table> --%>
+            </table>
           </ul>
 </section>
 <hr>
