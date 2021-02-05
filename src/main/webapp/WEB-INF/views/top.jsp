@@ -9,8 +9,6 @@
       </div> 
     </div>
   </section>
-  
-  <a href="<c:url value="/model"></c:url>">モデル</a>
 
   <!-- OVERVIEW SECTION -->
   <section id="home_section" class="fdb-block section_box_top">
