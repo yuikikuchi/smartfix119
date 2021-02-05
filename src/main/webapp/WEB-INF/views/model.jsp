@@ -20,7 +20,7 @@
         <div class="rwdBox">
         
           <div class="cssTest">
-            <img alt="image" class="img-fluid" src="${pageContext.request.contextPath}/resources/app/img/model/Apple/${f:h(modelList.modelName)}.png">
+            <img alt="image" class="img-fluid" src="${pageContext.request.contextPath}/resources/app/img/model/${f:h(modelList.makerName)}/${f:h(modelList.modelName)}.png">
           </div>
           <div class="cssTest2">
               <h1>${f:h(modelList.modelName)}</h1>
