@@ -31,6 +31,7 @@ public class SitemapController {
 		create(xmlUrlSet, "/#news_section", XmlUrl.Priority.MEDIUM);
 		create(xmlUrlSet, "/#maker_section", XmlUrl.Priority.MEDIUM);
 		create(xmlUrlSet, "/#contact_section", XmlUrl.Priority.MEDIUM);
+
 		// Area
 		create(xmlUrlSet, "/search?area=hokkaido", XmlUrl.Priority.MEDIUM);
 		create(xmlUrlSet, "/search?area=aomori", XmlUrl.Priority.MEDIUM);
@@ -83,6 +84,132 @@ public class SitemapController {
 		create(xmlUrlSet, "/search?area=usedshop", XmlUrl.Priority.MEDIUM);
 		create(xmlUrlSet, "/search?area=purchaseshop", XmlUrl.Priority.MEDIUM);
 		create(xmlUrlSet, "/search?area=partsshop", XmlUrl.Priority.MEDIUM);
+
+		// Area Pages 北海道・東北
+		create(xmlUrlSet, "/search?page=0&size=8&area=hokkaido", XmlUrl.Priority.MEDIUM);
+		create(xmlUrlSet, "/search?page=1&size=8&area=hokkaido", XmlUrl.Priority.MEDIUM);
+		create(xmlUrlSet, "/search?page=2&size=8&area=hokkaido", XmlUrl.Priority.MEDIUM);
+		create(xmlUrlSet, "/search?page=0&size=8&area=aomori", XmlUrl.Priority.MEDIUM);
+		create(xmlUrlSet, "/search?page=0&size=8&area=iwate", XmlUrl.Priority.MEDIUM);
+		create(xmlUrlSet, "/search?page=0&size=8&area=miyagi", XmlUrl.Priority.MEDIUM);
+		create(xmlUrlSet, "/search?page=1&size=8&area=miyagi", XmlUrl.Priority.MEDIUM);
+		create(xmlUrlSet, "/search?page=0&size=8&area=akita", XmlUrl.Priority.MEDIUM);
+		create(xmlUrlSet, "/search?page=0&size=8&area=yamagata", XmlUrl.Priority.MEDIUM);
+		create(xmlUrlSet, "/search?page=0&size=8&area=fukushima", XmlUrl.Priority.MEDIUM);
+
+		// Area Pages 関東
+		create(xmlUrlSet, "/search?page=0&size=8&area=ibaraki", XmlUrl.Priority.MEDIUM);
+		create(xmlUrlSet, "/search?page=0&size=8&area=tochigi", XmlUrl.Priority.MEDIUM);
+		create(xmlUrlSet, "/search?page=1&size=8&area=tochigi", XmlUrl.Priority.MEDIUM);
+		create(xmlUrlSet, "/search?page=0&size=8&area=gunma", XmlUrl.Priority.MEDIUM);
+		create(xmlUrlSet, "/search?page=1&size=8&area=gunma", XmlUrl.Priority.MEDIUM);
+		create(xmlUrlSet, "/search?page=0&size=8&area=saitama", XmlUrl.Priority.MEDIUM);
+		create(xmlUrlSet, "/search?page=1&size=8&area=saitama", XmlUrl.Priority.MEDIUM);
+		create(xmlUrlSet, "/search?page=2&size=8&area=saitama", XmlUrl.Priority.MEDIUM);
+		create(xmlUrlSet, "/search?page=3&size=8&area=saitama", XmlUrl.Priority.MEDIUM);
+		create(xmlUrlSet, "/search?page=4&size=8&area=saitama", XmlUrl.Priority.MEDIUM);
+		create(xmlUrlSet, "/search?page=5&size=8&area=saitama", XmlUrl.Priority.MEDIUM);
+		create(xmlUrlSet, "/search?page=6&size=8&area=saitama", XmlUrl.Priority.MEDIUM);
+		create(xmlUrlSet, "/search?page=0&size=8&area=chiba", XmlUrl.Priority.MEDIUM);
+		create(xmlUrlSet, "/search?page=1&size=8&area=chiba", XmlUrl.Priority.MEDIUM);
+		create(xmlUrlSet, "/search?page=2&size=8&area=chiba", XmlUrl.Priority.MEDIUM);
+		create(xmlUrlSet, "/search?page=3&size=8&area=chiba", XmlUrl.Priority.MEDIUM);
+		create(xmlUrlSet, "/search?page=4&size=8&area=chiba", XmlUrl.Priority.MEDIUM);
+		create(xmlUrlSet, "/search?page=0&size=8&area=tokyo", XmlUrl.Priority.MEDIUM);
+		create(xmlUrlSet, "/search?page=1&size=8&area=tokyo", XmlUrl.Priority.MEDIUM);
+		create(xmlUrlSet, "/search?page=2&size=8&area=tokyo", XmlUrl.Priority.MEDIUM);
+		create(xmlUrlSet, "/search?page=3&size=8&area=tokyo", XmlUrl.Priority.MEDIUM);
+		create(xmlUrlSet, "/search?page=4&size=8&area=tokyo", XmlUrl.Priority.MEDIUM);
+		create(xmlUrlSet, "/search?page=5&size=8&area=tokyo", XmlUrl.Priority.MEDIUM);
+		create(xmlUrlSet, "/search?page=6&size=8&area=tokyo", XmlUrl.Priority.MEDIUM);
+		create(xmlUrlSet, "/search?page=7&size=8&area=tokyo", XmlUrl.Priority.MEDIUM);
+		create(xmlUrlSet, "/search?page=8&size=8&area=tokyo", XmlUrl.Priority.MEDIUM);
+		create(xmlUrlSet, "/search?page=9&size=8&area=tokyo", XmlUrl.Priority.MEDIUM);
+		create(xmlUrlSet, "/search?page=10&size=8&area=tokyo", XmlUrl.Priority.MEDIUM);
+		create(xmlUrlSet, "/search?page=11&size=8&area=tokyo", XmlUrl.Priority.MEDIUM);
+		create(xmlUrlSet, "/search?page=12&size=8&area=tokyo", XmlUrl.Priority.MEDIUM);
+		create(xmlUrlSet, "/search?page=13&size=8&area=tokyo", XmlUrl.Priority.MEDIUM);
+		create(xmlUrlSet, "/search?page=14&size=8&area=tokyo", XmlUrl.Priority.MEDIUM);
+		create(xmlUrlSet, "/search?page=15&size=8&area=tokyo", XmlUrl.Priority.MEDIUM);
+		create(xmlUrlSet, "/search?page=16&size=8&area=tokyo", XmlUrl.Priority.MEDIUM);
+		create(xmlUrlSet, "/search?page=17&size=8&area=tokyo", XmlUrl.Priority.MEDIUM);
+		create(xmlUrlSet, "/search?page=18&size=8&area=tokyo", XmlUrl.Priority.MEDIUM);
+		create(xmlUrlSet, "/search?page=19&size=8&area=tokyo", XmlUrl.Priority.MEDIUM);
+		create(xmlUrlSet, "/search?page=20&size=8&area=tokyo", XmlUrl.Priority.MEDIUM);
+		create(xmlUrlSet, "/search?page=21&size=8&area=tokyo", XmlUrl.Priority.MEDIUM);
+		create(xmlUrlSet, "/search?page=22&size=8&area=tokyo", XmlUrl.Priority.MEDIUM);
+		create(xmlUrlSet, "/search?page=23&size=8&area=tokyo", XmlUrl.Priority.MEDIUM);
+		create(xmlUrlSet, "/search?page=24&size=8&area=tokyo", XmlUrl.Priority.MEDIUM);
+		create(xmlUrlSet, "/search?page=0&size=8&area=kanagawa", XmlUrl.Priority.MEDIUM);
+		create(xmlUrlSet, "/search?page=1&size=8&area=kanagawa", XmlUrl.Priority.MEDIUM);
+		create(xmlUrlSet, "/search?page=2&size=8&area=kanagawa", XmlUrl.Priority.MEDIUM);
+		create(xmlUrlSet, "/search?page=3&size=8&area=kanagawa", XmlUrl.Priority.MEDIUM);
+		create(xmlUrlSet, "/search?page=4&size=8&area=kanagawa", XmlUrl.Priority.MEDIUM);
+		create(xmlUrlSet, "/search?page=5&size=8&area=kanagawa", XmlUrl.Priority.MEDIUM);
+		create(xmlUrlSet, "/search?page=6&size=8&area=kanagawa", XmlUrl.Priority.MEDIUM);
+		create(xmlUrlSet, "/search?page=7&size=8&area=kanagawa", XmlUrl.Priority.MEDIUM);
+		create(xmlUrlSet, "/search?page=8&size=8&area=kanagawa", XmlUrl.Priority.MEDIUM);
+
+		// Area Pages 北陸・甲信越
+		create(xmlUrlSet, "/search?page=0&size=8&area=niigata", XmlUrl.Priority.MEDIUM);
+		create(xmlUrlSet, "/search?page=0&size=8&area=toyama", XmlUrl.Priority.MEDIUM);
+		create(xmlUrlSet, "/search?page=0&size=8&area=ishikawa", XmlUrl.Priority.MEDIUM);
+		create(xmlUrlSet, "/search?page=0&size=8&area=fukui", XmlUrl.Priority.MEDIUM);
+		create(xmlUrlSet, "/search?page=0&size=8&area=yamanashi", XmlUrl.Priority.MEDIUM);
+		create(xmlUrlSet, "/search?page=0&size=8&area=nagano", XmlUrl.Priority.MEDIUM);
+		create(xmlUrlSet, "/search?page=1&size=8&area=nagano", XmlUrl.Priority.MEDIUM);
+
+		// Area Pages 東海
+		create(xmlUrlSet, "/search?page=0&size=8&area=gifu", XmlUrl.Priority.MEDIUM);
+		create(xmlUrlSet, "/search?page=0&size=8&area=shizuoka", XmlUrl.Priority.MEDIUM);
+		create(xmlUrlSet, "/search?page=1&size=8&area=shizuoka", XmlUrl.Priority.MEDIUM);
+		create(xmlUrlSet, "/search?page=2&size=8&area=shizuoka", XmlUrl.Priority.MEDIUM);
+		create(xmlUrlSet, "/search?page=3&size=8&area=shizuoka", XmlUrl.Priority.MEDIUM);
+		create(xmlUrlSet, "/search?page=0&size=8&area=aichi", XmlUrl.Priority.MEDIUM);
+		create(xmlUrlSet, "/search?page=1&size=8&area=aichi", XmlUrl.Priority.MEDIUM);
+		create(xmlUrlSet, "/search?page=2&size=8&area=aichi", XmlUrl.Priority.MEDIUM);
+		create(xmlUrlSet, "/search?page=3&size=8&area=aichi", XmlUrl.Priority.MEDIUM);
+		create(xmlUrlSet, "/search?page=0&size=8&area=mie", XmlUrl.Priority.MEDIUM);
+		create(xmlUrlSet, "/search?page=1&size=8&area=mie", XmlUrl.Priority.MEDIUM);
+
+		// Area Pages 近畿
+		create(xmlUrlSet, "/search?page=0&size=8&area=shiga", XmlUrl.Priority.MEDIUM);
+		create(xmlUrlSet, "/search?page=0&size=8&area=kyoto", XmlUrl.Priority.MEDIUM);
+		create(xmlUrlSet, "/search?page=0&size=8&area=osaka", XmlUrl.Priority.MEDIUM);
+		create(xmlUrlSet, "/search?page=1&size=8&area=osaka", XmlUrl.Priority.MEDIUM);
+		create(xmlUrlSet, "/search?page=2&size=8&area=osaka", XmlUrl.Priority.MEDIUM);
+		create(xmlUrlSet, "/search?page=3&size=8&area=osaka", XmlUrl.Priority.MEDIUM);
+		create(xmlUrlSet, "/search?page=0&size=8&area=hyogo", XmlUrl.Priority.MEDIUM);
+		create(xmlUrlSet, "/search?page=1&size=8&area=hyogo", XmlUrl.Priority.MEDIUM);
+		create(xmlUrlSet, "/search?page=2&size=8&area=hyogo", XmlUrl.Priority.MEDIUM);
+		create(xmlUrlSet, "/search?page=0&size=8&area=nara", XmlUrl.Priority.MEDIUM);
+		create(xmlUrlSet, "/search?page=0&size=8&area=wakayama", XmlUrl.Priority.MEDIUM);
+
+		// Area Pages 中国・四国
+		create(xmlUrlSet, "/search?page=0&size=8&area=tottori", XmlUrl.Priority.MEDIUM);
+		create(xmlUrlSet, "/search?page=0&size=8&area=shimane", XmlUrl.Priority.MEDIUM);
+		create(xmlUrlSet, "/search?page=0&size=8&area=okayama", XmlUrl.Priority.MEDIUM);
+		create(xmlUrlSet, "/search?page=0&size=8&area=hiroshima", XmlUrl.Priority.MEDIUM);
+		create(xmlUrlSet, "/search?page=1&size=8&area=hiroshima", XmlUrl.Priority.MEDIUM);
+		create(xmlUrlSet, "/search?page=0&size=8&area=yamaguchi", XmlUrl.Priority.MEDIUM);
+		create(xmlUrlSet, "/search?page=0&size=8&area=tokushima", XmlUrl.Priority.MEDIUM);
+		create(xmlUrlSet, "/search?page=0&size=8&area=kagawa", XmlUrl.Priority.MEDIUM);
+		create(xmlUrlSet, "/search?page=0&size=8&area=ehime", XmlUrl.Priority.MEDIUM);
+		create(xmlUrlSet, "/search?page=1&size=8&area=ehime", XmlUrl.Priority.MEDIUM);
+		create(xmlUrlSet, "/search?page=0&size=8&area=kochi", XmlUrl.Priority.MEDIUM);
+
+		// Area Pages 九州
+		create(xmlUrlSet, "/search?page=0&size=8&area=fukuoka", XmlUrl.Priority.MEDIUM);
+		create(xmlUrlSet, "/search?page=1&size=8&area=fukuoka", XmlUrl.Priority.MEDIUM);
+		create(xmlUrlSet, "/search?page=2&size=8&area=fukuoka", XmlUrl.Priority.MEDIUM);
+		create(xmlUrlSet, "/search?page=0&size=8&area=saga", XmlUrl.Priority.MEDIUM);
+		create(xmlUrlSet, "/search?page=0&size=8&area=nagasaki", XmlUrl.Priority.MEDIUM);
+		create(xmlUrlSet, "/search?page=0&size=8&area=kumamoto", XmlUrl.Priority.MEDIUM);
+		create(xmlUrlSet, "/search?page=0&size=8&area=oita", XmlUrl.Priority.MEDIUM);
+		create(xmlUrlSet, "/search?page=0&size=8&area=miyazaki", XmlUrl.Priority.MEDIUM);
+		create(xmlUrlSet, "/search?page=0&size=8&area=kagoshima", XmlUrl.Priority.MEDIUM);
+		create(xmlUrlSet, "/search?page=0&size=8&area=okinawa", XmlUrl.Priority.MEDIUM);
+
 		// Apple
 		create(xmlUrlSet, "/model?modelName=iPhone3G", XmlUrl.Priority.MEDIUM);
 		create(xmlUrlSet, "/model?modelName=iPhone3GS", XmlUrl.Priority.MEDIUM);
@@ -112,6 +239,7 @@ public class SitemapController {
 		create(xmlUrlSet, "/model?modelName=iPhone12+Pro", XmlUrl.Priority.MEDIUM);
 		create(xmlUrlSet, "/model?modelName=iPhone12+mini", XmlUrl.Priority.MEDIUM);
 		create(xmlUrlSet, "/model?modelName=iPhone12+Pro+Max", XmlUrl.Priority.MEDIUM);
+
 		// SHARP
 		create(xmlUrlSet, "/model?modelName=SH2101V", XmlUrl.Priority.MEDIUM);
 		create(xmlUrlSet, "/model?modelName=LYNX+SH-10B", XmlUrl.Priority.MEDIUM);
@@ -145,6 +273,7 @@ public class SitemapController {
 		create(xmlUrlSet, "/model?modelName=DM013SH", XmlUrl.Priority.MEDIUM);
 		create(xmlUrlSet, "/model?modelName=DM014SH", XmlUrl.Priority.MEDIUM);
 		create(xmlUrlSet, "/model?modelName=DM016SH", XmlUrl.Priority.MEDIUM);
+
 		// SHARP(AQUOS)
 		create(xmlUrlSet, "/model?modelName=AQUOS+ZETA+SH-04F", XmlUrl.Priority.MEDIUM);
 		create(xmlUrlSet, "/model?modelName=AQUOS+ZETA+SH-01G", XmlUrl.Priority.MEDIUM);
