@@ -26,32 +26,32 @@ public class ShopListEntity {
 	/**
 	 * 住所１
 	 */
-	private String location1;
+	private String location01;
 
 	/**
 	 * 住所２
 	 */
-	private String location2;
+	private String location02;
 
 	/**
 	 * 電話番号１
 	 */
-	private String phoneNo1;
+	private String phoneNo01;
 
 	/**
 	 * 電話番号２
 	 */
-	private String phoneNo2;
+	private String phoneNo02;
 
 	/**
 	 * 営業時間１
 	 */
-	private String businessHour1;
+	private String businessHour01;
 
 	/**
 	 * 営業時間２
 	 */
-	private String businessHour2;
+	private String businessHour02;
 
 	/**
 	 * 定休日
@@ -66,12 +66,12 @@ public class ShopListEntity {
 	/**
 	 * エリア１ID
 	 */
-	private String area1Id;
+	private String area01Id;
 
 	/**
 	 * エリア２ID
 	 */
-	private String area2Id;
+	private String area02Id;
 
 	/**
 	 * マップ
@@ -117,87 +117,87 @@ public class ShopListEntity {
 	}
 
 	/**
-	 * {@link ShopListEntity#location1}
+	 * {@link ShopListEntity#location01}
 	 */
-	public String getLocation1() {
-		return location1;
+	public String getLocation01() {
+		return location01;
 	}
 
 	/**
-	 * {@link ShopListEntity#location1}
+	 * {@link ShopListEntity#location01}
 	 */
-	public void setLocation1(String location1) {
-		this.location1 = location1;
+	public void setLocation01(String location01) {
+		this.location01 = location01;
 	}
 
 	/**
-	 * {@link ShopListEntity#location2}
+	 * {@link ShopListEntity#location02}
 	 */
-	public String getLocation2() {
-		return location2;
+	public String getLocation02() {
+		return location02;
 	}
 
 	/**
-	 * {@link ShopListEntity#location2}
+	 * {@link ShopListEntity#location02}
 	 */
-	public void setLocation2(String location2) {
-		this.location2 = location2;
+	public void setLocation02(String location02) {
+		this.location02 = location02;
 	}
 
 	/**
-	 * {@link ShopListEntity#phoneNo1}
+	 * {@link ShopListEntity#phoneNo01}
 	 */
-	public String getPhoneNo1() {
-		return phoneNo1;
+	public String getPhoneNo01() {
+		return phoneNo01;
 	}
 
 	/**
-	 * {@link ShopListEntity#phoneNo1}
+	 * {@link ShopListEntity#phoneNo01}
 	 */
-	public void setPhoneNo1(String phoneNo1) {
-		this.phoneNo1 = phoneNo1;
+	public void setPhoneNo01(String phoneNo01) {
+		this.phoneNo01 = phoneNo01;
 	}
 
 	/**
-	 * {@link ShopListEntity#phoneNo2}
+	 * {@link ShopListEntity#phoneNo02}
 	 */
-	public String getPhoneNo2() {
-		return phoneNo2;
+	public String getPhoneNo02() {
+		return phoneNo02;
 	}
 
 	/**
-	 * {@link ShopListEntity#phoneNo2}
+	 * {@link ShopListEntity#phoneNo02}
 	 */
-	public void setPhoneNo2(String phoneNo2) {
-		this.phoneNo2 = phoneNo2;
+	public void setPhoneNo02(String phoneNo02) {
+		this.phoneNo02 = phoneNo02;
 	}
 
 	/**
-	 * {@link ShopListEntity#businessHour1}
+	 * {@link ShopListEntity#businessHour01}
 	 */
-	public String getBusinessHour1() {
-		return businessHour1;
+	public String getBusinessHour01() {
+		return businessHour01;
 	}
 
 	/**
-	 * {@link ShopListEntity#businessHour1}
+	 * {@link ShopListEntity#businessHour01}
 	 */
-	public void setBusinessHour1(String businessHour1) {
-		this.businessHour1 = businessHour1;
+	public void setBusinessHour01(String businessHour01) {
+		this.businessHour01 = businessHour01;
 	}
 
 	/**
-	 * {@link ShopListEntity#businessHour2}
+	 * {@link ShopListEntity#businessHour02}
 	 */
-	public String getBusinessHour2() {
-		return businessHour2;
+	public String getBusinessHour02() {
+		return businessHour02;
 	}
 
 	/**
-	 * {@link ShopListEntity#businessHour2}
+	 * {@link ShopListEntity#businessHour02}
 	 */
-	public void setBusinessHour2(String businessHour2) {
-		this.businessHour2 = businessHour2;
+	public void setBusinessHour02(String businessHour02) {
+		this.businessHour02 = businessHour02;
 	}
 
 	/**
@@ -229,31 +229,31 @@ public class ShopListEntity {
 	}
 
 	/**
-	 * {@link ShopListEntity#area1Id}
+	 * {@link ShopListEntity#area01Id}
 	 */
-	public String getArea1Id() {
-		return area1Id;
+	public String getArea01Id() {
+		return area01Id;
 	}
 
 	/**
-	 * {@link ShopListEntity#area1Id}
+	 * {@link ShopListEntity#area01Id}
 	 */
-	public void setArea1Id(String area1Id) {
-		this.area1Id = area1Id;
+	public void setArea01Id(String area01Id) {
+		this.area01Id = area01Id;
 	}
 
 	/**
-	 * {@link ShopListEntity#area2Id}
+	 * {@link ShopListEntity#area02Id}
 	 */
-	public String getArea2Id() {
-		return area2Id;
+	public String getArea02Id() {
+		return area02Id;
 	}
 
 	/**
-	 * {@link ShopListEntity#area2Id}
+	 * {@link ShopListEntity#area02Id}
 	 */
-	public void setArea2Id(String area2Id) {
-		this.area2Id = area2Id;
+	public void setArea02Id(String area02Id) {
+		this.area02Id = area02Id;
 	}
 
 	/**

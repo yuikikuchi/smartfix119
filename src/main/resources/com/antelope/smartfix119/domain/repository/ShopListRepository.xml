@@ -9,16 +9,16 @@
     <resultMap id="shopListResultMap" type="ShopListEntity">
         <id property="shopId" column="shop_id" />
         <result property="shopName" column="shop_name" />
-        <result property="location1" column="location_01" />
-        <result property="location2" column="location_02" />
-        <result property="phoneNo1" column="phone_no_01" />
-        <result property="phoneNo2" column="phone_no_02" />
-        <result property="businessHour1" column="business_hour_01" />
-        <result property="businessHour2" column="business_hour_02" />
+        <result property="location01" column="location_01" />
+        <result property="location02" column="location_02" />
+        <result property="phoneNo01" column="phone_no_01" />
+        <result property="phoneNo02" column="phone_no_02" />
+        <result property="businessHour01" column="business_hour_01" />
+        <result property="businessHour02" column="business_hour_02" />
         <result property="holidays" column="holidays" />
         <result property="shopSite" column="shop_site" />
-        <result property="area1Id" column="area_01_id" />
-        <result property="area2Id" column="area_02_id" />
+        <result property="area01Id" column="area_01_id" />
+        <result property="area02Id" column="area_02_id" />
         <result property="map" column="map" />
         <result property="introduction" column="introduction" />
     </resultMap>
