@@ -5,7 +5,7 @@
     <a class="active">${f:h(areaList.area2Name)}</a>
   </div>
   <hr>
-    <h2><b>${f:h(areaList.area2Name)} エリア</b></h2>
+  <h2><b>${f:h(areaList.area2Name)} エリア</b></h2>
   
   <div>
     <p>※新型コロナウイルス（COVID-19）の影響により営業時間やサービス内容が異なる場合があります。</p>
@@ -28,8 +28,8 @@
             <iframe src="${f:h(shopList.map)}"></iframe>
           </div>
           <div class="desc-box">
-            <p class="desc2">${f:h(shopList.location1)}<br></p>
-            <p class="desc2">${f:h(shopList.location2)}<br></p>
+            <p class="desc2">${f:h(shopList.location01)}<br></p>
+            <p class="desc2">${f:h(shopList.location02)}<br></p>
             <a class="btn card_btn" href="${f:h(shopList.shopSite)}" onclick="gtag('event', 'READ MORE', {'event_category': 'HPクリック', 'event_label': '${f:h(shopList.shopName)}'});" role="button">Read More</a>
           </div>
         </div>
@@ -44,8 +44,8 @@
             <p class="desc1">【店舗紹介】<br><!-- 100文字 -->
             </p>
             <p class="desc2">
-                                 営業時間：${f:h(shopList.businessHour1)}<br>
-                                電話番号：<a href="tel:${f:h(shopList.phoneNo1)}" onClick="gtag('event', '電話番号', {'event_category': '番号タップ', 'event_label': '${f:h(shopList.shopName)}', 'value': '0'});">${f:h(shopList.phoneNo1)}</a><br>
+                                 営業時間：${f:h(shopList.businessHour01)}<br>
+                                電話番号：<a href="tel:${f:h(shopList.phoneNo01)}" onClick="gtag('event', '電話番号', {'event_category': '番号タップ', 'event_label': '${f:h(shopList.shopName)}', 'value': '0'});">${f:h(shopList.phoneNo01)}</a><br>
                                 定休日　：${f:h(shopList.holidays)}</p>
           </div>
         </div>
