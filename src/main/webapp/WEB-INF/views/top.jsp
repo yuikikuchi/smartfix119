@@ -91,8 +91,8 @@
             <iframe src="${f:h(shopList.map)}"></iframe>
           </div>
           <div class="desc-box">
-            <p class="desc2">${f:h(shopList.location1)}<br></p>
-            <p class="desc2">${f:h(shopList.location2)}<br></p>
+            <p class="desc2">${f:h(shopList.location01)}<br></p>
+            <p class="desc2">${f:h(shopList.location02)}<br></p>
             <a class="btn card_btn" href="${f:h(shopList.shopSite)}" onclick="gtag('event', 'READ MORE', {'event_category': 'HPクリック', 'event_label': '${f:h(shopList.shopName)}'});" role="button">Read More</a>
           </div>
         </div>
@@ -108,8 +108,8 @@
             ${f:h(shopList.introduction)}
             </p>
             <p class="desc2">
-                                 営業時間：${f:h(shopList.businessHour1)}<br>
-                                電話番号：<a href="tel:${f:h(shopList.phoneNo1)}" onClick="gtag('event', '電話番号', {'event_category': '番号タップ', 'event_label': '${f:h(shopList.shopName)}', 'value': '0'});">${f:h(shopList.phoneNo1)}</a><br>
+                                 営業時間：${f:h(shopList.businessHour01)}<br>
+                                電話番号：<a href="tel:${f:h(shopList.phoneNo01)}" onClick="gtag('event', '電話番号', {'event_category': '番号タップ', 'event_label': '${f:h(shopList.shopName)}', 'value': '0'});">${f:h(shopList.phoneNo01)}</a><br>
                                 定休日　：${f:h(shopList.holidays)}<br>
              <a class="js-modal-open" href="">修理料金</a></p>
           </div>
@@ -324,65 +324,76 @@
 <hr>
 
 <!-- MAKER SECTION -->
+<%-- <section id="maker_section" class="fdb-block py-0 section_box maker_section_img" data-block-type="contents" data-id="14" draggable="true">
+  <h2><b>対応機種</b></h2>
+  <ul class="top-banner">
+    <li><img src="${pageContext.request.contextPath}/resources/app/img/maker/acer.svg" alt="acer_logo"></li>
+    <li><img src="${pageContext.request.contextPath}/resources/app/img/maker/akaso.svg" alt="akaso_logo"></li>
+    <li><img src="${pageContext.request.contextPath}/resources/app/img/maker/amazon.svg" alt="amazon_logo"></li>
+    <li><img src="${pageContext.request.contextPath}/resources/app/img/maker/android-one.svg" alt="android-one_logo"></li>
+    <li><img src="${pageContext.request.contextPath}/resources/app/img/maker/apple.svg" alt="apple_logo"></li>
+    <li><img src="${pageContext.request.contextPath}/resources/app/img/maker/asus.svg" alt="asus_logo"></li>
+    <li><img src="${pageContext.request.contextPath}/resources/app/img/maker/blackview.svg" alt="blackview_logo"></li>
+    <li><img src="${pageContext.request.contextPath}/resources/app/img/maker/brackberry.svg" alt="brackberry_logo"></li>
+    <li><img src="${pageContext.request.contextPath}/resources/app/img/maker/chuwi.svg" alt="chuwi_logo"></li>
+    <li><img src="${pageContext.request.contextPath}/resources/app/img/maker/covia.svg" alt="covia_logo"></li>
+    <li><img src="${pageContext.request.contextPath}/resources/app/img/maker/dell.svg" alt="dell_logo"></li>
+    <li><img src="${pageContext.request.contextPath}/resources/app/img/maker/disney.svg" alt="disney_logo"></li>
+    <li><img src="${pageContext.request.contextPath}/resources/app/img/maker/doogee.svg" alt="doogee_logo"></li>
+    <li><img src="${pageContext.request.contextPath}/resources/app/img/maker/dynabook.svg" alt="dynabook_logo"></li>
+    <li><img src="${pageContext.request.contextPath}/resources/app/img/maker/essential.svg" alt="essential_logo"></li>
+    <li><img src="${pageContext.request.contextPath}/resources/app/img/maker/foxconn.svg" alt="foxconn_logo"></li>
+    <li><img src="${pageContext.request.contextPath}/resources/app/img/maker/freetel.svg" alt="freetel_logo"></li>
+    <li><img src="${pageContext.request.contextPath}/resources/app/img/maker/fujitsu.svg" alt="fujitsu_logo"></li>
+    <li><img src="${pageContext.request.contextPath}/resources/app/img/maker/google.svg" alt="google_logo"></li>
+    <li><img src="${pageContext.request.contextPath}/resources/app/img/maker/hp.svg" alt="hp_logo"></li>
+    <li><img src="${pageContext.request.contextPath}/resources/app/img/maker/htc.svg" alt="htc_logo"></li>
+    <li><img src="${pageContext.request.contextPath}/resources/app/img/maker/huawei.svg" alt="huawei_logo"></li>
+    <li><img src="${pageContext.request.contextPath}/resources/app/img/maker/kyocera.svg" alt="kyocera_logo"></li>
+    <li><img src="${pageContext.request.contextPath}/resources/app/img/maker/leagoo.svg" alt="leagoo_logo"></li>
+    <li><img src="${pageContext.request.contextPath}/resources/app/img/maker/lenovo.svg" alt="lenovo_logo"></li>
+    <li><img src="${pageContext.request.contextPath}/resources/app/img/maker/sharp.svg" alt="sharp_logo"></li>
+    <li><img src="${pageContext.request.contextPath}/resources/app/img/maker/nec.svg" alt="nec_logo"></li>
+    <li><img src="${pageContext.request.contextPath}/resources/app/img/maker/nokia.svg" alt="nokia_logo"></li>
+    <li><img src="${pageContext.request.contextPath}/resources/app/img/maker/oneplus.svg" alt="oneplus_logo"></li>
+    <li><img src="${pageContext.request.contextPath}/resources/app/img/maker/oppo.svg" alt="oppo_logo"></li>
+    <li><img src="${pageContext.request.contextPath}/resources/app/img/maker/oukitel.svg" alt="oukitel_logo"></li>
+    <li><img src="${pageContext.request.contextPath}/resources/app/img/maker/panasonic.svg" alt="panasonic_logo"></li>
+    <li><img src="${pageContext.request.contextPath}/resources/app/img/maker/samsung.svg" alt="samsung_logo"></li>
+    <li><img src="${pageContext.request.contextPath}/resources/app/img/maker/sharp.svg" alt="sharp_logo"></li>
+    <li><img src="${pageContext.request.contextPath}/resources/app/img/maker/sony.svg" alt="sony_logo"></li>
+    <li><img src="${pageContext.request.contextPath}/resources/app/img/maker/tcl.svg" alt="tcl_logo"></li>
+    <li><img src="${pageContext.request.contextPath}/resources/app/img/maker/teclast.svg" alt="teclast_logo"></li>
+    <li><img src="${pageContext.request.contextPath}/resources/app/img/maker/toshiba.svg" alt="toshiba_logo"></li>
+    <li><img src="${pageContext.request.contextPath}/resources/app/img/maker/umidigi.svg" alt="umidigi_logo"></li>
+    <li><img src="${pageContext.request.contextPath}/resources/app/img/maker/unihertz.svg" alt="unihertz_logo"></li>
+    <li><img src="${pageContext.request.contextPath}/resources/app/img/maker/vaio.svg" alt="vaio_logo"></li>
+    <li><img src="${pageContext.request.contextPath}/resources/app/img/maker/vankyo.svg" alt="vankyo_logo"></li>
+    <li><img src="${pageContext.request.contextPath}/resources/app/img/maker/vivo.svg" alt="vivo_logo"></li>
+    <li><img src="${pageContext.request.contextPath}/resources/app/img/maker/xiaomi.svg" alt="xiaomi_logo"></li>
+    <li><img src="${pageContext.request.contextPath}/resources/app/img/maker/oppo.svg" alt="oppo_logo"></li>
+    <li><img src="${pageContext.request.contextPath}/resources/app/img/maker/sharp.svg" alt="sharp_logo"></li>
+    <li><img src="${pageContext.request.contextPath}/resources/app/img/maker/zonko.svg" alt="zonko_logo"></li>
+    <li><img src="${pageContext.request.contextPath}/resources/app/img/maker/zte.svg" alt="zte_logo"></li>
+    <li><img src="${pageContext.request.contextPath}/resources/app/img/maker/other.svg" alt="other_logo"></li>
+  </ul>
+</section> --%>
+
 <section id="maker_section" class="fdb-block py-0 section_box maker_section_img" data-block-type="contents" data-id="14" draggable="true">
-    <!-- <div class="row text-left pt-5"> -->
-      <!-- <div class="col-12 col-md-8 col-lg-6"> -->
-        <!-- <div class="fdb-box fdb-touch rounded-bottom-0"> -->
-          <h2><b>対応機種</b></h2>
-        <!-- </div> -->
-      <!-- </div> -->
-      <ul class="top-banner">
-		<li><img src="${pageContext.request.contextPath}/resources/app/img/maker/acer.svg" alt="acer_logo"></li>
-		<li><img src="${pageContext.request.contextPath}/resources/app/img/maker/akaso.svg" alt="akaso_logo"></li>
-		<li><img src="${pageContext.request.contextPath}/resources/app/img/maker/amazon.svg" alt="amazon_logo"></li>
-		<li><img src="${pageContext.request.contextPath}/resources/app/img/maker/android-one.svg" alt="android-one_logo"></li>
-		<li><img src="${pageContext.request.contextPath}/resources/app/img/maker/apple.svg" alt="apple_logo"></li>
-		<li><img src="${pageContext.request.contextPath}/resources/app/img/maker/asus.svg" alt="asus_logo"></li>
-		<li><img src="${pageContext.request.contextPath}/resources/app/img/maker/blackview.svg" alt="blackview_logo"></li>
-		<li><img src="${pageContext.request.contextPath}/resources/app/img/maker/brackberry.svg" alt="brackberry_logo"></li>
-		<li><img src="${pageContext.request.contextPath}/resources/app/img/maker/chuwi.svg" alt="chuwi_logo"></li>
-		<li><img src="${pageContext.request.contextPath}/resources/app/img/maker/covia.svg" alt="covia_logo"></li>
-		<li><img src="${pageContext.request.contextPath}/resources/app/img/maker/dell.svg" alt="dell_logo"></li>
-		<li><img src="${pageContext.request.contextPath}/resources/app/img/maker/disney.svg" alt="disney_logo"></li>
-		<li><img src="${pageContext.request.contextPath}/resources/app/img/maker/doogee.svg" alt="doogee_logo"></li>
-		<li><img src="${pageContext.request.contextPath}/resources/app/img/maker/dynabook.svg" alt="dynabook_logo"></li>
-		<li><img src="${pageContext.request.contextPath}/resources/app/img/maker/essential.svg" alt="essential_logo"></li>
-		<li><img src="${pageContext.request.contextPath}/resources/app/img/maker/foxconn.svg" alt="foxconn_logo"></li>
-		<li><img src="${pageContext.request.contextPath}/resources/app/img/maker/freetel.svg" alt="freetel_logo"></li>
-		<li><img src="${pageContext.request.contextPath}/resources/app/img/maker/fujitsu.svg" alt="fujitsu_logo"></li>
-		<li><img src="${pageContext.request.contextPath}/resources/app/img/maker/google.svg" alt="google_logo"></li>
-		<li><img src="${pageContext.request.contextPath}/resources/app/img/maker/hp.svg" alt="hp_logo"></li>
-		<li><img src="${pageContext.request.contextPath}/resources/app/img/maker/htc.svg" alt="htc_logo"></li>
-		<li><img src="${pageContext.request.contextPath}/resources/app/img/maker/huawei.svg" alt="huawei_logo"></li>
-		<li><img src="${pageContext.request.contextPath}/resources/app/img/maker/kyocera.svg" alt="kyocera_logo"></li>
-		<li><img src="${pageContext.request.contextPath}/resources/app/img/maker/leagoo.svg" alt="leagoo_logo"></li>
-		<li><img src="${pageContext.request.contextPath}/resources/app/img/maker/lenovo.svg" alt="lenovo_logo"></li>
-		<li><img src="${pageContext.request.contextPath}/resources/app/img/maker/sharp.svg" alt="sharp_logo"></li>
-		<li><img src="${pageContext.request.contextPath}/resources/app/img/maker/nec.svg" alt="nec_logo"></li>
-		<li><img src="${pageContext.request.contextPath}/resources/app/img/maker/nokia.svg" alt="nokia_logo"></li>
-		<li><img src="${pageContext.request.contextPath}/resources/app/img/maker/oneplus.svg" alt="oneplus_logo"></li>
-		<li><img src="${pageContext.request.contextPath}/resources/app/img/maker/oppo.svg" alt="oppo_logo"></li>
-		<li><img src="${pageContext.request.contextPath}/resources/app/img/maker/oukitel.svg" alt="oukitel_logo"></li>
-		<li><img src="${pageContext.request.contextPath}/resources/app/img/maker/panasonic.svg" alt="panasonic_logo"></li>
-		<li><img src="${pageContext.request.contextPath}/resources/app/img/maker/samsung.svg" alt="samsung_logo"></li>
-		<li><img src="${pageContext.request.contextPath}/resources/app/img/maker/sharp.svg" alt="sharp_logo"></li>
-		<li><img src="${pageContext.request.contextPath}/resources/app/img/maker/sony.svg" alt="sony_logo"></li>
-		<%-- <li><img src="${pageContext.request.contextPath}/resources/app/img/maker/tcl.svg" alt="tcl_logo"></li> --%>
-		<li><img src="${pageContext.request.contextPath}/resources/app/img/maker/teclast.svg" alt="teclast_logo"></li>
-		<li><img src="${pageContext.request.contextPath}/resources/app/img/maker/toshiba.svg" alt="toshiba_logo"></li>
-		<li><img src="${pageContext.request.contextPath}/resources/app/img/maker/umidigi.svg" alt="umidigi_logo"></li>
-		<li><img src="${pageContext.request.contextPath}/resources/app/img/maker/unihertz.svg" alt="unihertz_logo"></li>
-		<li><img src="${pageContext.request.contextPath}/resources/app/img/maker/vaio.svg" alt="vaio_logo"></li>
-		<li><img src="${pageContext.request.contextPath}/resources/app/img/maker/vankyo.svg" alt="vankyo_logo"></li>
-		<li><img src="${pageContext.request.contextPath}/resources/app/img/maker/vivo.svg" alt="vivo_logo"></li>
-		<li><img src="${pageContext.request.contextPath}/resources/app/img/maker/xiaomi.svg" alt="xiaomi_logo"></li>
-		<li><img src="${pageContext.request.contextPath}/resources/app/img/maker/oppo.svg" alt="oppo_logo"></li>
-		<li><img src="${pageContext.request.contextPath}/resources/app/img/maker/sharp.svg" alt="sharp_logo"></li>
-		<li><img src="${pageContext.request.contextPath}/resources/app/img/maker/zonko.svg" alt="zonko_logo"></li>
-		<li><img src="${pageContext.request.contextPath}/resources/app/img/maker/zte.svg" alt="zte_logo"></li>
-		<li><img src="${pageContext.request.contextPath}/resources/app/img/maker/other.svg" alt="other_logo"></li>
-	</ul>
-  <!-- </div> -->
+  <h2><b>スマホケース</b></h2>
+  <ul class="news">
+    <%-- <c:forEach var="newsList" varStatus="s" items="${newsList}"> --%>
+      <li class="news_item responsive">
+        <div class="iframely-embed">
+          <div class="iframely-responsive" style="height: 140px; padding-bottom: 0;">
+            <a href="https://smartfix119.theshop.jp/items/40361987" data-iframely-url="//cdn.iframe.ly/ovCORKR?iframe=card-small"></a>
+          </div>
+        </div>
+        <%-- <div class="news_date">${f:h(newsList.createdAt)}</div> --%>
+        <script async src="//cdn.iframe.ly/embed.js" charset="utf-8"></script>
+      </li>
+    <%-- </c:forEach> --%>
+  </ul>
 </section>
 
 <hr>
