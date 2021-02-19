@@ -27,12 +27,14 @@
           <li class="nav-item mr-auto">
             <a class="nav-link" href="<%= request.getContextPath() %>/#news_section">News</a>
           </li>
-          
           <li class="nav-item mr-auto">
             <a class="nav-link" href="<%= request.getContextPath() %>/#maker_section">Maker</a>
           </li>
           <li class="nav-item mr-auto">
             <a class="nav-link" href="<%= request.getContextPath() %>/#contact_section">Contact</a>
+          </li>
+          <li class="nav-item mr-auto">
+            <a class="nav-link" href="https://smartfix119.theshop.jp/" target="_blank" rel="noopener noreferrer">CaseShop</a>
           </li>
         </ul>
       </div>
