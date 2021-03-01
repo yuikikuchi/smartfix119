@@ -452,6 +452,7 @@
                 <form:select class="col-md-6 ChangeConfirm IO form-control" data-rule="required" data-confirm="c_infotes" title="お問い合わせ項目" path="subject">
                   <option value="" hidden>Choose</option>
                   <form:option value="修理店舗掲載についてのお問い合わせ">修理店舗掲載についてのお問い合わせ</form:option>
+                  <form:option value="修理店舗掲載についての資料請求">修理店舗掲載についての資料請求</form:option>
                   <form:option value="修理についてのお問い合わせ">修理についてのお問い合わせ</form:option>
                   <form:option value="その他お問い合わせ">その他お問い合わせ</form:option>
                 </form:select>
