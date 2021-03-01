@@ -479,14 +479,15 @@ iframe{
 
 .desc1 {
   font-size: 8px;
-  height: 86px;
+  height: 90px;
   padding: 6px;
   margin: 0px;
 }
 
 .desc2 {
-  font-size: 8px;
-  height: 74px;
+  /* font-size: 8px; */
+  /* height: 74px; */
+  height: 48px;
   padding: 6px;
   margin: 0px;
 }
@@ -723,7 +724,8 @@ img {
   cursor: pointer;
   border: 1px solid rgba(255, 255, 255, 0.2);
   background: transparent;
-  background-color: #FFC039
+  background-color: #FFC039;
+  box-shadow: 0 3px 6px rgba(0, 0, 0, 0.25);
 }
 
 .btn:hover {
@@ -742,7 +744,58 @@ img {
   background: linear-gradient(to bottom left, #4C6FFF 40%, #97DFE4 100%);
   border-radius: 8px;
   border: 0px none;
+  border-bottom: solid 6px #3f87ce;
+  box-shadow: 0 3px 6px rgba(0, 0, 0, 0.25);
 }
+
+.shop_tag {
+	display: inline-block;
+    padding: 0.2em 0.4em;
+    margin-left: 0.5em;
+    /* font-weight: bold; */
+    color: #FFC039;
+    background: #FFFFFF;
+    border: solid 1px #FFC039;
+    border-radius: 8px;
+}
+.shop_tag p {
+  width: auto;
+  margin: 0;
+  padding: 0;
+}
+
+.charge {
+  display: inline-block;
+  color: #FFFFFF;
+  padding: 0.5em 1em;
+  margin: 0.5em;
+  cursor: pointer;
+  background: transparent;
+  background-color: #FFC039;
+  box-shadow: 0 3px 6px rgba(0, 0, 0, 0.25);
+  border-radius: 8px;
+}
+
+.charge:hover {
+  color: #FFFFFF;
+  background-color: #5BA9FF;
+}
+
+.shop_detail {
+  margin: 0% 5%;
+  color: #5BA9FF;
+   width: 90%;
+  background-color: #FFFFFF;
+}
+
+.shop_detail th {
+  font-weight: normal;
+}
+
+.shop_detail tr td a {
+  color: #FFC039;
+}
+
 
 @media (max-width: 960px) {
   .responsive {

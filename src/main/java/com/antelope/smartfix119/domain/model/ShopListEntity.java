@@ -89,6 +89,21 @@ public class ShopListEntity {
 	private String pickup;
 
 	/**
+	 * 総務省登録修理業者フラグ
+	 */
+	private String officialFlg;
+
+	/**
+	 * Appleフラグ
+	 */
+	private String appleFlg;
+
+	/**
+	 * Androidフラグ
+	 */
+	private String androidFlg;
+
+	/**
 	 * {@link ShopListEntity#shopId}
 	 */
 	public int getShopId() {
@@ -296,6 +311,48 @@ public class ShopListEntity {
 	 */
 	public void setPickup(String pickup) {
 		this.pickup = pickup;
+	}
+
+	/**
+	 * {@link ShopListEntity#officialFlg}
+	 */
+	public String getOfficialFlg() {
+		return officialFlg;
+	}
+
+	/**
+	 * {@link ShopListEntity#officialFlg}
+	 */
+	public void setOfficialFlg(String officialFlg) {
+		this.officialFlg = officialFlg;
+	}
+
+	/**
+	 * {@link ShopListEntity#appleFlg}
+	 */
+	public String getAppleFlg() {
+		return appleFlg;
+	}
+
+	/**
+	 * {@link ShopListEntity#appleFlg}
+	 */
+	public void setAppleFlg(String appleFlg) {
+		this.appleFlg = appleFlg;
+	}
+
+	/**
+	 * {@link ShopListEntity#androidFlg}
+	 */
+	public String getAndroidFlg() {
+		return androidFlg;
+	}
+
+	/**
+	 * {@link ShopListEntity#androidFlg}
+	 */
+	public void setAndroidFlg(String androidFlg) {
+		this.androidFlg = androidFlg;
 	}
 
 }

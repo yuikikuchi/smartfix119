@@ -92,7 +92,24 @@
           </div>
           <div class="desc-box">
             <p class="desc2">${f:h(shopList.location01)}<br></p>
-            <p class="desc2">${f:h(shopList.location02)}<br></p>
+              <table class="shop_detail" border="1" bordercolor="#90A4AE">
+               <tr>
+                 <th>アクセス</th>
+                 <td>${f:h(shopList.location02)}</td>
+                </tr>
+                <tr>
+                 <th>営業時間</th>
+                 <td>${f:h(shopList.businessHour01)}</td>
+                </tr>
+                <tr>
+                 <th>電話番号</th>
+                 <td><a href="tel:${f:h(shopList.phoneNo01)}" onClick="gtag('event', '電話番号', {'event_category': '番号タップ', 'event_label': '${f:h(shopList.shopName)}', 'value': '0'});">${f:h(shopList.phoneNo01)}</a></td>
+                </tr>
+                <tr>
+                 <th>定休日</th>
+                 <td>${f:h(shopList.holidays)}</td>
+                </tr>
+              </table>
             <a class="btn card_btn" href="${f:h(shopList.shopSite)}" onclick="gtag('event', 'READ MORE', {'event_category': 'HPクリック', 'event_label': '${f:h(shopList.shopName)}'});" role="button">Read More</a>
           </div>
         </div>
@@ -107,11 +124,20 @@
             <p class="desc1">【店舗紹介】<br><!-- 100文字 -->
             ${f:h(shopList.introduction)}
             </p>
-            <p class="desc2">
-                                 営業時間：${f:h(shopList.businessHour01)}<br>
-                                電話番号：<a href="tel:${f:h(shopList.phoneNo01)}" onClick="gtag('event', '電話番号', {'event_category': '番号タップ', 'event_label': '${f:h(shopList.shopName)}', 'value': '0'});">${f:h(shopList.phoneNo01)}</a><br>
-                                定休日　：${f:h(shopList.holidays)}<br>
-             <a class="js-modal-open" href="">修理料金</a></p>
+              <c:set var="officialFlg" value="${f:h(shopList.officialFlg)}" />
+              <c:if test="${officialFlg == '1'}">
+                <div class="shop_tag"><p>総務省認定</p></div>
+              </c:if>
+              <c:set var="appleFlg" value="${f:h(shopList.appleFlg)}" />
+              <c:if test="${appleFlg == '1'}">
+                <div class="shop_tag"><p>Apple</p></div>
+              </c:if>
+              <c:set var="androidFlg" value="${f:h(shopList.androidFlg)}" />
+              <c:if test="${androidFlg == '1'}">
+                <div class="shop_tag"><p>Android</p></div>
+              </c:if>
+              <div></div>
+              <a class="js-modal-open charge" href="">修理料金</a>
           </div>
         </div>
       </div>

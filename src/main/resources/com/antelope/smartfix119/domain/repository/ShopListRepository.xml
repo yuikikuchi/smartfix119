@@ -21,6 +21,9 @@
         <result property="area02Id" column="area_02_id" />
         <result property="map" column="map" />
         <result property="introduction" column="introduction" />
+        <result property="officialFlg" column="official_flg" />
+        <result property="appleFlg" column="apple_flg" />
+        <result property="androidFlg" column="android_flg" />
     </resultMap>
     
     <select id="findByAreaNo" parameterType="string" resultMap="shopListResultMap">
@@ -39,7 +42,10 @@
             area_01_id, 
             area_02_id, 
             map, 
-            introduction 
+            introduction, 
+            official_flg, 
+            apple_flg, 
+            android_flg 
         FROM
              smartfix119_pro.shopinfo 
         WHERE
@@ -63,7 +69,10 @@
             area_01_id, 
             area_02_id, 
             map, 
-            introduction 
+            introduction, 
+            official_flg, 
+            apple_flg, 
+            android_flg 
         FROM
              smartfix119_pro.shopinfo 
     ]]>
@@ -98,7 +107,10 @@
             area_01_id, 
             area_02_id, 
             map, 
-            introduction 
+            introduction, 
+            official_flg, 
+            apple_flg, 
+            android_flg 
         FROM
              smartfix119_pro.shopinfo 
         WHERE
@@ -125,7 +137,10 @@
             area_01_id, 
             area_02_id, 
             map, 
-            introduction 
+            introduction, 
+            official_flg, 
+            apple_flg, 
+            android_flg 
         FROM
              smartfix119_pro.shopinfo 
         WHERE
