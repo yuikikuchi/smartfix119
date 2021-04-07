@@ -102,4 +102,13 @@
     </cookie-config>
     <tracking-mode>COOKIE</tracking-mode>
   </session-config>
+  
+  <!-- Progressive Web Apps -->
+  <welcome-file-list>
+    <welcome-file>${project.basedir}/resources/app/img/icon/launcher-icon48.png</welcome-file>
+    <welcome-file>${project.basedir}/resources/app/img/icon/launcher-icon-72.png</welcome-file>
+    <welcome-file>${project.basedir}/resources/app/img/icon/launcher-icon-96.png</welcome-file>
+    <welcome-file>${project.basedir}/resources/app/img/icon/launcher-icon-144.png</welcome-file>
+    <welcome-file>${project.basedir}/resources/app/img/icon/launcher-icon-192.png</welcome-file>
+  </welcome-file-list>
 </web-app>
