@@ -62,7 +62,7 @@
                   </p>
                   <c:set var="officialFlg" value="${f:h(shopList.officialFlg)}" />
                   <c:if test="${officialFlg == '1'}">
-                    <div class="shop_tag"><p>総務省認定</p></div>
+                    <div class="shop_tag"><p>総務省登録</p></div>
                   </c:if>
                   <c:set var="appleFlg" value="${f:h(shopList.appleFlg)}" />
                   <c:if test="${appleFlg == '1'}">
@@ -88,6 +88,12 @@
       ${f:h(page.number + 1) } / 
       ${f:h(page.totalPages)} Pages
     </div>
+  </section>
+  
+  <section id="news_section" class="section_box">
+    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+    <ins class="adsbygoogle" style="display:block" data-ad-format="fluid" data-ad-layout-key="-e8+6u+4k-nl+vr" data-ad-client="ca-pub-8632151441121053" data-ad-slot="2337459895"></ins>
+    <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
   </section>
   <hr>
 </main>
