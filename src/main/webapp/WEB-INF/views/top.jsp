@@ -126,7 +126,7 @@
             </p>
               <c:set var="officialFlg" value="${f:h(shopList.officialFlg)}" />
               <c:if test="${officialFlg == '1'}">
-                <div class="shop_tag"><p>総務省認定</p></div>
+                <div class="shop_tag"><p>総務省登録</p></div>
               </c:if>
               <c:set var="appleFlg" value="${f:h(shopList.appleFlg)}" />
               <c:if test="${appleFlg == '1'}">
@@ -231,11 +231,18 @@
           </ul>
       </ul>
     </div>
+    
     <div class="mymap">
       <iframe class="smartfix119_map" src="https://www.google.com/maps/d/embed?mid=1xBEY4C05mIF1GC2jIVs9IZKZfogGHw7Y&ll=35.6961555,139.6910507&z=10&hl=ja"></iframe>
     </div>
   </section>
   
+<section id="news_section" class="section_box">
+  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+  <ins class="adsbygoogle" style="display:block" data-ad-format="fluid" data-ad-layout-key="-e8+6u+4k-nl+vr" data-ad-client="ca-pub-8632151441121053" data-ad-slot="2337459895"></ins>
+  <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+</section>
+
 <hr>
 
 <!-- SERVICE SECTION -->
@@ -419,6 +426,68 @@
         <script async src="//cdn.iframe.ly/embed.js" charset="utf-8"></script>
       </li>
     <%-- </c:forEach> --%>
+  </ul>
+</section>
+
+<section id="news_section" class="section_box">
+  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+  <ins class="adsbygoogle" style="display:block" data-ad-format="fluid" data-ad-layout-key="-e8+6u+4k-nl+vr" data-ad-client="ca-pub-8632151441121053" data-ad-slot="2337459895"></ins>
+  <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+</section>
+
+<hr>
+
+<section id="news_section" class="section_box">
+  <h2><b>iPhone修理パーツ</b></h2>
+  <ul class="news">
+    <li class="news_item responsive">
+      <div class="iframely-embed">
+        <div class="iframely-responsive" style="height: 140px; padding-bottom: 0;">
+          <a href="https://www.amazon.co.jp/gp/product/B08SQT79LZ/ref=as_li_tl?ie=UTF8&camp=247&creative=1211&creativeASIN=B08SQT79LZ&linkCode=as2&tag=smartfix119-22&linkId=c177967b51fd52ed8fd959183c10fdca" data-iframely-url="//cdn.iframe.ly/VKlUnMP?iframe=card-small"></a>
+        </div>
+      </div>
+      <script async src="//cdn.iframe.ly/embed.js" charset="utf-8"></script>
+    </li>
+    <li class="news_item responsive">
+      <div class="iframely-embed">
+        <div class="iframely-responsive" style="height: 140px; padding-bottom: 0;">
+          <a href="https://www.amazon.co.jp/gp/product/B08NHKDTKF/ref=as_li_tl?ie=UTF8&camp=247&creative=1211&creativeASIN=B08NHKDTKF&linkCode=as2&tag=smartfix119-22&linkId=ef647a6968f4eff68f13b1ea63fc6925" data-iframely-url="//cdn.iframe.ly/dI0eHv8?iframe=card-small"></a>
+        </div>
+      </div>
+      <script async src="//cdn.iframe.ly/embed.js" charset="utf-8"></script>
+    </li>
+    <li class="news_item responsive">
+      <div class="iframely-embed">
+        <div class="iframely-responsive" style="height: 140px; padding-bottom: 0;">
+          <a href="https://www.amazon.co.jp/gp/product/B08NBCLWXD/ref=as_li_tl?ie=UTF8&camp=247&creative=1211&creativeASIN=B08NBCLWXD&linkCode=as2&tag=smartfix119-22&linkId=2f139f4b21089b73bae3c9356a3d0684" data-iframely-url="//cdn.iframe.ly/l1i7qVh?iframe=card-small"></a>
+        </div>
+      </div>
+      <script async src="//cdn.iframe.ly/embed.js" charset="utf-8"></script>
+    </li>
+    <li class="news_item responsive">
+      <div class="iframely-embed">
+        <div class="iframely-responsive" style="height: 140px; padding-bottom: 0;">
+          <a href="https://www.amazon.co.jp/gp/product/B08VCVJNVF/ref=as_li_tl?ie=UTF8&camp=247&creative=1211&creativeASIN=B08VCVJNVF&linkCode=as2&tag=smartfix119-22&linkId=6cf9b6b3cc7a32e09fb3a7ae32261c89" data-iframely-url="//cdn.iframe.ly/CdZCVPk?iframe=card-small"></a>
+        </div>
+      </div>
+      <script async src="//cdn.iframe.ly/embed.js" charset="utf-8"></script>
+    </li>
+    <li class="news_item responsive">
+      <div class="iframely-embed">
+        <div class="iframely-responsive" style="height: 140px; padding-bottom: 0;">
+          <a href="https://www.amazon.co.jp/gp/product/B08HCWMX51/ref=as_li_tl?ie=UTF8&camp=247&creative=1211&creativeASIN=B08HCWMX51&linkCode=as2&tag=smartfix119-22&linkId=bc7faad24471289d0fff1d4c01dce116" data-iframely-url="//cdn.iframe.ly/jVYDD3m?iframe=card-small"></a>
+        </div>
+      </div>
+      <script async src="//cdn.iframe.ly/embed.js" charset="utf-8"></script>
+    </li>
+    <li class="news_item responsive">
+      <div class="iframely-embed">
+        <div class="iframely-responsive" style="height: 140px; padding-bottom: 0;">
+          <a href="https://www.amazon.co.jp/gp/product/B078N1KV6X/ref=as_li_tl?ie=UTF8&camp=247&creative=1211&creativeASIN=B078N1KV6X&linkCode=as2&tag=smartfix119-22&linkId=0850646cd81b7157cac27ed1d4bfb8e0" data-iframely-url="//cdn.iframe.ly/lIH5y2m?iframe=card-small"></a>
+        </div>
+      </div>
+      <script async src="//cdn.iframe.ly/embed.js" charset="utf-8"></script>
+    </li>
   </ul>
 </section>
 
