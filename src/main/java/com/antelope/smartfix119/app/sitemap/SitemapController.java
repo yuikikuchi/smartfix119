@@ -345,6 +345,41 @@ public class SitemapController {
 		create(xmlUrlSet, "/model?modelName=AQUOS+sense2+SH-M08", XmlUrl.Priority.MEDIUM);
 		create(xmlUrlSet, "/model?modelName=AQUOS+R2+Compact+SH-M09", XmlUrl.Priority.MEDIUM);
 		create(xmlUrlSet, "/model?modelName=AQUOS+zero+SH-M10", XmlUrl.Priority.MEDIUM);
+		
+		// Xperia
+		create(xmlUrlSet, "/model?modelName=Xperia+XZ2+SO-03K", XmlUrl.Priority.MEDIUM);
+		create(xmlUrlSet, "/model?modelName=Xperia+XZ2+SOV37", XmlUrl.Priority.MEDIUM);
+		create(xmlUrlSet, "/model?modelName=Xperia+XZ2+702SO", XmlUrl.Priority.MEDIUM);
+		create(xmlUrlSet, "/model?modelName=Xperia+XZ2+Compact+SO-05K", XmlUrl.Priority.MEDIUM);
+		create(xmlUrlSet, "/model?modelName=Xperia+XZ2+Premium+SO-04K", XmlUrl.Priority.MEDIUM);
+		create(xmlUrlSet, "/model?modelName=Xperia+XZ2+Premium+SOV38", XmlUrl.Priority.MEDIUM);
+		create(xmlUrlSet, "/model?modelName=Xperia+XZ3+SO-01L", XmlUrl.Priority.MEDIUM);
+		create(xmlUrlSet, "/model?modelName=Xperia+XZ3+SOV39", XmlUrl.Priority.MEDIUM);
+		create(xmlUrlSet, "/model?modelName=Xperia+XZ3+801SO", XmlUrl.Priority.MEDIUM);
+		create(xmlUrlSet, "/model?modelName=Xperia+1+SO-03L", XmlUrl.Priority.MEDIUM);
+		create(xmlUrlSet, "/model?modelName=Xperia+1+SOV40", XmlUrl.Priority.MEDIUM);
+		create(xmlUrlSet, "/model?modelName=Xperia+1+802SO", XmlUrl.Priority.MEDIUM);
+		create(xmlUrlSet, "/model?modelName=Xperia+1+J9110", XmlUrl.Priority.MEDIUM);
+		create(xmlUrlSet, "/model?modelName=Xperia+1+Professional+Edition+J9150", XmlUrl.Priority.MEDIUM);
+		create(xmlUrlSet, "/model?modelName=Xperia+Ace+SO-02L", XmlUrl.Priority.MEDIUM);
+		create(xmlUrlSet, "/model?modelName=Xperia+5+SO-01M", XmlUrl.Priority.MEDIUM);
+		create(xmlUrlSet, "/model?modelName=Xperia+5+SOV41", XmlUrl.Priority.MEDIUM);
+		create(xmlUrlSet, "/model?modelName=Xperia+5+901SO", XmlUrl.Priority.MEDIUM);
+		create(xmlUrlSet, "/model?modelName=Xperia+5+J9260", XmlUrl.Priority.MEDIUM);
+		create(xmlUrlSet, "/model?modelName=Xperia+8+902SO", XmlUrl.Priority.MEDIUM);
+		create(xmlUrlSet, "/model?modelName=Xperia+8+SOV42", XmlUrl.Priority.MEDIUM);
+		create(xmlUrlSet, "/model?modelName=Xperia+8+SOV42-u", XmlUrl.Priority.MEDIUM);
+		create(xmlUrlSet, "/model?modelName=Xperia+8+Lite+J3273", XmlUrl.Priority.MEDIUM);
+		create(xmlUrlSet, "/model?modelName=Xperia+1+II+SO-51A", XmlUrl.Priority.MEDIUM);
+		create(xmlUrlSet, "/model?modelName=Xperia+1+II+SOG01", XmlUrl.Priority.MEDIUM);
+		create(xmlUrlSet, "/model?modelName=Xperia+1+II+XQ-AT42", XmlUrl.Priority.MEDIUM);
+		create(xmlUrlSet, "/model?modelName=Xperia+10+II+SO-41A", XmlUrl.Priority.MEDIUM);
+		create(xmlUrlSet, "/model?modelName=Xperia+10+II+SOV43", XmlUrl.Priority.MEDIUM);
+		create(xmlUrlSet, "/model?modelName=Xperia+10+II+A001SO", XmlUrl.Priority.MEDIUM);
+		create(xmlUrlSet, "/model?modelName=Xperia+5+II+SO-52A", XmlUrl.Priority.MEDIUM);
+		create(xmlUrlSet, "/model?modelName=Xperia+5+II+SOG02", XmlUrl.Priority.MEDIUM);
+		create(xmlUrlSet, "/model?modelName=Xperia+5+II+A002SO", XmlUrl.Priority.MEDIUM);
+		create(xmlUrlSet, "/model?modelName=Xperia+PRO+XQ-AQ52", XmlUrl.Priority.MEDIUM);
 
 		return xmlUrlSet;
 	}
