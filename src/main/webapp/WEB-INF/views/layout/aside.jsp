@@ -56,6 +56,24 @@
               </c:if>
               </c:forEach>
             </table>
+            <li>
+              <a data-toggle="collapse" href="#menu13" aria-controls="#menu13" aria-expanded="false">SONY(Xperia)</a>
+            </li>
+            <table id="menu13" class="collapse charge_table" data-parent="#accordion_menu">
+              <tr class="charge_list">
+                <th>モデル</th>
+                <th>発売日</th>
+              </tr>
+              <c:forEach var="makerList" varStatus="s" items="${makerList}">
+              <c:set var="makerName" value="${f:h(makerList.makerName)}" />
+              <c:if test="${makerName == 'SONY(Xperia)'}">
+                <tr class="charge_list">
+                  <th><a href="<c:url value="/model"><c:param name="modelName" value="${f:h(makerList.modelName)}" /></c:url>">${f:h(makerList.modelName)}</a></th>
+                  <td>${f:h(makerList.releaseDay)}</td>
+                </tr>
+              </c:if>
+              </c:forEach>
+            </table>
           </ul>
 </section>
 <hr>
