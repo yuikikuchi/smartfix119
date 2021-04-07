@@ -81,5 +81,11 @@
     </div>
 </c:forEach>
 </section>
+
+<section id="news_section" class="section_box">
+  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+  <ins class="adsbygoogle" style="display:block" data-ad-format="fluid" data-ad-layout-key="-e8+6u+4k-nl+vr" data-ad-client="ca-pub-8632151441121053" data-ad-slot="2337459895"></ins>
+  <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+</section>
 <hr>
 </main>
