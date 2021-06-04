@@ -64,7 +64,7 @@
         <p><b>SmartFix119について</b></p>
         <p class="lead mb-5">
           SmartFix119は日本全国のスマホ、タブレット等のモバイル端末修理店舗を掲載するキュレーションメディアです。</br>
-                       総務省認定のスマホ修理業者から、各メーカー認定の修理店舗まで、あらゆる修理店舗を掲載しています。</br>
+                       総務省登録のスマホ修理業者から、各メーカー認定の修理店舗まで、あらゆる修理店舗を掲載しています。</br>
                        即日修理可能な店舗から、郵送修理専門のお店まであらゆるニーズに対応！</br>
                        あなたに最適なお店がきっと見つかるはずです。
         </p>
@@ -77,77 +77,6 @@
 </section>
 
 <hr>
-
-<!-- PICKUP SECTION -->
-<section id="pickup_section" class="section_box">
-  <h2><b>Pickup Shop</b></h2>
-  <div class="cssgrid">
-    <c:forEach var="shopList" varStatus="s" items="${shopList}">
-    <div>
-      <div class="card_contents">
-      <div class="card open_flg">
-        <div class="i2 shop_card back" onclick="gtag('event', '店舗カードタップ', {'event_category': '店舗カードタップ', 'event_label': '${f:h(shopList.shopName)}'});">
-          <div class="image-box">
-            <iframe src="${f:h(shopList.map)}"></iframe>
-          </div>
-          <div class="desc-box">
-            <p class="desc2">${f:h(shopList.location01)}<br></p>
-              <table class="shop_detail" border="1" bordercolor="#90A4AE">
-               <tr>
-                 <th>アクセス</th>
-                 <td>${f:h(shopList.location02)}</td>
-                </tr>
-                <tr>
-                 <th>営業時間</th>
-                 <td>${f:h(shopList.businessHour01)}</td>
-                </tr>
-                <tr>
-                 <th>電話番号</th>
-                 <td><a href="tel:${f:h(shopList.phoneNo01)}" onClick="gtag('event', '電話番号', {'event_category': '番号タップ', 'event_label': '${f:h(shopList.shopName)}', 'value': '0'});">${f:h(shopList.phoneNo01)}</a></td>
-                </tr>
-                <tr>
-                 <th>定休日</th>
-                 <td>${f:h(shopList.holidays)}</td>
-                </tr>
-              </table>
-            <a class="btn card_btn" href="${f:h(shopList.shopSite)}" onclick="gtag('event', 'READ MORE', {'event_category': 'HPクリック', 'event_label': '${f:h(shopList.shopName)}'});" role="button">Read More</a>
-          </div>
-        </div>
-        <div class="i1 shop_card front" onclick="gtag('event', '店舗カードタップ', {'event_category': '店舗カードタップ', 'event_label': '${f:h(shopList.shopName)}'});">
-          <!-- <div class="image-box"><img src="https://picsum.photos/500/300/?image=10"></div> -->
-          <div class="image-box"><img src="${pageContext.request.contextPath}/resources/app/img/shop/quickrepairplus_image.png"></div>
-          <div class="title-box">
-            <h1 class="title">${f:h(shopList.shopName)}</h1>
-          </div>
-          <div class="line"></div>
-          <div class="desc-box">
-            <p class="desc1">【店舗紹介】<br><!-- 100文字 -->
-            ${f:h(shopList.introduction)}
-            </p>
-              <c:set var="officialFlg" value="${f:h(shopList.officialFlg)}" />
-              <c:if test="${officialFlg == '1'}">
-                <div class="shop_tag"><p>総務省登録</p></div>
-              </c:if>
-              <c:set var="appleFlg" value="${f:h(shopList.appleFlg)}" />
-              <c:if test="${appleFlg == '1'}">
-                <div class="shop_tag"><p>Apple</p></div>
-              </c:if>
-              <c:set var="androidFlg" value="${f:h(shopList.androidFlg)}" />
-              <c:if test="${androidFlg == '1'}">
-                <div class="shop_tag"><p>Android</p></div>
-              </c:if>
-              <div></div>
-              <a class="js-modal-open charge" href="">修理料金</a>
-          </div>
-        </div>
-      </div>
-      </div>
-      </div>
-    </c:forEach>
-  </div>
-</section>
-
-<!-- <hr> -->
 
 <!-- SEARCH SECTION -->
   <section id="search_section" class="section_box search_section_img">
@@ -235,13 +164,85 @@
     <div class="mymap">
       <iframe class="smartfix119_map" src="https://www.google.com/maps/d/embed?mid=1xBEY4C05mIF1GC2jIVs9IZKZfogGHw7Y&ll=35.6961555,139.6910507&z=10&hl=ja"></iframe>
     </div>
+    
   </section>
   
-<section id="news_section" class="section_box">
+<!-- <section id="news_section" class="section_box">
   <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
   <ins class="adsbygoogle" style="display:block" data-ad-format="fluid" data-ad-layout-key="-e8+6u+4k-nl+vr" data-ad-client="ca-pub-8632151441121053" data-ad-slot="2337459895"></ins>
   <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
-</section>
+</section> -->
+
+  <section class="section_box pcview">
+    <!-- BIGLOBEモバイル -->
+    <ul class="ads">
+      <li class="ads_item responsive">
+        <div class="ads_img">
+          <script src="//ad.jp.ap.valuecommerce.com/servlet/jsbanner?sid=3585684&pid=887065228"></script><noscript><a href="//ck.jp.ap.valuecommerce.com/servlet/referral?sid=3585684&pid=887065228" rel="nofollow"><img src="//ad.jp.ap.valuecommerce.com/servlet/gifbanner?sid=3585684&pid=887065228" border="0"></a></noscript>
+        </div>
+      </li>
+      <!-- <li class="ads_item responsive">
+        <div class="ads_img">
+          <script src="//ad.jp.ap.valuecommerce.com/servlet/jsbanner?sid=3585684&pid=887064552"></script><noscript><a href="//ck.jp.ap.valuecommerce.com/servlet/referral?sid=3585684&pid=887064552" rel="nofollow"><img src="//ad.jp.ap.valuecommerce.com/servlet/gifbanner?sid=3585684&pid=887064552" border="0"></a></noscript>
+        </div>
+      </li> -->
+      <!-- <li class="ads_item responsive">
+        <div class="ads_img">
+          <script src="//ad.jp.ap.valuecommerce.com/servlet/jsbanner?sid=3585684&pid=887064553"></script><noscript><a href="//ck.jp.ap.valuecommerce.com/servlet/referral?sid=3585684&pid=887064553" rel="nofollow"><img src="//ad.jp.ap.valuecommerce.com/servlet/gifbanner?sid=3585684&pid=887064553" border="0"></a></noscript>
+        </div>
+      </li> -->
+      <li class="ads_item responsive">
+        <div class="ads_img">
+          <script src="//ad.jp.ap.valuecommerce.com/servlet/jsbanner?sid=3585684&pid=887065230"></script><noscript><a href="//ck.jp.ap.valuecommerce.com/servlet/referral?sid=3585684&pid=887065230" rel="nofollow"><img src="//ad.jp.ap.valuecommerce.com/servlet/gifbanner?sid=3585684&pid=887065230" border="0"></a></noscript>
+        </div>
+      </li>
+      <!-- <li class="ads_item responsive">
+        <div class="ads_img">
+          <script src="//ad.jp.ap.valuecommerce.com/servlet/jsbanner?sid=3585684&pid=887064558"></script><noscript><a href="//ck.jp.ap.valuecommerce.com/servlet/referral?sid=3585684&pid=887064558" rel="nofollow"><img src="//ad.jp.ap.valuecommerce.com/servlet/gifbanner?sid=3585684&pid=887064558" border="0"></a></noscript>
+        </div>
+      </li> -->
+      <!-- <li class="ads_item responsive">
+        <div class="ads_img">
+          <script src="//ad.jp.ap.valuecommerce.com/servlet/jsbanner?sid=3585684&pid=887064560"></script><noscript><a href="//ck.jp.ap.valuecommerce.com/servlet/referral?sid=3585684&pid=887064560" rel="nofollow"><img src="//ad.jp.ap.valuecommerce.com/servlet/gifbanner?sid=3585684&pid=887064560" border="0"></a></noscript>
+        </div>
+      </li> -->
+    </ul>
+  </section>
+  <section class="section_box spview">
+    <!-- BIGLOBEモバイル -->
+    <ul class="ads">
+      <li class="ads_item responsive">
+        <div class="ads_img">
+          <script src="//ad.jp.ap.valuecommerce.com/servlet/jsbanner?sid=3585684&pid=887065280"></script><noscript><a href="//ck.jp.ap.valuecommerce.com/servlet/referral?sid=3585684&pid=887065280" rel="nofollow"><img src="//ad.jp.ap.valuecommerce.com/servlet/gifbanner?sid=3585684&pid=887065280" border="0"></a></noscript>
+        </div>
+      </li>
+      <li class="ads_item responsive">
+        <div class="ads_img">
+          <script src="//ad.jp.ap.valuecommerce.com/servlet/jsbanner?sid=3585684&pid=887065282"></script><noscript><a href="//ck.jp.ap.valuecommerce.com/servlet/referral?sid=3585684&pid=887065282" rel="nofollow"><img src="//ad.jp.ap.valuecommerce.com/servlet/gifbanner?sid=3585684&pid=887065282" border="0"></a></noscript>
+        </div>
+      </li>
+      <!-- <li class="ads_item responsive">
+        <div class="ads_img">
+          <script src="//ad.jp.ap.valuecommerce.com/servlet/jsbanner?sid=3585684&pid=887064553"></script><noscript><a href="//ck.jp.ap.valuecommerce.com/servlet/referral?sid=3585684&pid=887064553" rel="nofollow"><img src="//ad.jp.ap.valuecommerce.com/servlet/gifbanner?sid=3585684&pid=887064553" border="0"></a></noscript>
+        </div>
+      </li> -->
+      <!-- <li class="ads_item responsive">
+        <div class="ads_img">
+          <script src="//ad.jp.ap.valuecommerce.com/servlet/jsbanner?sid=3585684&pid=887065231"></script><noscript><a href="//ck.jp.ap.valuecommerce.com/servlet/referral?sid=3585684&pid=887065231" rel="nofollow"><img src="//ad.jp.ap.valuecommerce.com/servlet/gifbanner?sid=3585684&pid=887065231" border="0"></a></noscript>
+        </div>
+      </li> -->
+      <li class="ads_item responsive">
+        <div class="ads_img">
+          <script src="//ad.jp.ap.valuecommerce.com/servlet/jsbanner?sid=3585684&pid=887065272"></script><noscript><a href="//ck.jp.ap.valuecommerce.com/servlet/referral?sid=3585684&pid=887065272" rel="nofollow"><img src="//ad.jp.ap.valuecommerce.com/servlet/gifbanner?sid=3585684&pid=887065272" border="0"></a></noscript>
+        </div>
+      </li>
+      <li class="ads_item responsive">
+        <div class="ads_img">
+          <script src="//ad.jp.ap.valuecommerce.com/servlet/jsbanner?sid=3585684&pid=887080977"></script><noscript><a href="//ck.jp.ap.valuecommerce.com/servlet/referral?sid=3585684&pid=887080977" rel="nofollow"><img src="//ad.jp.ap.valuecommerce.com/servlet/gifbanner?sid=3585684&pid=887080977" border="0"></a></noscript>
+        </div>
+      </li>
+    </ul>
+  </section>
 
 <hr>
 
@@ -355,62 +356,6 @@
 </section>
 
 <hr>
-
-<!-- MAKER SECTION -->
-<%-- <section id="maker_section" class="fdb-block py-0 section_box maker_section_img" data-block-type="contents" data-id="14" draggable="true">
-  <h2><b>対応機種</b></h2>
-  <ul class="top-banner">
-    <li><img src="${pageContext.request.contextPath}/resources/app/img/maker/acer.svg" alt="acer_logo"></li>
-    <li><img src="${pageContext.request.contextPath}/resources/app/img/maker/akaso.svg" alt="akaso_logo"></li>
-    <li><img src="${pageContext.request.contextPath}/resources/app/img/maker/amazon.svg" alt="amazon_logo"></li>
-    <li><img src="${pageContext.request.contextPath}/resources/app/img/maker/android-one.svg" alt="android-one_logo"></li>
-    <li><img src="${pageContext.request.contextPath}/resources/app/img/maker/apple.svg" alt="apple_logo"></li>
-    <li><img src="${pageContext.request.contextPath}/resources/app/img/maker/asus.svg" alt="asus_logo"></li>
-    <li><img src="${pageContext.request.contextPath}/resources/app/img/maker/blackview.svg" alt="blackview_logo"></li>
-    <li><img src="${pageContext.request.contextPath}/resources/app/img/maker/brackberry.svg" alt="brackberry_logo"></li>
-    <li><img src="${pageContext.request.contextPath}/resources/app/img/maker/chuwi.svg" alt="chuwi_logo"></li>
-    <li><img src="${pageContext.request.contextPath}/resources/app/img/maker/covia.svg" alt="covia_logo"></li>
-    <li><img src="${pageContext.request.contextPath}/resources/app/img/maker/dell.svg" alt="dell_logo"></li>
-    <li><img src="${pageContext.request.contextPath}/resources/app/img/maker/disney.svg" alt="disney_logo"></li>
-    <li><img src="${pageContext.request.contextPath}/resources/app/img/maker/doogee.svg" alt="doogee_logo"></li>
-    <li><img src="${pageContext.request.contextPath}/resources/app/img/maker/dynabook.svg" alt="dynabook_logo"></li>
-    <li><img src="${pageContext.request.contextPath}/resources/app/img/maker/essential.svg" alt="essential_logo"></li>
-    <li><img src="${pageContext.request.contextPath}/resources/app/img/maker/foxconn.svg" alt="foxconn_logo"></li>
-    <li><img src="${pageContext.request.contextPath}/resources/app/img/maker/freetel.svg" alt="freetel_logo"></li>
-    <li><img src="${pageContext.request.contextPath}/resources/app/img/maker/fujitsu.svg" alt="fujitsu_logo"></li>
-    <li><img src="${pageContext.request.contextPath}/resources/app/img/maker/google.svg" alt="google_logo"></li>
-    <li><img src="${pageContext.request.contextPath}/resources/app/img/maker/hp.svg" alt="hp_logo"></li>
-    <li><img src="${pageContext.request.contextPath}/resources/app/img/maker/htc.svg" alt="htc_logo"></li>
-    <li><img src="${pageContext.request.contextPath}/resources/app/img/maker/huawei.svg" alt="huawei_logo"></li>
-    <li><img src="${pageContext.request.contextPath}/resources/app/img/maker/kyocera.svg" alt="kyocera_logo"></li>
-    <li><img src="${pageContext.request.contextPath}/resources/app/img/maker/leagoo.svg" alt="leagoo_logo"></li>
-    <li><img src="${pageContext.request.contextPath}/resources/app/img/maker/lenovo.svg" alt="lenovo_logo"></li>
-    <li><img src="${pageContext.request.contextPath}/resources/app/img/maker/sharp.svg" alt="sharp_logo"></li>
-    <li><img src="${pageContext.request.contextPath}/resources/app/img/maker/nec.svg" alt="nec_logo"></li>
-    <li><img src="${pageContext.request.contextPath}/resources/app/img/maker/nokia.svg" alt="nokia_logo"></li>
-    <li><img src="${pageContext.request.contextPath}/resources/app/img/maker/oneplus.svg" alt="oneplus_logo"></li>
-    <li><img src="${pageContext.request.contextPath}/resources/app/img/maker/oppo.svg" alt="oppo_logo"></li>
-    <li><img src="${pageContext.request.contextPath}/resources/app/img/maker/oukitel.svg" alt="oukitel_logo"></li>
-    <li><img src="${pageContext.request.contextPath}/resources/app/img/maker/panasonic.svg" alt="panasonic_logo"></li>
-    <li><img src="${pageContext.request.contextPath}/resources/app/img/maker/samsung.svg" alt="samsung_logo"></li>
-    <li><img src="${pageContext.request.contextPath}/resources/app/img/maker/sharp.svg" alt="sharp_logo"></li>
-    <li><img src="${pageContext.request.contextPath}/resources/app/img/maker/sony.svg" alt="sony_logo"></li>
-    <li><img src="${pageContext.request.contextPath}/resources/app/img/maker/tcl.svg" alt="tcl_logo"></li>
-    <li><img src="${pageContext.request.contextPath}/resources/app/img/maker/teclast.svg" alt="teclast_logo"></li>
-    <li><img src="${pageContext.request.contextPath}/resources/app/img/maker/toshiba.svg" alt="toshiba_logo"></li>
-    <li><img src="${pageContext.request.contextPath}/resources/app/img/maker/umidigi.svg" alt="umidigi_logo"></li>
-    <li><img src="${pageContext.request.contextPath}/resources/app/img/maker/unihertz.svg" alt="unihertz_logo"></li>
-    <li><img src="${pageContext.request.contextPath}/resources/app/img/maker/vaio.svg" alt="vaio_logo"></li>
-    <li><img src="${pageContext.request.contextPath}/resources/app/img/maker/vankyo.svg" alt="vankyo_logo"></li>
-    <li><img src="${pageContext.request.contextPath}/resources/app/img/maker/vivo.svg" alt="vivo_logo"></li>
-    <li><img src="${pageContext.request.contextPath}/resources/app/img/maker/xiaomi.svg" alt="xiaomi_logo"></li>
-    <li><img src="${pageContext.request.contextPath}/resources/app/img/maker/oppo.svg" alt="oppo_logo"></li>
-    <li><img src="${pageContext.request.contextPath}/resources/app/img/maker/sharp.svg" alt="sharp_logo"></li>
-    <li><img src="${pageContext.request.contextPath}/resources/app/img/maker/zonko.svg" alt="zonko_logo"></li>
-    <li><img src="${pageContext.request.contextPath}/resources/app/img/maker/zte.svg" alt="zte_logo"></li>
-    <li><img src="${pageContext.request.contextPath}/resources/app/img/maker/other.svg" alt="other_logo"></li>
-  </ul>
-</section> --%>
 
 <section id="maker_section" class="fdb-block py-0 section_box maker_section_img" data-block-type="contents" data-id="14" draggable="true">
   <h2><b>スマホケース</b></h2>
@@ -577,6 +522,18 @@
     </form:form>
     <iframe name="send" style="width:0px;height:0px;border:0px;"></iframe>
   </section>
+  
+  <section class="section_box spview">
+    <!-- BIGLOBEモバイル -->
+    <ul class="ads">
+      <li class="ads_item responsive">
+        <div class="ads_img">
+          <script src="//ad.jp.ap.valuecommerce.com/servlet/smartphonebanner?sid=3585684&pid=887065916&position=inline"></script>
+        </div>
+      </li>
+    </ul>
+  </section>
+  
   <hr>
     <div class="modal js-modal">
       <div class="modal__bg js-modal-close"></div>

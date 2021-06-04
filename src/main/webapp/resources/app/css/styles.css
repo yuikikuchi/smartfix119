@@ -281,6 +281,7 @@ ul.area_menu li{
 iframe {
   width: 100%;
   height: 180px;
+  margin: 10px auto;;
   frameborder: 0;
   border: 0;
   allowfullscreen: "";
@@ -508,6 +509,25 @@ iframe{
 /* .title,.desc {
   width: 270px;
 } */
+
+/* アフィリエイト */
+.ads {
+  display: flex;
+  flex-wrap: wrap;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+.ads_item {
+  padding:10px;
+  width: calc(100%/2);
+  display: flex;
+  position: relative;
+}
+.ads_img {
+  display: block;
+  margin:auto;
+}
 
 /* ----- NEWS SECTION ----- */
 .news {
@@ -796,11 +816,23 @@ img {
   color: #FFC039;
 }
 
+.tableTest3 {
+  height: 80%;
+  width: 100%;
+  /* border:3px solid blue; */
+  padding: 10px;
+  margin: 0 auto;
+}
+
 
 @media (max-width: 960px) {
   .responsive {
     padding:10px;
     width: calc(100%/2);
+  }
+  .ads_item{
+    padding:10px;
+    width: calc(100%/1);
   }
 }
 
@@ -1085,6 +1117,11 @@ body.fixed {
   background-color: #5BA9FF;
 }
 
+.cssTest2 .btn {
+  width: 70%;
+  margin: 10px auto;
+}
+
 .tableTest {
   height: 80%;
   width:50%;
@@ -1093,8 +1130,19 @@ body.fixed {
   margin: 0 auto;
 }
 
+.spview {
+  display: none;
+}
+
 /* モバイル表示 */
 @media only screen and (max-width : 640px){
+  .pcview {
+    display: none;
+  }
+  .spview {
+    display: block;
+  }
+
   .rwdBox, .rwdBox2 {
     display: block;
   }
@@ -1226,4 +1274,101 @@ body.fixed {
 
 
 /* Google AdSense */
+
+/* Google Map */
+/* #map {
+  width: 700px;
+  height: 400px;
+} */
+
+.storeMap, .storeName {
+  width:100%;
+  height: auto;
+  position: relative;
+  padding: 10px;
+  margin:  10px;
+  }
+ 
+#map {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  top: 0;
+  }
+
+.storeList {
+  display: flex;
+  /* height: 50vh; */
+  justify-content: space-around;
+  flex-direction:row;
+}
+/* .stores {
+  padding: 10px;
+  margin:  10px;
+} */
+.shopName {
+  display: inline-block;
+  color: #FFFFFF;
+  padding: 0.5em 1em;
+  margin: 0.5em;
+  cursor: pointer;
+  background: transparent;
+  background-color: #FFC039;
+  box-shadow: 0 3px 6px rgba(0, 0, 0, 0.25);
+  border-radius: 8px;
+  width: 100%;
+}
+.shopName:hover {
+  color: #FFFFFF;
+  background-color: #5BA9FF;
+}
+/* .stores li {
+  width: calc(100%/2)
+} */
+
+@media (max-width: 560px) {
+  .storeList {
+    display: flex;
+    justify-content: space-around;
+    flex-direction:column;
+  }
+  .storeMap {
+  width:88%;
+  height: 240px;
+  /* padding-top:50%; */
+  position: relative;
+  /* margin:auto; */
+  /* padding: 10px;
+  margin:  10px; */
+  }
+  .storeName {
+  width:88%;
+  height: auto;
+  /* padding-top:50%; */
+  position: relative;
+  /* margin:auto; */
+  /* padding: 10px;
+  margin:  10px; */
+  }
+}
+
+/* .fullTest {
+  width: 100vw;
+  height: 100vh;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  -webkit-align-items: center;
+  align-items: center;
+  -webkit-box-pack: center;
+  -ms-flex-pack: center;
+  -webkit-justify-content: center;
+  justify-content: center;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+} */
 

@@ -149,4 +149,32 @@
             shop_id
     ]]>
     </select>
+    
+        <!-- 店舗情報を取得するSQL -->
+    <select id="findByShopId" parameterType="ShopListEntity" resultType="ShopListEntity">
+    <![CDATA[
+        SELECT
+            shop_id, 
+            shop_name, 
+            location_01, 
+            location_02, 
+            phone_no_01, 
+            phone_no_02, 
+            business_hour_01, 
+            business_hour_02, 
+            holidays, 
+            shop_site, 
+            area_01_id, 
+            area_02_id, 
+            map, 
+            introduction, 
+            official_flg, 
+            apple_flg, 
+            android_flg 
+        FROM
+             smartfix119_pro.shopinfo 
+        WHERE
+            shop_id = #{shopId}
+    ]]>
+    </select>
 </mapper>

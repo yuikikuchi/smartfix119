@@ -40,5 +40,10 @@ public interface ShopListRepository {
 	 * ピックアップ店舗を検索
 	 */
 	List<ShopListEntity> findByPickupShop();
+	
+	/**
+	 * 店舗検索
+	 */
+	ShopListEntity findByShopId(int shopId);
 
 }

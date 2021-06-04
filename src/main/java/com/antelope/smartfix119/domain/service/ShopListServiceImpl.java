@@ -83,5 +83,16 @@ public class ShopListServiceImpl implements ShopListService {
 		List<ShopListEntity> result = shopListRepository.findByPickupShop();
 		return result;
 	}
+	
+	/**
+	 * 店舗検索
+	 * 
+	 * @return 検索結果の返却
+	 */
+	@Override
+	public ShopListEntity findByShopId(int shopId) {
+		ShopListEntity result = shopListRepository.findByShopId(shopId);
+		return result;
+	}
 
 }
