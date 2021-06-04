@@ -1,0 +1,27 @@
+[
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=201\" onclick=\"OnLinkClick();\">スマホ修理工房 那覇新都心店<\/a><\/div>",
+        "lat": 26.2300465,
+        "lng": 127.6912563
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=202\" onclick=\"OnLinkClick();\">スマホ修理工房 北谷店<\/a><\/div>",
+        "lat": 26.3218286,
+        "lng": 127.7554558
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=203\" onclick=\"OnLinkClick();\">スマホステーション UNiCASE 沖縄・浦添パルコシティ店<\/a><\/div>",
+        "lat": 26.2617775,
+        "lng": 127.6956595
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=236\" onclick=\"OnLinkClick();\">iCracked Store サンエー宜野湾コンベンションシティ<\/a><\/div>",
+        "lat": 26.2748838,
+        "lng": 127.7279597
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=237\" onclick=\"OnLinkClick();\">iCracked Store サンエーつかざんシティ<\/a><\/div>",
+        "lat": 26.1904494,
+        "lng": 127.7074575
+    }
+]

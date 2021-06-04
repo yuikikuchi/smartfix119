@@ -1,0 +1,42 @@
+[
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=201\" onclick=\"OnLinkClick();\">パソコン修理24スマホドック 神戸三宮店<\/a><\/div>",
+        "lat": 34.6917472,
+        "lng": 135.1887182
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=202\" onclick=\"OnLinkClick();\">パソコン修理24スマホドック 神戸須磨板宿店<\/a><\/div>",
+        "lat": 34.6618982,
+        "lng": 135.1305958
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=203\" onclick=\"OnLinkClick();\">スマホスピタル西宮北口<\/a><\/div>",
+        "lat": 34.7472495,
+        "lng": 135.3560825
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=236\" onclick=\"OnLinkClick();\">スマホスピタル姫路キャスパ店<\/a><\/div>",
+        "lat": 34.8281957,
+        "lng": 134.68727
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=237\" onclick=\"OnLinkClick();\">スマホスピタル神戸三宮<\/a><\/div>",
+        "lat": 34.6939019,
+        "lng": 135.1908846
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=238\" onclick=\"OnLinkClick();\">スマホスピタル尼崎<\/a><\/div>",
+        "lat": 34.7175391,
+        "lng": 135.4134196
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=241\" onclick=\"OnLinkClick();\">​スマホスピタル明石店<\/a><\/div>",
+        "lat": 34.6480392,
+        "lng": 134.9901555
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=242\" onclick=\"OnLinkClick();\">スマホスピタル伊丹<\/a><\/div>",
+        "lat": 34.7800309,
+        "lng": 135.4081849
+    }
+]

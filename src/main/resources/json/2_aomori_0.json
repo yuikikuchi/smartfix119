@@ -1,0 +1,37 @@
+[
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=18\" onclick=\"OnLinkClick();\">スマホ修理工房 青森店<\/a><\/div>",
+        "lat": 40.828518,
+        "lng": 140.681799
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=465\" onclick=\"OnLinkClick();\">あいプロ 青森・むつ店<\/a><\/div>",
+        "lat": 41.285027,
+        "lng": 141.202749
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=486\" onclick=\"OnLinkClick();\">i-SS むつ店<\/a><\/div>",
+        "lat": 41.29273,
+        "lng": 141.205317
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=500\" onclick=\"OnLinkClick();\">BeeMobileサンロード青森店<\/a><\/div>",
+        "lat": 40.807672,
+        "lng": 140.753552
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=501\" onclick=\"OnLinkClick();\">モバイル修理.jp 八戸店<\/a><\/div>",
+        "lat": 40.505341,
+        "lng": 141.509058
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=556\" onclick=\"OnLinkClick();\">iPhoneDoctor 弘前店<\/a><\/div>",
+        "lat": 40.605256,
+        "lng": 140.486413
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=557\" onclick=\"OnLinkClick();\">iPhoneDoctor 八戸店<\/a><\/div>",
+        "lat": 40.521619,
+        "lng": 141.503666
+    }
+]

@@ -1,0 +1,27 @@
+[
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=623\" onclick=\"OnLinkClick();\">iPhone修理SHOP 北見店<\/a><\/div>",
+        "lat": 43.79959,
+        "lng": 143.878655
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=665\" onclick=\"OnLinkClick();\">iPhone修理ジャパン 旭川永山店<\/a><\/div>",
+        "lat": 43.789235,
+        "lng": 142.405954
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=666\" onclick=\"OnLinkClick();\">iPhone修理ジャパン MEGAドン・キホーテ 西帯広店<\/a><\/div>",
+        "lat": 42.91191,
+        "lng": 143.143822
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=732\" onclick=\"OnLinkClick();\">スマップル 札幌駅店<\/a><\/div>",
+        "lat": 43.068867,
+        "lng": 141.347729
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=733\" onclick=\"OnLinkClick();\">スマップル 札幌大通店<\/a><\/div>",
+        "lat": 43.05834,
+        "lng": 141.353482
+    }
+]

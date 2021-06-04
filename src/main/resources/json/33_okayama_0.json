@@ -1,0 +1,37 @@
+[
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=201\" onclick=\"OnLinkClick();\">スマホ修理工房 岡山南店<\/a><\/div>",
+        "lat": 34.6347642,
+        "lng": 133.8916874
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=202\" onclick=\"OnLinkClick();\">スマホステーション お宝発見岡山店<\/a><\/div>",
+        "lat": 34.622678,
+        "lng": 133.9049673
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=203\" onclick=\"OnLinkClick();\">パソコン修理24スマホドック 岡山駅前店<\/a><\/div>",
+        "lat": 34.6658675,
+        "lng": 133.9186479
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=236\" onclick=\"OnLinkClick();\">スマホスピタル岡山駅前店<\/a><\/div>",
+        "lat": 34.6638128,
+        "lng": 133.9177879
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=237\" onclick=\"OnLinkClick();\">モバイル修理.jp マルナカ高屋店<\/a><\/div>",
+        "lat": 34.6735974,
+        "lng": 133.9584191
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=238\" onclick=\"OnLinkClick();\">ダイワンテレコム 岡山倉敷店<\/a><\/div>",
+        "lat": 34.6143414,
+        "lng": 133.7689762
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=241\" onclick=\"OnLinkClick();\">​スマップル 岡山駅前店<\/a><\/div>",
+        "lat": 34.6652317,
+        "lng": 133.9176304
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=45\" onclick=\"OnLinkClick();\">スマホ修理工房 ペリエ千葉店<\/a><\/div>",
+        "lat": 35.6129031,
+        "lng": 140.1115071
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=46\" onclick=\"OnLinkClick();\">スマホ修理工房 市川鬼高店<\/a><\/div>",
+        "lat": 35.7091094,
+        "lng": 139.9381762
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=47\" onclick=\"OnLinkClick();\">スマホ修理工房 柏マルイ店<\/a><\/div>",
+        "lat": 35.8618058,
+        "lng": 139.9690441
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=165\" onclick=\"OnLinkClick();\">スマホステーション 木更津店<\/a><\/div>",
+        "lat": 35.3769003,
+        "lng": 139.9442051
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=166\" onclick=\"OnLinkClick();\">スマホステーション 市原店<\/a><\/div>",
+        "lat": 35.5188098,
+        "lng": 140.0873525
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=197\" onclick=\"OnLinkClick();\">パソコン修理24スマホドック 千葉船橋店<\/a><\/div>",
+        "lat": 35.6969709,
+        "lng": 139.9830374
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=280\" onclick=\"OnLinkClick();\">iCracked Store 木更津<\/a><\/div>",
+        "lat": 35.387027,
+        "lng": 139.9355525
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=357\" onclick=\"OnLinkClick();\">iPhone修理のクイック千葉柏店<\/a><\/div>",
+        "lat": 35.8605462,
+        "lng": 139.9711563
+    }
+]

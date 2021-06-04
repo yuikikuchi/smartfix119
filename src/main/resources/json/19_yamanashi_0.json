@@ -1,0 +1,37 @@
+[
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=102\" onclick=\"OnLinkClick();\">スマホ修理工房 山梨中央店<\/a><\/div>",
+        "lat": 35.5985872,
+        "lng": 138.5200344
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=103\" onclick=\"OnLinkClick();\">スマホ修理工房 セレオ甲府店<\/a><\/div>",
+        "lat": 35.6670283,
+        "lng": 138.5668918
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=301\" onclick=\"OnLinkClick();\">iCracked Store 甲府<\/a><\/div>",
+        "lat": 35.646702,
+        "lng": 138.5531153
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=302\" onclick=\"OnLinkClick();\">iCracked Store イオンモール甲府昭和<\/a><\/div>",
+        "lat": 35.6219647,
+        "lng": 138.5250898
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=303\" onclick=\"OnLinkClick();\">iCracked Store 富士吉田河口湖<\/a><\/div>",
+        "lat": 35.4894674,
+        "lng": 138.7802354
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=471\" onclick=\"OnLinkClick();\">あいプロ 甲府店<\/a><\/div>",
+        "lat": 35.6431893,
+        "lng": 138.6220398
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=584\" onclick=\"OnLinkClick();\">iPhoneDoctor 山梨甲府店<\/a><\/div>",
+        "lat": 35.6394851,
+        "lng": 138.5473409
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=201\" onclick=\"OnLinkClick();\">スマホ修理工房 熊本ゆめタウン店<\/a><\/div>",
+        "lat": 32.8601439,
+        "lng": 130.7824707
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=202\" onclick=\"OnLinkClick();\">スマホ修理工房 熊本店<\/a><\/div>",
+        "lat": 32.7720925,
+        "lng": 130.7050693
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=203\" onclick=\"OnLinkClick();\">スマホスピタル熊本<\/a><\/div>",
+        "lat": 32.8006361,
+        "lng": 130.7058294
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=236\" onclick=\"OnLinkClick();\">iCracked Spot ゆめタウン八代<\/a><\/div>",
+        "lat": 32.5055765,
+        "lng": 130.5836117
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=237\" onclick=\"OnLinkClick();\">iCracked Store 八代<\/a><\/div>",
+        "lat": 32.5074164,
+        "lng": 130.6112854
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=238\" onclick=\"OnLinkClick();\">モバイル修理.jp 熊本店<\/a><\/div>",
+        "lat": 32.768171,
+        "lng": 130.7221303
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=241\" onclick=\"OnLinkClick();\">ダイワンテレコム 熊本天草店<\/a><\/div>",
+        "lat": 32.4372752,
+        "lng": 130.2093188
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=242\" onclick=\"OnLinkClick();\">スマップル 熊本店<\/a><\/div>",
+        "lat": 32.8005843,
+        "lng": 130.7069722
+    }
+]

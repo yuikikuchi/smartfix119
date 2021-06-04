@@ -1,0 +1,37 @@
+[
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=31\" onclick=\"OnLinkClick();\">スマホ修理工房 水戸オーパ店<\/a><\/div>",
+        "lat": 36.3701453,
+        "lng": 140.4733428
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=333\" onclick=\"OnLinkClick();\">iPhone修理のクイック茨城日立店<\/a><\/div>",
+        "lat": 36.5002546,
+        "lng": 140.6220212
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=487\" onclick=\"OnLinkClick();\">i-SS 北茨城店<\/a><\/div>",
+        "lat": 36.7824687,
+        "lng": 140.7435601
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=570\" onclick=\"OnLinkClick();\">iPhoneDoctor 土浦店<\/a><\/div>",
+        "lat": 36.0774695,
+        "lng": 140.2017959
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=668\" onclick=\"OnLinkClick();\">iPhone修理ジャパン つくば店<\/a><\/div>",
+        "lat": 36.0775,
+        "lng": 140.1133028
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=669\" onclick=\"OnLinkClick();\">iPhone修理ジャパン 笠間店<\/a><\/div>",
+        "lat": 36.3764125,
+        "lng": 140.2574738
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=736\" onclick=\"OnLinkClick();\">スマップル つくば店<\/a><\/div>",
+        "lat": 36.097493,
+        "lng": 140.1081921
+    }
+]

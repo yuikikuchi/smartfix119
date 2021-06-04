@@ -1,0 +1,42 @@
+[
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=201\" onclick=\"OnLinkClick();\">パソコン修理24スマホドック 福岡姪浜店<\/a><\/div>",
+        "lat": 33.5778435,
+        "lng": 130.3223463
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=202\" onclick=\"OnLinkClick();\">スマホスピタル博多駅前<\/a><\/div>",
+        "lat": 33.5892732,
+        "lng": 130.4135681
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=203\" onclick=\"OnLinkClick();\">スマホスピタル福岡天神<\/a><\/div>",
+        "lat": 33.5869012,
+        "lng": 130.3959061
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=236\" onclick=\"OnLinkClick();\">iCracked Store ウエストコート姪浜<\/a><\/div>",
+        "lat": 33.5820606,
+        "lng": 130.3205509
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=237\" onclick=\"OnLinkClick();\">iCracked Store キャナルシティ博多<\/a><\/div>",
+        "lat": 33.5896325,
+        "lng": 130.4090066
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=238\" onclick=\"OnLinkClick();\">iCracked Store 博多天神<\/a><\/div>",
+        "lat": 33.5869539,
+        "lng": 130.3993907
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=241\" onclick=\"OnLinkClick();\">​iCracked Store イオンモール筑紫野<\/a><\/div>",
+        "lat": 33.4811625,
+        "lng": 130.524311
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=242\" onclick=\"OnLinkClick();\">モバイル修理.jp 福岡行橋店<\/a><\/div>",
+        "lat": 33.6956881,
+        "lng": 131.0062404
+    }
+]

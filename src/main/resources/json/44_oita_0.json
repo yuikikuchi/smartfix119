@@ -1,0 +1,12 @@
+[
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=201\" onclick=\"OnLinkClick();\">スマップル 熊本店<\/a><\/div>",
+        "lat": 33.2000415,
+        "lng": 131.6047954
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=202\" onclick=\"OnLinkClick();\">スマップル 大分店<\/a><\/div>",
+        "lat": 33.2359143,
+        "lng": 131.6035568
+    }
+]

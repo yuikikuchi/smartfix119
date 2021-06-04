@@ -1,0 +1,27 @@
+[
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=201\" onclick=\"OnLinkClick();\">スマホ修理工房 鳥取米子店<\/a><\/div>",
+        "lat": 35.4299372,
+        "lng": 133.3294399
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=202\" onclick=\"OnLinkClick();\">スマホ修理工房 鳥取安長店<\/a><\/div>",
+        "lat": 35.5131431,
+        "lng": 134.1988196
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=203\" onclick=\"OnLinkClick();\">あいプロ 米子店<\/a><\/div>",
+        "lat": 35.4400465,
+        "lng": 133.3385405
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=236\" onclick=\"OnLinkClick();\">リンゴ屋 鳥取駅南店<\/a><\/div>",
+        "lat": 35.4906131,
+        "lng": 134.2230762
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=237\" onclick=\"OnLinkClick();\">リンゴ屋 倉吉駅前店<\/a><\/div>",
+        "lat": 35.448745,
+        "lng": 133.8469445
+    }
+]

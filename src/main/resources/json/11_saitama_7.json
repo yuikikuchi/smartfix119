@@ -1,0 +1,32 @@
+[
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=654\" onclick=\"OnLinkClick();\">iPhone修理ジャパン 越谷せんげん台店<\/a><\/div>",
+        "lat": 35.935716,
+        "lng": 139.7734495
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=655\" onclick=\"OnLinkClick();\">iPhone修理ジャパン イオンモール与野店<\/a><\/div>",
+        "lat": 35.8908633,
+        "lng": 139.6128995
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=656\" onclick=\"OnLinkClick();\">iPhone修理ジャパン アリオ鷲宮店<\/a><\/div>",
+        "lat": 36.0787137,
+        "lng": 139.6589
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=706\" onclick=\"OnLinkClick();\">ダイワンテレコム 川口店<\/a><\/div>",
+        "lat": 35.891582,
+        "lng": 139.5503541
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=707\" onclick=\"OnLinkClick();\">ダイワンテレコム 埼玉入間店<\/a><\/div>",
+        "lat": 35.8218028,
+        "lng": 139.4073637
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=739\" onclick=\"OnLinkClick();\">スマップル 大宮店<\/a><\/div>",
+        "lat": 35.9077553,
+        "lng": 139.6234917
+    }
+]

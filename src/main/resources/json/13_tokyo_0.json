@@ -1,0 +1,42 @@
+[
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=32\" onclick=\"OnLinkClick();\">スマホ修理王 渋谷店<\/a><\/div>",
+        "lat": 35.6588269,
+        "lng": 139.695535
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=33\" onclick=\"OnLinkClick();\">スマホ修理王 上野御徒町店<\/a><\/div>",
+        "lat": 35.7085622,
+        "lng": 139.7728198
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=34\" onclick=\"OnLinkClick();\">スマホ修理王 TSUTAYA北千住店<\/a><\/div>",
+        "lat": 35.7494487,
+        "lng": 139.8051946
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=35\" onclick=\"OnLinkClick();\">スマホ修理王 イオシス秋葉原店<\/a><\/div>",
+        "lat": 35.7011896,
+        "lng": 139.7691125
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=36\" onclick=\"OnLinkClick();\">スマホ修理王 池袋北口店<\/a><\/div>",
+        "lat": 35.7320847,
+        "lng": 139.7091102
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=37\" onclick=\"OnLinkClick();\">スマホ修理王 日暮里駅前店<\/a><\/div>",
+        "lat": 35.7286895,
+        "lng": 139.7695816
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=38\" onclick=\"OnLinkClick();\">スマホ修理王 浅草店<\/a><\/div>",
+        "lat": 35.7125935,
+        "lng": 139.7968127
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=39\" onclick=\"OnLinkClick();\">スマホ修理工房 池袋P'パルコ本店<\/a><\/div>",
+        "lat": 35.7316667,
+        "lng": 139.7102493
+    }
+]

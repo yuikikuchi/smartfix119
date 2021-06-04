@@ -1,0 +1,17 @@
+[
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=608\" onclick=\"OnLinkClick();\">リンゴ屋 カインズ小山店<\/a><\/div>",
+        "lat": 36.3272405,
+        "lng": 139.7876666
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=609\" onclick=\"OnLinkClick();\">リンゴ屋 栃木宇都宮店<\/a><\/div>",
+        "lat": 36.549066,
+        "lng": 139.923746
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=713\" onclick=\"OnLinkClick();\">ダイワンテレコム ベルモール宇都宮店<\/a><\/div>",
+        "lat": 36.5550623,
+        "lng": 139.9260557
+    }
+]

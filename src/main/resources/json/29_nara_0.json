@@ -1,0 +1,17 @@
+[
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=201\" onclick=\"OnLinkClick();\">スマホ修理工房 奈良店<\/a><\/div>",
+        "lat": 34.6567404,
+        "lng": 135.7958962
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=202\" onclick=\"OnLinkClick();\">スマホスピタル奈良店<\/a><\/div>",
+        "lat": 34.6839815,
+        "lng": 135.8237269
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=203\" onclick=\"OnLinkClick();\">スマホスピタル奈良橿原<\/a><\/div>",
+        "lat": 34.5136839,
+        "lng": 135.7903509
+    }
+]

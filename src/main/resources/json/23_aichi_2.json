@@ -1,0 +1,42 @@
+[
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=491\" onclick=\"OnLinkClick();\">i-SS JR弥富・近鉄弥富駅前店<\/a><\/div>",
+        "lat": 35.1156586,
+        "lng": 136.7260912
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=587\" onclick=\"OnLinkClick();\">iPhoneDoctor 愛知知立店<\/a><\/div>",
+        "lat": 34.9981189,
+        "lng": 137.0566014
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=588\" onclick=\"OnLinkClick();\">iPhoneDoctor 名古屋駅前店<\/a><\/div>",
+        "lat": 35.1716116,
+        "lng": 136.8762034
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=589\" onclick=\"OnLinkClick();\">iPhoneDoctor 名古屋中央店<\/a><\/div>",
+        "lat": 35.1241389,
+        "lng": 136.8928698
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=590\" onclick=\"OnLinkClick();\">iPhoneDoctor イオンタウン名西店<\/a><\/div>",
+        "lat": 35.2042082,
+        "lng": 136.8905984
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=611\" onclick=\"OnLinkClick();\">リンゴ屋 名古屋 栄本店<\/a><\/div>",
+        "lat": 35.1664894,
+        "lng": 136.9081493
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=717\" onclick=\"OnLinkClick();\">ダイワンテレコム 名古屋今池店<\/a><\/div>",
+        "lat": 35.1688102,
+        "lng": 136.9344155
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=718\" onclick=\"OnLinkClick();\">ダイワンテレコム 名古屋栄店<\/a><\/div>",
+        "lat": 35.168852,
+        "lng": 136.9009141
+    }
+]

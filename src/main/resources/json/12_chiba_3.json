@@ -1,0 +1,42 @@
+[
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=606\" onclick=\"OnLinkClick();\">リンゴ屋 柏店<\/a><\/div>",
+        "lat": 35.9139745,
+        "lng": 139.9271181
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=607\" onclick=\"OnLinkClick();\">リンゴ屋 船橋店<\/a><\/div>",
+        "lat": 35.6975711,
+        "lng": 139.9785006
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=631\" onclick=\"OnLinkClick();\">iPhone修理SHOP 千葉宮野木店<\/a><\/div>",
+        "lat": 35.6616842,
+        "lng": 140.0826355
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=657\" onclick=\"OnLinkClick();\">iPhone修理ジャパン 船橋店<\/a><\/div>",
+        "lat": 35.7022155,
+        "lng": 139.9844059
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=658\" onclick=\"OnLinkClick();\">iPhone修理ジャパン イオンモール船橋店<\/a><\/div>",
+        "lat": 35.7125886,
+        "lng": 139.9761768
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=659\" onclick=\"OnLinkClick();\">iPhone修理ジャパン アリオ蘇我店<\/a><\/div>",
+        "lat": 35.5876488,
+        "lng": 140.1203836
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=660\" onclick=\"OnLinkClick();\">iPhone修理ジャパン ニッケコルトンプラザ市川店<\/a><\/div>",
+        "lat": 35.7171977,
+        "lng": 139.9316196
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=708\" onclick=\"OnLinkClick();\">ダイワンテレコム 成田店<\/a><\/div>",
+        "lat": 35.7955788,
+        "lng": 140.3165178
+    }
+]

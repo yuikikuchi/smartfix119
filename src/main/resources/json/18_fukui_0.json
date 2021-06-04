@@ -1,0 +1,22 @@
+[
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=110\" onclick=\"OnLinkClick();\">スマホ修理工房 福井店<\/a><\/div>",
+        "lat": 36.03523,
+        "lng": 136.2039307
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=461\" onclick=\"OnLinkClick();\">iPhone修理のクイック福井店<\/a><\/div>",
+        "lat": 36.0624181,
+        "lng": 136.2393622
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=539\" onclick=\"OnLinkClick();\">モバイル修理.jp 高浜店<\/a><\/div>",
+        "lat": 35.4875109,
+        "lng": 135.5402656
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=583\" onclick=\"OnLinkClick();\">iPhoneDoctor 敦賀店\/a><\/div>",
+        "lat": 35.644495,
+        "lng": 136.0556505
+    }
+]

@@ -1,0 +1,37 @@
+[
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=201\" onclick=\"OnLinkClick();\">iPhoneDoctor 福岡南店<\/a><\/div>",
+        "lat": 33.5543064,
+        "lng": 130.4263357
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=202\" onclick=\"OnLinkClick();\">iPhoneDoctor 直方店<\/a><\/div>",
+        "lat": 33.7493208,
+        "lng": 130.7266371
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=203\" onclick=\"OnLinkClick();\">リンゴ屋 博多駅東店<\/a><\/div>",
+        "lat": 33.589579,
+        "lng": 130.4243916
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=236\" onclick=\"OnLinkClick();\">ダイワンテレコム 福岡天神店<\/a><\/div>",
+        "lat": 33.586699,
+        "lng": 130.396842
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=237\" onclick=\"OnLinkClick();\">スマップル 博多店<\/a><\/div>",
+        "lat": 33.5905979,
+        "lng": 130.4186322
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=238\" onclick=\"OnLinkClick();\">スマップル 天神店<\/a><\/div>",
+        "lat": 33.5868449,
+        "lng": 130.3952541
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=241\" onclick=\"OnLinkClick();\">​スマップル 北九州小倉店<\/a><\/div>",
+        "lat": 33.8842951,
+        "lng": 130.8775024
+    }
+]

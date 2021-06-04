@@ -1,0 +1,42 @@
+[
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=278\" onclick=\"OnLinkClick();\">iCracked Spot 蒲生<\/a><\/div>",
+        "lat": 35.8673187,
+        "lng": 139.7923578
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=279\" onclick=\"OnLinkClick();\">iCracked Store 新座<\/a><\/div>",
+        "lat": 35.8015723,
+        "lng": 139.5563533
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=334\" onclick=\"OnLinkClick();\">iPhone修理のクイック仏子店<\/a><\/div>",
+        "lat": 35.8377985,
+        "lng": 139.3564378
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=335\" onclick=\"OnLinkClick();\">iPhone修理のクイック埼玉 三郷店<\/a><\/div>",
+        "lat": 35.8527863,
+        "lng": 139.8651393
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=336\" onclick=\"OnLinkClick();\">iPhone修理のクイック埼玉川口店<\/a><\/div>",
+        "lat": 35.8040689,
+        "lng": 139.7160698
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=337\" onclick=\"OnLinkClick();\">iPhone修理のクイック西所沢店<\/a><\/div>",
+        "lat": 35.7895787,
+        "lng": 139.453797
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=338\" onclick=\"OnLinkClick();\">iPhone修理のクイック朝霞台店<\/a><\/div>",
+        "lat": 35.8141983,
+        "lng": 139.58471
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=339\" onclick=\"OnLinkClick();\">iPhone修理のクイック小手指店<\/a><\/div>",
+        "lat": 35.8000457,
+        "lng": 139.4352484
+    }
+]

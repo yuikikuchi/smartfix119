@@ -1,0 +1,42 @@
+[
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=213\" onclick=\"OnLinkClick();\">スマホスピタル 大丸札幌店<\/a><\/div>",
+        "lat": 43.067694,
+        "lng": 141.349444
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=273\" onclick=\"OnLinkClick();\">iCracked Store 札幌ロフト<\/a><\/div>",
+        "lat": 43.067652,
+        "lng": 141.352452
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=554\" onclick=\"OnLinkClick();\">iPhoneDoctor 帯広店<\/a><\/div>",
+        "lat": 42.924562,
+        "lng": 143.194985
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=555\" onclick=\"OnLinkClick();\">iPhoneDoctor 旭川店<\/a><\/div>",
+        "lat": 43.747506,
+        "lng": 142.390108
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=619\" onclick=\"OnLinkClick();\">iPhone修理SHOP イオン函館上磯店<\/a><\/div>",
+        "lat": 41.82181,
+        "lng": 140.712267
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=620\" onclick=\"OnLinkClick();\">iPhone修理SHOP 旭川駅前店<\/a><\/div>",
+        "lat": 43.76709,
+        "lng": 142.359823
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=621\" onclick=\"OnLinkClick();\">iPhone修理SHOP MEGAドン・キホーテ西帯広店<\/a><\/div>",
+        "lat": 42.911779,
+        "lng": 143.142857
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=622\" onclick=\"OnLinkClick();\">iPhone修理SHOP 旭川永山店<\/a><\/div>",
+        "lat": 43.789235,
+        "lng": 142.405954
+    }
+]

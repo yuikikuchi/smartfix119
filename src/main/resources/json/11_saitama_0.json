@@ -1,0 +1,42 @@
+[
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=48\" onclick=\"OnLinkClick();\">スマホ修理工房 イオンレイクタウンmori店<\/a><\/div>",
+        "lat": 35.882039,
+        "lng": 139.8258333
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=49\" onclick=\"OnLinkClick();\">スマホ修理工房 大宮店<\/a><\/div>",
+        "lat": 35.907987,
+        "lng": 139.6184883
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=50\" onclick=\"OnLinkClick();\">スマホ修理工房 浦和パルコ店<\/a><\/div>",
+        "lat": 35.8586575,
+        "lng": 139.6567896
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=51\" onclick=\"OnLinkClick();\">スマホ修理工房 和光駅前店<\/a><\/div>",
+        "lat": 35.788868,
+        "lng": 139.6103802
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=52\" onclick=\"OnLinkClick();\">スマホ修理工房 マルイファミリー志木店<\/a><\/div>",
+        "lat": 35.8233498,
+        "lng": 139.5719254
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=53\" onclick=\"OnLinkClick();\">スマホ修理工房 新所沢パルコ店<\/a><\/div>",
+        "lat": 35.8052307,
+        "lng": 139.4532559
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=54\" onclick=\"OnLinkClick();\">スマホ修理工房 所沢店<\/a><\/div>",
+        "lat": 35.7853,
+        "lng": 139.4729958
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=55\" onclick=\"OnLinkClick();\">スマホ修理工房 東松山店<\/a><\/div>",
+        "lat": 36.0032955,
+        "lng": 139.4111376
+    }
+]

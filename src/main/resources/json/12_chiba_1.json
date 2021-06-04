@@ -1,0 +1,42 @@
+[
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=358\" onclick=\"OnLinkClick();\">iPhone修理のクイック千葉津田沼店<\/a><\/div>",
+        "lat": 35.6934049,
+        "lng": 140.0212902
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=359\" onclick=\"OnLinkClick();\">iPhone修理のクイック千葉成田店<\/a><\/div>",
+        "lat": 35.7769757,
+        "lng": 140.3126646
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=360\" onclick=\"OnLinkClick();\">iPhone修理のクイック市川店<\/a><\/div>",
+        "lat": 35.7290256,
+        "lng": 139.9030908
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=361\" onclick=\"OnLinkClick();\">iPhone修理のクイック海浜幕張店<\/a><\/div>",
+        "lat": 35.649991,
+        "lng": 140.0404558
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=470\" onclick=\"OnLinkClick();\">あいプロ 四街道店<\/a><\/div>",
+        "lat": 35.6531174,
+        "lng": 140.1685988
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=472\" onclick=\"OnLinkClick();\">あいプロ 木更津店<\/a><\/div>",
+        "lat": 35.3605622,
+        "lng": 139.9418879
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=473\" onclick=\"OnLinkClick();\">あいプロ 柏店<\/a><\/div>",
+        "lat": 35.8541829,
+        "lng": 139.9597371
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=524\" onclick=\"OnLinkClick();\">モバイル修理.jp 成田店<\/a><\/div>",
+        "lat": 35.7655478,
+        "lng": 140.3075357
+    }
+]

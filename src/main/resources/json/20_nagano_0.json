@@ -1,0 +1,42 @@
+[
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=104\" onclick=\"OnLinkClick();\">スマホ修理工房 松本パルコ店<\/a><\/div>",
+        "lat": 36.232661,
+        "lng": 137.9660073
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=108\" onclick=\"OnLinkClick();\">スマホ修理工房 イオンモール松本店<\/a><\/div>",
+        "lat": 36.2339933,
+        "lng": 137.9754867
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=477\" onclick=\"OnLinkClick();\">あいプロ 長野店<\/a><\/div>",
+        "lat": 36.6697075,
+        "lng": 138.2049849
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=527\" onclick=\"OnLinkClick();\">モバイル修理.jp 長野店<\/a><\/div>",
+        "lat": 36.6617911,
+        "lng": 138.2564752
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=528\" onclick=\"OnLinkClick();\">モバイル修理.jp 上伊那店<\/a><\/div>",
+        "lat": 35.7670753,
+        "lng": 137.9364063
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=529\" onclick=\"OnLinkClick();\">モバイル修理.jp 上田店<\/a><\/div>",
+        "lat": 36.4058437,
+        "lng": 138.2739079
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=530\" onclick=\"OnLinkClick();\">モバイル修理.jp 飯田店<\/a><\/div>",
+        "lat": 35.5131122,
+        "lng": 137.8458088
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=531\" onclick=\"OnLinkClick();\">モバイル修理.jp 伊那店<\/a><\/div>",
+        "lat": 35.836794,
+        "lng": 137.9703994
+    }
+]

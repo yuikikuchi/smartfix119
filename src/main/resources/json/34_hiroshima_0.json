@@ -1,0 +1,42 @@
+[
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=201\" onclick=\"OnLinkClick();\">スマホ修理工房 広島パルコ店<\/a><\/div>",
+        "lat": 34.3921368,
+        "lng": 132.4605248
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=202\" onclick=\"OnLinkClick();\">スマホ修理工房 広島商工センター店<\/a><\/div>",
+        "lat": 34.3736209,
+        "lng": 132.3937435
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=203\" onclick=\"OnLinkClick();\">スマホ修理工房 東広島店<\/a><\/div>",
+        "lat": 34.4129242,
+        "lng": 132.7476757
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=236\" onclick=\"OnLinkClick();\">スマホ修理工房 福山店<\/a><\/div>",
+        "lat": 34.4978485,
+        "lng": 133.388829
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=237\" onclick=\"OnLinkClick();\">スマホ修理工房 福山フジグラン神辺店<\/a><\/div>",
+        "lat": 34.54421,
+        "lng": 133.3553349
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=238\" onclick=\"OnLinkClick();\">パソコン修理24スマホドック 広島紙屋町店<\/a><\/div>",
+        "lat": 34.3952317,
+        "lng": 132.456899
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=241\" onclick=\"OnLinkClick();\">​スマホスピタル広島本通<\/a><\/div>",
+        "lat": 34.3927151,
+        "lng": 132.4567071
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=242\" onclick=\"OnLinkClick();\">iCracked Store 広島<\/a><\/div>",
+        "lat": 34.3946767,
+        "lng": 132.4599109
+    }
+]

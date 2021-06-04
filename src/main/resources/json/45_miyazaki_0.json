@@ -1,0 +1,42 @@
+[
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=201\" onclick=\"OnLinkClick();\">スマホ修理工房 宮崎店<\/a><\/div>",
+        "lat": 31.9160295,
+        "lng": 131.4340083
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=202\" onclick=\"OnLinkClick();\">iCracked Store 宮崎延岡<\/a><\/div>",
+        "lat": 32.5763895,
+        "lng": 131.6830625
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=203\" onclick=\"OnLinkClick();\">iPhone修理のクイック宮崎店<\/a><\/div>",
+        "lat": 31.9154721,
+        "lng": 131.4281084
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=236\" onclick=\"OnLinkClick();\">i-SS 宮崎店<\/a><\/div>",
+        "lat": 31.9013695,
+        "lng": 131.4183223
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=237\" onclick=\"OnLinkClick();\">iPhoneDoctor 宮崎店<\/a><\/div>",
+        "lat": 31.883428,
+        "lng": 131.419058
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=238\" onclick=\"OnLinkClick();\">iPhone修理ジャパン 宮崎都城店<\/a><\/div>",
+        "lat": 31.7138027,
+        "lng": 131.0947045
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=241\" onclick=\"OnLinkClick();\">​スマップル 宮崎店<\/a><\/div>",
+        "lat": 31.9154526,
+        "lng": 131.4281729
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=242\" onclick=\"OnLinkClick();\">スマップル 都城店<\/a><\/div>",
+        "lat": 31.725462,
+        "lng": 131.061631
+    }
+]

@@ -1,0 +1,27 @@
+[
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=201\" onclick=\"OnLinkClick();\">スマホ修理工房 山口店<\/a><\/div>",
+        "lat": 34.1561512,
+        "lng": 131.4988157
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=202\" onclick=\"OnLinkClick();\">スマホ修理工房 宇部店<\/a><\/div>",
+        "lat": 33.9547214,
+        "lng": 131.2559073
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=203\" onclick=\"OnLinkClick();\">モバイル修理.jp 下松店<\/a><\/div>",
+        "lat": 34.0139143,
+        "lng": 131.8510969
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=236\" onclick=\"OnLinkClick();\">リンゴ屋 新下関店<\/a><\/div>",
+        "lat": 34.0149159,
+        "lng": 130.9478914
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=237\" onclick=\"OnLinkClick();\">ダイワンテレコム 防府店<\/a><\/div>",
+        "lat": 34.0453447,
+        "lng": 131.5581156
+    }
+]

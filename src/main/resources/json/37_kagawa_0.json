@@ -1,0 +1,22 @@
+[
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=201\" onclick=\"OnLinkClick();\">モバイル修理.jp 徳島店<\/a><\/div>",
+        "lat": 34.3089817,
+        "lng": 134.0585085
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=202\" onclick=\"OnLinkClick();\">モバイル修理.jp ゆめタウン丸亀店<\/a><\/div>",
+        "lat": 34.2732463,
+        "lng": 133.7831507
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=203\" onclick=\"OnLinkClick();\">モバイル修理.jp ゆめタウン三豊店<\/a><\/div>",
+        "lat": 34.145451,
+        "lng": 133.6973849
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=236\" onclick=\"OnLinkClick();\">スマップル 香川高松店<\/a><\/div>",
+        "lat": 34.3460649,
+        "lng": 134.0488764
+    }
+]

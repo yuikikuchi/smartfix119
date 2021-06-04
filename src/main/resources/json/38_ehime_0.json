@@ -1,0 +1,42 @@
+[
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=201\" onclick=\"OnLinkClick();\">スマホ修理工房 松山店<\/a><\/div>",
+        "lat": 33.8123594,
+        "lng": 132.7762022
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=202\" onclick=\"OnLinkClick();\">スマホステーション愛媛CATV大手町オープンスタジオ店<\/a><\/div>",
+        "lat": 33.8404875,
+        "lng": 132.7559151
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=203\" onclick=\"OnLinkClick();\">スマホステーション愛媛CATV明屋書店石井店<\/a><\/div>",
+        "lat": 33.8039794,
+        "lng": 132.7796646
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=236\" onclick=\"OnLinkClick();\">スマホステーション愛媛CATV明屋書店MEGA平田店<\/a><\/div>",
+        "lat": 33.8830891,
+        "lng": 132.7493079
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=237\" onclick=\"OnLinkClick();\">iCracked Store 松山<\/a><\/div>",
+        "lat": 33.8449118,
+        "lng": 132.750908
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=238\" onclick=\"OnLinkClick();\">iCracked Store フジグラン大洲<\/a><\/div>",
+        "lat": 33.5161118,
+        "lng": 132.542796
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=241\" onclick=\"OnLinkClick();\">​モバイル修理.jp 八幡浜店<\/a><\/div>",
+        "lat": 33.4462509,
+        "lng": 132.4282935
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=242\" onclick=\"OnLinkClick();\">iPhoneDoctor 松山店<\/a><\/div>",
+        "lat": 33.8210254,
+        "lng": 132.7708393
+    }
+]

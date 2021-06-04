@@ -1,0 +1,42 @@
+[
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=201\" onclick=\"OnLinkClick();\">スマホ修理工房 鹿児島店<\/a><\/div>",
+        "lat": 31.5733096,
+        "lng": 130.5581043
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=202\" onclick=\"OnLinkClick();\">スマホ修理工房 霧島店<\/a><\/div>",
+        "lat": 31.745285,
+        "lng": 130.7596799
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=203\" onclick=\"OnLinkClick();\">スマホ修理工房 薩摩川内店<\/a><\/div>",
+        "lat": 31.8136369,
+        "lng": 130.3062194
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=236\" onclick=\"OnLinkClick();\">スマホスピタル鹿児島<\/a><\/div>",
+        "lat": 31.591804,
+        "lng": 130.5519949
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=237\" onclick=\"OnLinkClick();\">QuickRepair+<\/a><\/div>",
+        "lat": 31.5924618,
+        "lng": 130.5512307
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=238\" onclick=\"OnLinkClick();\">モバイル修理.jp 鹿屋店<\/a><\/div>",
+        "lat": 31.3878615,
+        "lng": 130.8816927
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=241\" onclick=\"OnLinkClick();\">​モバイル修理.jp 出水店<\/a><\/div>",
+        "lat": 32.1211765,
+        "lng": 130.3398279
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=242\" onclick=\"OnLinkClick();\">スマップル 鹿児島店<\/a><\/div>",
+        "lat": 31.5822066,
+        "lng": 130.5404613
+    }
+]

@@ -1,0 +1,27 @@
+[
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=704\" onclick=\"OnLinkClick();\">ダイワンテレコム 藤沢店<\/a><\/div>",
+        "lat": 35.3405462,
+        "lng": 139.4830508
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=705\" onclick=\"OnLinkClick();\">ダイワンテレコム 平塚駅前店<\/a><\/div>",
+        "lat": 35.3287073,
+        "lng": 139.3492004
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=740\" onclick=\"OnLinkClick();\">スマップル 横浜西口店<\/a><\/div>",
+        "lat": 35.464224,
+        "lng": 139.6154394
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=741\" onclick=\"OnLinkClick();\">スマップル 川崎アゼリア店<\/a><\/div>",
+        "lat": 35.5298528,
+        "lng": 139.695203
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=742\" onclick=\"OnLinkClick();\">スマップル 海老名店<\/a><\/div>",
+        "lat": 35.4505425,
+        "lng": 139.3884214
+    }
+]

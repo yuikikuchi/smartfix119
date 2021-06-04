@@ -1,0 +1,42 @@
+[
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=661\" onclick=\"OnLinkClick();\">iPhone修理ジャパン ららぽーと海老名店<\/a><\/div>",
+        "lat": 35.4557661,
+        "lng": 139.3869285
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=662\" onclick=\"OnLinkClick();\">iPhone修理ジャパン グランツリー武蔵小杉店<\/a><\/div>",
+        "lat": 35.5738294,
+        "lng": 139.6581303
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=663\" onclick=\"OnLinkClick();\">iPhone修理ジャパン 港北ノースポート・モール店<\/a><\/div>",
+        "lat": 35.5520792,
+        "lng": 139.5768761
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=664\" onclick=\"OnLinkClick();\">iPhone修理ジャパン 横須賀店<\/a><\/div>",
+        "lat": 35.230319,
+        "lng": 139.701934
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=700\" onclick=\"OnLinkClick();\">ダイワンテレコム 横浜店<\/a><\/div>",
+        "lat": 35.4632388,
+        "lng": 139.6153294
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=701\" onclick=\"OnLinkClick();\">ダイワンテレコム 大和店<\/a><\/div>",
+        "lat": 35.4696795,
+        "lng": 139.4602667
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=702\" onclick=\"OnLinkClick();\">ダイワンテレコム 大船店<\/a><\/div>",
+        "lat": 35.3527092,
+        "lng": 139.5299741
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=703\" onclick=\"OnLinkClick();\">ダイワンテレコム 青葉台店<\/a><\/div>",
+        "lat": 35.5446534,
+        "lng": 139.5146356
+    }
+]

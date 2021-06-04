@@ -1,0 +1,42 @@
+[
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=85\" onclick=\"OnLinkClick();\">スマホ修理工房 静岡店<\/a><\/div>",
+        "lat": 34.9933473,
+        "lng": 138.420532
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=86\" onclick=\"OnLinkClick();\">スマホ修理工房 浜松店<\/a><\/div>",
+        "lat": 34.7349955,
+        "lng": 137.75895
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=87\" onclick=\"OnLinkClick();\">スマホ修理工房 浜松高塚店<\/a><\/div>",
+        "lat": 34.6893469,
+        "lng": 137.6748895
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=88\" onclick=\"OnLinkClick();\">スマホ修理工房 浜松西インター店<\/a><\/div>",
+        "lat": 34.7583257,
+        "lng": 137.6875581
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=89\" onclick=\"OnLinkClick();\">スマホ修理工房 富士店<\/a><\/div>",
+        "lat": 35.16316,
+        "lng": 138.6676692
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=90\" onclick=\"OnLinkClick();\">スマホ修理工房 富士宮店<\/a><\/div>",
+        "lat": 35.2157681,
+        "lng": 138.6265168
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=91\" onclick=\"OnLinkClick();\">スマホ修理工房 国吉田店<\/a><\/div>",
+        "lat": 34.9964498,
+        "lng": 138.4335532
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=92\" onclick=\"OnLinkClick();\">スマホ修理工房 御殿場店<\/a><\/div>",
+        "lat": 35.2985517,
+        "lng": 138.9212631
+    }
+]

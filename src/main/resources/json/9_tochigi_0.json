@@ -1,0 +1,42 @@
+[
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=25\" onclick=\"OnLinkClick();\">スマホ修理工房 宇都宮中央店<\/a><\/div>",
+        "lat": 36.5597247,
+        "lng": 139.8838474
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=26\" onclick=\"OnLinkClick();\">スマホ修理工房 宇都宮店<\/a><\/div>",
+        "lat": 36.563116,
+        "lng": 139.9133784
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=164\" onclick=\"OnLinkClick();\">スマホステーション 土浦ピアタウン店<\/a><\/div>",
+        "lat": 36.0919759,
+        "lng": 140.2069651
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=489\" onclick=\"OnLinkClick();\">i-SS 宇都宮店<\/a><\/div>",
+        "lat": 36.5532052,
+        "lng": 139.882892
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=523\" onclick=\"OnLinkClick();\">モバイル修理.jp 真岡店<\/a><\/div>",
+        "lat": 36.4397099,
+        "lng": 140.0199254
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=571\" onclick=\"OnLinkClick();\">iPhoneDoctor 宇都宮駅東店<\/a><\/div>",
+        "lat": 36.5632066,
+        "lng": 139.9025908
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=572\" onclick=\"OnLinkClick();\">iPhoneDoctor 小山店<\/a><\/div>",
+        "lat": 36.3142236,
+        "lng": 139.808976
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=573\" onclick=\"OnLinkClick();\">iPhoneDoctor 佐野駅前店<\/a><\/div>",
+        "lat": 36.3148357,
+        "lng": 139.5759295
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=32\" onclick=\"OnLinkClick();\">iPhoneDoctor 新橋店<\/a><\/div>",
+        "lat": 35.6643083,
+        "lng": 139.7549011
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=33\" onclick=\"OnLinkClick();\">iPhoneDoctor 銀座店<\/a><\/div>",
+        "lat": 35.6726263,
+        "lng": 139.7593028
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=34\" onclick=\"OnLinkClick();\">iPhoneDoctor 立川店<\/a><\/div>",
+        "lat": 35.696408,
+        "lng": 139.4129389
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=39\" onclick=\"OnLinkClick();\">iPhoneDoctor 新小岩駅前店<\/a><\/div>",
+        "lat": 35.7167432,
+        "lng": 139.8580256
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=35\" onclick=\"OnLinkClick();\">iPhoneDoctor 神田本店<\/a><\/div>",
+        "lat": 35.6943243,
+        "lng": 139.7682161
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=36\" onclick=\"OnLinkClick();\">リンゴ屋 足立綾瀬店<\/a><\/div>",
+        "lat": 35.7641665,
+        "lng": 139.8248263
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=37\" onclick=\"OnLinkClick();\">リンゴ屋 三省堂神田神保町店<\/a><\/div>",
+        "lat": 35.6957373,
+        "lng": 139.7581523
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=38\" onclick=\"OnLinkClick();\">リンゴ屋 港区虎ノ門店<\/a><\/div>",
+        "lat": 35.6656565,
+        "lng": 139.7484228
+    }
+]

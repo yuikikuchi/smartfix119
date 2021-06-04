@@ -1,0 +1,37 @@
+[
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=201\" onclick=\"OnLinkClick();\">スマホ修理工房 長崎店<\/a><\/div>",
+        "lat": 32.8236551,
+        "lng": 129.8460966
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=202\" onclick=\"OnLinkClick();\">スマホ修理工房 佐世保店<\/a><\/div>",
+        "lat": 33.1581225,
+        "lng": 129.7616553
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=203\" onclick=\"OnLinkClick();\">i-SS 長崎店<\/a><\/div>",
+        "lat": 32.8294858,
+        "lng": 129.853152
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=236\" onclick=\"OnLinkClick();\">i-SS 諫早店<\/a><\/div>",
+        "lat": 32.833171,
+        "lng": 130.1065698
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=237\" onclick=\"OnLinkClick();\">モバイル修理.jp 諫早店<\/a><\/div>",
+        "lat": 32.843612,
+        "lng": 130.0098713
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=238\" onclick=\"OnLinkClick();\">iPhone修理ジャパン 長崎店<\/a><\/div>",
+        "lat": 32.6873671,
+        "lng": 129.8239729
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=241\" onclick=\"OnLinkClick();\">​スマップル 長崎店<\/a><\/div>",
+        "lat": 32.7441186,
+        "lng": 129.8770677
+    }
+]

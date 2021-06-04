@@ -1,0 +1,42 @@
+[
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=32\" onclick=\"OnLinkClick();\">iPhone修理SHOP ナニウル八王子店<\/a><\/div>",
+        "lat": 35.6519025,
+        "lng": 139.3360104
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=33\" onclick=\"OnLinkClick();\">iPhone修理SHOP 竹ノ塚店<\/a><\/div>",
+        "lat": 35.7940679,
+        "lng": 139.7935092
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=34\" onclick=\"OnLinkClick();\">iPhone修理SHOP 上野御徒町店<\/a><\/div>",
+        "lat": 35.7076204,
+        "lng": 139.7753564
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=39\" onclick=\"OnLinkClick();\">iPhone修理ジャパン 渋谷店<\/a><\/div>",
+        "lat": 35.6562991,
+        "lng": 139.6988131
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=35\" onclick=\"OnLinkClick();\">iPhone修理ジャパン 新宿店<\/a><\/div>",
+        "lat": 35.6907815,
+        "lng": 139.700937
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=36\" onclick=\"OnLinkClick();\">iPhone修理ジャパン 池袋店<\/a><\/div>",
+        "lat": 35.7280872,
+        "lng": 139.7070537
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=37\" onclick=\"OnLinkClick();\">iPhone修理ジャパン 秋葉原店<\/a><\/div>",
+        "lat": 35.6995679,
+        "lng": 139.7725842
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=38\" onclick=\"OnLinkClick();\">iPhone修理ジャパン 小岩店<\/a><\/div>",
+        "lat": 35.7341803,
+        "lng": 139.8798465
+    }
+]

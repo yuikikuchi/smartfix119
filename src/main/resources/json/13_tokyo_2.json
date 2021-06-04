@@ -1,0 +1,42 @@
+[
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=32\" onclick=\"OnLinkClick();\">スマホ修理工房 白山駅店<\/a><\/div>",
+        "lat": 35.7217664,
+        "lng": 139.7499835
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=33\" onclick=\"OnLinkClick();\">スマホ修理工房 王子店<\/a><\/div>",
+        "lat": 35.7537352,
+        "lng": 139.7359604
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=34\" onclick=\"OnLinkClick();\">スマホ修理工房 北千住マルイ店<\/a><\/div>",
+        "lat": 35.7505954,
+        "lng": 139.8021979
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=35\" onclick=\"OnLinkClick();\">スマホ修理工房 葛西店<\/a><\/div>",
+        "lat": 35.6646003,
+        "lng": 139.8687063
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=36\" onclick=\"OnLinkClick();\">スマホ修理工房 荻窪タウンセブン店<\/a><\/div>",
+        "lat": 35.7050594,
+        "lng": 139.6176796
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=37\" onclick=\"OnLinkClick();\">スマホ修理工房 中野ブロードウェイ店<\/a><\/div>",
+        "lat": 35.7089342,
+        "lng": 139.6635881
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=38\" onclick=\"OnLinkClick();\">スマホ修理工房 自由が丘店<\/a><\/div>",
+        "lat": 35.6089551,
+        "lng": 139.6672628
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=39\" onclick=\"OnLinkClick();\">スマホ修理工房 吉祥寺パルコ店<\/a><\/div>",
+        "lat": 35.7036695,
+        "lng": 139.5757079
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=97\" onclick=\"OnLinkClick();\">スマホ修理工房 津店<\/a><\/div>",
+        "lat": 34.6750753,
+        "lng": 136.5131222
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=98\" onclick=\"OnLinkClick();\">スマホ修理工房 四日市店<\/a><\/div>",
+        "lat": 34.9459372,
+        "lng": 136.6034688
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=270\" onclick=\"OnLinkClick();\">スマホ修理革命<\/a><\/div>",
+        "lat": 34.9732294,
+        "lng": 136.6106523
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=271\" onclick=\"OnLinkClick();\">超iPhone革命戦士<\/a><\/div>",
+        "lat": 34.5089666,
+        "lng": 136.6456694
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=272\" onclick=\"OnLinkClick();\">超iPhoneR革命<\/a><\/div>",
+        "lat": 34.7335604,
+        "lng": 136.5086843
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=492\" onclick=\"OnLinkClick();\">i-SS 本部桑名店<\/a><\/div>",
+        "lat": 35.0681091,
+        "lng": 136.6828289
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=493\" onclick=\"OnLinkClick();\">​i-SS 伊勢店<\/a><\/div>",
+        "lat": 34.5042644,
+        "lng": 136.7054643
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=494\" onclick=\"OnLinkClick();\">i-SS 松阪店<\/a><\/div>",
+        "lat": 34.5756963,
+        "lng": 136.5396302
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=11\" onclick=\"OnLinkClick();\">スマホ修理工房 札幌4丁目プラザ店<\/a><\/div>",
+        "lat": 43.058691,
+        "lng": 141.352282
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=12\" onclick=\"OnLinkClick();\">スマホ修理工房 滝川店<\/a><\/div>",
+        "lat": 43.558896,
+        "lng": 141.935966
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=13\" onclick=\"OnLinkClick();\">スマホ修理工房 イオンタウン平岡店<\/a><\/div>",
+        "lat": 42.994997,
+        "lng": 141.453743
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=14\" onclick=\"OnLinkClick();\">スマホ修理工房 函館店<\/a><\/div>",
+        "lat": 41.823789,
+        "lng": 140.737223
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=15\" onclick=\"OnLinkClick();\">スマホ修理工房 旭川店<\/a><\/div>",
+        "lat": 43.784134,
+        "lng": 142.339696
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=16\" onclick=\"OnLinkClick();\">スマホ修理工房 帯広店<\/a><\/div>",
+        "lat": 42.888903,
+        "lng": 143.199325
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=17\" onclick=\"OnLinkClick();\">スマホ修理工房 釧路店<\/a><\/div>",
+        "lat": 43.004272,
+        "lng": 144.394554
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=173\" onclick=\"OnLinkClick();\">パソコン修理24スマホドック 札幌店<\/a><\/div>",
+        "lat": 43.065896,
+        "lng": 141.345449
+    }
+]

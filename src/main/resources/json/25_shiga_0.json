@@ -1,0 +1,22 @@
+[
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=120\" onclick=\"OnLinkClick();\">スマホ修理工房 大津店<\/a><\/div>",
+        "lat": 34.9741559,
+        "lng": 135.9310467
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=269\" onclick=\"OnLinkClick();\">スマートまっくす エルティ932店<\/a><\/div>",
+        "lat": 35.0212586,
+        "lng": 135.9590789
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=480\" onclick=\"OnLinkClick();\">あいプロ 滋賀・湖南店<\/a><\/div>",
+        "lat": 34.9939826,
+        "lng": 136.1068122
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=495\" onclick=\"OnLinkClick();\">i-SS 大津店<\/a><\/div>",
+        "lat": 35.1391816,
+        "lng": 135.8717646
+    }
+]

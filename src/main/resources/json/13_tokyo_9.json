@@ -1,0 +1,42 @@
+[
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=32\" onclick=\"OnLinkClick();\">iCracked Store 吉祥寺<\/a><\/div>",
+        "lat": 35.7035215,
+        "lng": 139.5769368
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=33\" onclick=\"OnLinkClick();\">iCracked Store 武蔵境イトーヨーカドー<\/a><\/div>",
+        "lat": 35.7010191,
+        "lng": 139.5426566
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=34\" onclick=\"OnLinkClick();\">iCracked Store 府中<\/a><\/div>",
+        "lat": 35.6709693,
+        "lng": 139.4783891
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=35\" onclick=\"OnLinkClick();\">iCracked Store 町田東急ハンズ<\/a><\/div>",
+        "lat": 35.5424875,
+        "lng": 139.4443766
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=36\" onclick=\"OnLinkClick();\">iCracked Store 田無<\/a><\/div>",
+        "lat": 35.727479,
+        "lng": 139.5376409
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=37\" onclick=\"OnLinkClick();\">スマホ修理デポ 立川店<\/a><\/div>",
+        "lat": 35.6959463,
+        "lng": 139.4122933
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=38\" onclick=\"OnLinkClick();\">スマホSOS 保谷店<\/a><\/div>",
+        "lat": 35.7456487,
+        "lng": 139.5597456
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=39\" onclick=\"OnLinkClick();\">iPhone修理のクイック恋ヶ窪店<\/a><\/div>",
+        "lat": 35.7144933,
+        "lng": 139.4655533
+    }
+]

@@ -1,0 +1,17 @@
+[
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=201\" onclick=\"OnLinkClick();\">スマホ修理工房 佐賀店<\/a><\/div>",
+        "lat": 33.2631037,
+        "lng": 130.3147981
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=202\" onclick=\"OnLinkClick();\">あいプロ モラージュ佐賀店<\/a><\/div>",
+        "lat": 33.251428,
+        "lng": 130.3169643
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=203\" onclick=\"OnLinkClick();\">モバイル修理.jp 鹿島店<\/a><\/div>",
+        "lat": 33.0998142,
+        "lng": 130.1000293
+    }
+]

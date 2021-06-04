@@ -1,0 +1,27 @@
+[
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=478\" onclick=\"OnLinkClick();\">あいプロ 富士・中里店<\/a><\/div>",
+        "lat": 35.1400541,
+        "lng": 138.7382277
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=532\" onclick=\"OnLinkClick();\">モバイル修理.jp 静岡店くりっぴープラザ<\/a><\/div>",
+        "lat": 35.0004163,
+        "lng": 138.4134186
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=743\" onclick=\"OnLinkClick();\">スマップル 静岡店<\/a><\/div>",
+        "lat": 34.9740784,
+        "lng": 138.3838283
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=744\" onclick=\"OnLinkClick();\">スマップル 浜松店<\/a><\/div>",
+        "lat": 34.7037904,
+        "lng": 137.7315033
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=745\" onclick=\"OnLinkClick();\">スマップル 浜松富塚店<\/a><\/div>",
+        "lat": 34.7218798,
+        "lng": 137.6980127
+    }
+]

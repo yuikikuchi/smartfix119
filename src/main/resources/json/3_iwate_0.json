@@ -1,0 +1,32 @@
+[
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=175\" onclick=\"OnLinkClick();\">パソコン修理24スマホドック 岩手北上店<\/a><\/div>",
+        "lat": 39.28988,
+        "lng": 141.115995
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=502\" onclick=\"OnLinkClick();\">モバイル修理.jp 奥州店<\/a><\/div>",
+        "lat": 39.131924,
+        "lng": 141.161061
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=503\" onclick=\"OnLinkClick();\">モバイル修理.jp 宮古店<\/a><\/div>",
+        "lat": 39.636706,
+        "lng": 141.928306
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=504\" onclick=\"OnLinkClick();\">モバイル修理.jp 北上店<\/a><\/div>",
+        "lat": 39.301028,
+        "lng": 141.116839
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=667\" onclick=\"OnLinkClick();\">iPhone修理ジャパン 盛岡店<\/a><\/div>",
+        "lat": 39.704305,
+        "lng": 141.147976
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=721\" onclick=\"OnLinkClick();\">ダイワンテレコム 盛岡店<\/a><\/div>",
+        "lat": 39.702772,
+        "lng": 141.135754
+    }
+]

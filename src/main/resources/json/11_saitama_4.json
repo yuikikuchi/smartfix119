@@ -1,0 +1,42 @@
+[
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=348\" onclick=\"OnLinkClick();\">iPhone修理のクイック鶴瀬店<\/a><\/div>",
+        "lat": 35.8458555,
+        "lng": 139.5345824
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=349\" onclick=\"OnLinkClick();\">iPhone修理のクイック上福岡店<\/a><\/div>",
+        "lat": 35.8733983,
+        "lng": 139.5114203
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=350\" onclick=\"OnLinkClick();\">iPhone修理のクイック東所沢駅前店<\/a><\/div>",
+        "lat": 35.7945053,
+        "lng": 139.5125372
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=351\" onclick=\"OnLinkClick();\">iPhone修理のクイック航空公園店<\/a><\/div>",
+        "lat": 35.8001729,
+        "lng": 139.4649319
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=352\" onclick=\"OnLinkClick();\">iPhone修理のクイック狭山ヶ丘店<\/a><\/div>",
+        "lat": 35.8090883,
+        "lng": 139.4150253
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=353\" onclick=\"OnLinkClick();\">iPhone修理のクイック本川越店<\/a><\/div>",
+        "lat": 35.9156396,
+        "lng": 139.4812856
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=354\" onclick=\"OnLinkClick();\">iPhone修理のクイック新狭山店<\/a><\/div>",
+        "lat": 35.8738802,
+        "lng": 139.4356214
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=355\" onclick=\"OnLinkClick();\">iPhone修理のクイック所沢プロぺ通り店<\/a><\/div>",
+        "lat": 35.7883604,
+        "lng": 139.4699163
+    }
+]

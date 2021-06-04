@@ -1,0 +1,42 @@
+[
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=525\" onclick=\"OnLinkClick();\">モバイル修理.jp ワンズモール稲毛店<\/a><\/div>",
+        "lat": 35.6569679,
+        "lng": 140.1153246
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=526\" onclick=\"OnLinkClick();\">モバイル修理.jp ユニモちはら台店<\/a><\/div>",
+        "lat": 35.5280439,
+        "lng": 140.169492
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=564\" onclick=\"OnLinkClick();\">iPhoneDoctor 稲毛店<\/a><\/div>",
+        "lat": 35.6380143,
+        "lng": 140.0901103
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=565\" onclick=\"OnLinkClick();\">iPhoneDoctor 北習志野店<\/a><\/div>",
+        "lat": 35.7208831,
+        "lng": 140.0413019
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=566\" onclick=\"OnLinkClick();\">iPhoneDoctor 西船橋店<\/a><\/div>",
+        "lat": 35.7085898,
+        "lng": 139.9564183
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=567\" onclick=\"OnLinkClick();\">iPhoneDoctor 本八幡店<\/a><\/div>",
+        "lat": 35.7211931,
+        "lng": 139.9240932
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=568\" onclick=\"OnLinkClick();\">iPhoneDoctor 勝田台駅前店<\/a><\/div>",
+        "lat": 35.7155664,
+        "lng": 140.1227522
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=569\" onclick=\"OnLinkClick();\">iPhoneDoctor 松戸駅前店<\/a><\/div>",
+        "lat": 35.7838224,
+        "lng": 139.8992091
+    }
+]

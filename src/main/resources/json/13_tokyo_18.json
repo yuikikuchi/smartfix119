@@ -1,0 +1,42 @@
+[
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=32\" onclick=\"OnLinkClick();\">iPhone修理のクイック拝島店<\/a><\/div>",
+        "lat": 35.7203463,
+        "lng": 139.3411013
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=33\" onclick=\"OnLinkClick();\">iPhone修理のクイック小川店<\/a><\/div>",
+        "lat": 35.7398856,
+        "lng": 139.4604932
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=34\" onclick=\"OnLinkClick();\">iPhone修理のクイック鷹の台店<\/a><\/div>",
+        "lat": 35.7230906,
+        "lng": 139.4584055
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=39\" onclick=\"OnLinkClick();\">iPhone修理のクイック東伏見店<\/a><\/div>",
+        "lat": 35.7280023,
+        "lng": 139.561793
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=35\" onclick=\"OnLinkClick();\">iPhone修理のクイック湘南台店<\/a><\/div>",
+        "lat": 35.3960276,
+        "lng": 139.4619896
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=36\" onclick=\"OnLinkClick();\">あいプロ 新宿駅前店<\/a><\/div>",
+        "lat": 35.6898274,
+        "lng": 139.7007649
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=37\" onclick=\"OnLinkClick();\">あいプロ 東京23区出張専門店<\/a><\/div>",
+        "lat": 35.6898274,
+        "lng": 139.7007649
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=38\" onclick=\"OnLinkClick();\">あいプロ 小岩店<\/a><\/div>",
+        "lat": 35.7343476,
+        "lng": 139.876955
+    }
+]

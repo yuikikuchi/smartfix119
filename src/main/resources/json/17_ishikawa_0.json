@@ -1,0 +1,32 @@
+[
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=107\" onclick=\"OnLinkClick();\">スマホ修理工房 イオンタウン金沢示野店<\/a><\/div>",
+        "lat": 36.5813488,
+        "lng": 136.6157484
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=109\" onclick=\"OnLinkClick();\">スマホ修理工房 小松店<\/a><\/div>",
+        "lat": 36.4192438,
+        "lng": 136.4706223
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=476\" onclick=\"OnLinkClick();\">あいプロ 金沢店<\/a><\/div>",
+        "lat": 36.5505377,
+        "lng": 136.6295721
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=535\" onclick=\"OnLinkClick();\">モバイル修理.jp 七尾店<\/a><\/div>",
+        "lat": 37.0410881,
+        "lng": 136.9536212
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=536\" onclick=\"OnLinkClick();\">モバイル修理.jp 金沢店<\/a><\/div>",
+        "lat": 36.6364017,
+        "lng": 136.6476701
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=735\" onclick=\"OnLinkClick();\">スマップル 金沢店<\/a><\/div>",
+        "lat": 36.5346182,
+        "lng": 136.6478294
+    }
+]

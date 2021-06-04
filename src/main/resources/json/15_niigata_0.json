@@ -1,0 +1,42 @@
+[
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=101\" onclick=\"OnLinkClick();\">スマホ修理工房 新潟女池店<\/a><\/div>",
+        "lat": 37.8918603,
+        "lng": 139.0354877
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=300\" onclick=\"OnLinkClick();\">iCracked Store パテオ西新発田<\/a><\/div>",
+        "lat": 37.944361,
+        "lng": 139.2987717
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=533\" onclick=\"OnLinkClick();\">モバイル修理.jp 長岡店<\/a><\/div>",
+        "lat": 37.4452935,
+        "lng": 138.8186615
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=534\" onclick=\"OnLinkClick();\">モバイル修理.jp 上越店<\/a><\/div>",
+        "lat": 37.1332377,
+        "lng": 138.2406041
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=580\" onclick=\"OnLinkClick();\">iPhoneDoctor 長岡店<\/a><\/div>",
+        "lat": 37.4512355,
+        "lng": 138.8655164
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=636\" onclick=\"OnLinkClick();\">iPhone修理SHOP イオン新潟青山店<\/a><\/div>",
+        "lat": 37.8963825,
+        "lng": 139.0028095
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=637\" onclick=\"OnLinkClick();\">iPhone修理SHOP 上越アコーレ店<\/a><\/div>",
+        "lat": 37.1516406,
+        "lng": 138.2555654
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=678\" onclick=\"OnLinkClick();\">iPhone修理ジャパン つばめ三条駅前店<\/a><\/div>",
+        "lat": 37.6459757,
+        "lng": 138.9381538
+    }
+]

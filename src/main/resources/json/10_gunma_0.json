@@ -1,0 +1,42 @@
+[
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=27\" onclick=\"OnLinkClick();\">スマホ修理工房 高崎OPA店<\/a><\/div>",
+        "lat": 36.3232216,
+        "lng": 139.0086672
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=28\" onclick=\"OnLinkClick();\">スマホ修理工房 高崎下小鳥店<\/a><\/div>",
+        "lat": 36.3532719,
+        "lng": 138.99699
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=29\" onclick=\"OnLinkClick();\">スマホ修理工房 前橋リリカ店<\/a><\/div>",
+        "lat": 36.4046995,
+        "lng": 139.0657906
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=30\" onclick=\"OnLinkClick();\">スマホ修理工房 伊勢崎店<\/a><\/div>",
+        "lat": 36.3132133,
+        "lng": 139.1732298
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=515\" onclick=\"OnLinkClick();\">モバイル修理.jp 伊勢崎本店<\/a><\/div>",
+        "lat": 36.3357613,
+        "lng": 139.1858385
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=574\" onclick=\"OnLinkClick();\">iPhoneDoctor 群馬大泉店<\/a><\/div>",
+        "lat": 36.258593,
+        "lng": 139.3957349
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=610\" onclick=\"OnLinkClick();\">リンゴ屋 太田店<\/a><\/div>",
+        "lat": 36.2958093,
+        "lng": 139.3585653
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=632\" onclick=\"OnLinkClick();\">iPhone修理SHOP 前橋店<\/a><\/div>",
+        "lat": 36.3741239,
+        "lng": 139.0421138
+    }
+]

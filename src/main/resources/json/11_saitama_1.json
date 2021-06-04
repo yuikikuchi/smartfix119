@@ -1,0 +1,42 @@
+[
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=56\" onclick=\"OnLinkClick();\">スマホ修理工房 東松山ビバモール店<\/a><\/div>",
+        "lat": 36.0311125,
+        "lng": 139.4020773
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=57\" onclick=\"OnLinkClick();\">スマホ修理工房 熊谷店<\/a><\/div>",
+        "lat": 36.1410253,
+        "lng": 139.3895623
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=195\" onclick=\"OnLinkClick();\">パソコン修理24スマホドック 大宮東口店<\/a><\/div>",
+        "lat": 35.9074274,
+        "lng": 139.6277856
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=196\" onclick=\"OnLinkClick();\">パソコン修理24スマホドック 大宮三橋店<\/a><\/div>",
+        "lat": 35.8993261,
+        "lng": 139.5986241
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=224\" onclick=\"OnLinkClick();\">スマホスピタル埼玉大宮<\/a><\/div>",
+        "lat": 35.905672,
+        "lng": 139.6198455
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=275\" onclick=\"OnLinkClick();\">iCracked Store 大宮<\/a><\/div>",
+        "lat": 35.9066487,
+        "lng": 139.6196668
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=276\" onclick=\"OnLinkClick();\">iCracked Store 東川口<\/a><\/div>",
+        "lat": 35.8731107,
+        "lng": 139.7468798
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=277\" onclick=\"OnLinkClick();\">iCracked Spot 草加花栗<\/a><\/div>",
+        "lat": 35.8362954,
+        "lng": 139.7913645
+    }
+]

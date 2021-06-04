@@ -1,0 +1,27 @@
+[
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=201\" onclick=\"OnLinkClick();\">iCracked Store 福山 TSUTAYA 新涯<\/a><\/div>",
+        "lat": 34.4611747,
+        "lng": 133.3917703
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=202\" onclick=\"OnLinkClick();\">あいプロ 広島店<\/a><\/div>",
+        "lat": 34.4287,
+        "lng": 132.4581787
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=203\" onclick=\"OnLinkClick();\">i-SS 広島安芸店<\/a><\/div>",
+        "lat": 34.3520235,
+        "lng": 132.5305939
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=236\" onclick=\"OnLinkClick();\">ダイワンテレコム 福山店<\/a><\/div>",
+        "lat": 34.509894,
+        "lng": 133.3904318
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=237\" onclick=\"OnLinkClick();\">スマップル 広島店<\/a><\/div>",
+        "lat": 34.3927459,
+        "lng": 132.4592802
+    }
+]

@@ -1,0 +1,37 @@
+[
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=585\" onclick=\"OnLinkClick();\">iPhoneDoctor 長野店<\/a><\/div>",
+        "lat": 36.6508928,
+        "lng": 138.1951317
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=634\" onclick=\"OnLinkClick();\">iPhone修理SHOP イオンタウン松本村井店<\/a><\/div>",
+        "lat": 36.1766766,
+        "lng": 137.9603474
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=635\" onclick=\"OnLinkClick();\">iPhone修理SHOP MEGAドン・キホーテ長野店<\/a><\/div>",
+        "lat": 36.6425505,
+        "lng": 138.2134189
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=670\" onclick=\"OnLinkClick();\">iPhone修理ジャパン 長野茅野店<\/a><\/div>",
+        "lat": 35.9999663,
+        "lng": 138.1484603
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=671\" onclick=\"OnLinkClick();\">iPhone修理ジャパン エルサあづみ野店<\/a><\/div>",
+        "lat": 36.2451283,
+        "lng": 137.8870179
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=672\" onclick=\"OnLinkClick();\">iPhone修理ジャパン MEGAドン・キホーテ 長野店<\/a><\/div>",
+        "lat": 36.6426003,
+        "lng": 138.2137713
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=722\" onclick=\"OnLinkClick();\">ダイワンテレコム 長野店<\/a><\/div>",
+        "lat": 36.6755629,
+        "lng": 138.228826
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=243\" onclick=\"OnLinkClick();\">スマホスピタル難波(なんば)<\/a><\/div>",
+        "lat": 34.6668285,
+        "lng": 135.4986449
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=249\" onclick=\"OnLinkClick();\">スマホスピタル中津<\/a><\/div>",
+        "lat": 34.709991,
+        "lng": 135.4948917
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=250\" onclick=\"OnLinkClick();\">スマホスピタル大阪駅前第4ビル店<\/a><\/div>",
+        "lat": 34.6999017,
+        "lng": 135.4966381
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=253\" onclick=\"OnLinkClick();\">スマホスピタル高槻<\/a><\/div>",
+        "lat": 34.8502109,
+        "lng": 135.6197265
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=257\" onclick=\"OnLinkClick();\">スマホスピタル和泉府中<\/a><\/div>",
+        "lat": 34.4848329,
+        "lng": 135.4229131
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=268\" onclick=\"OnLinkClick();\">スマートまっくす 大阪梅田店<\/a><\/div>",
+        "lat": 34.6998634,
+        "lng": 135.4966073
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=312\" onclick=\"OnLinkClick();\">​iCracked Store グランフロント大阪<\/a><\/div>",
+        "lat": 34.7059277,
+        "lng": 135.4922198
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=313\" onclick=\"OnLinkClick();\">iCracked Store 梅田ロフト<\/a><\/div>",
+        "lat": 34.708053,
+        "lng": 135.497687
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=314\" onclick=\"OnLinkClick();\">iCracked Store 難波<\/a><\/div>",
+        "lat": 34.6685691,
+        "lng": 135.4992722
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=591\" onclick=\"OnLinkClick();\">iPhoneDoctor なんば大阪日本橋店<\/a><\/div>",
+        "lat": 34.6671608,
+        "lng": 135.507515
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=612\" onclick=\"OnLinkClick();\">リンゴ屋 machino omiseイオンモール大日店<\/a><\/div>",
+        "lat": 34.7495651,
+        "lng": 135.5780185
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=613\" onclick=\"OnLinkClick();\">リンゴ屋 なんばパークス店<\/a><\/div>",
+        "lat": 34.6614377,
+        "lng": 135.4997312
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=715\" onclick=\"OnLinkClick();\">ダイワンテレコム 大阪梅田駅店<\/a><\/div>",
+        "lat": 34.6988178,
+        "lng": 135.4943086
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=716\" onclick=\"OnLinkClick();\">ダイワンテレコム なんば店<\/a><\/div>",
+        "lat": 34.6623894,
+        "lng": 135.5015813
+    }
+]

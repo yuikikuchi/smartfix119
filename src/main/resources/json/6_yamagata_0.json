@@ -1,0 +1,32 @@
+[
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=20\" onclick=\"OnLinkClick();\">スマホ修理工房 山形店<\/a><\/div>",
+        "lat": 38.257942,
+        "lng": 140.311247
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=512\" onclick=\"OnLinkClick();\">モバイル修理.jp 山形店<\/a><\/div>",
+        "lat": 38.238516,
+        "lng": 140.352157
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=513\" onclick=\"OnLinkClick();\">モバイル修理.jp 鶴岡店<\/a><\/div>",
+        "lat": 38.745658,
+        "lng": 139.827449
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=514\" onclick=\"OnLinkClick();\">モバイル修理.jp 酒田店<\/a><\/div>",
+        "lat": 38.930286,
+        "lng": 139.856415
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=558\" onclick=\"OnLinkClick();\">iPhoneDoctor 鶴岡S-MALL店<\/a><\/div>",
+        "lat": 38.738904,
+        "lng": 139.831676
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=730\" onclick=\"OnLinkClick();\">アイドン<\/a><\/div>",
+        "lat": 38.381823,
+        "lng": 140.380489
+    }
+]

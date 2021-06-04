@@ -1,0 +1,37 @@
+[
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=99\" onclick=\"OnLinkClick();\">スマホ修理工房 岐阜茜部店<\/a><\/div>",
+        "lat": 35.3868514,
+        "lng": 136.745581
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=100\" onclick=\"OnLinkClick();\">スマホ修理工房 岐阜正木店<\/a><\/div>",
+        "lat": 35.4496061,
+        "lng": 136.7386878
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=458\" onclick=\"OnLinkClick();\">iPhone修理のクイック岐阜駅前店<\/a><\/div>",
+        "lat": 35.4122707,
+        "lng": 136.7591342
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=540\" onclick=\"OnLinkClick();\">モバイル修理.jp 中津川店<\/a><\/div>",
+        "lat": 35.4945083,
+        "lng": 137.5056401
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=586\" onclick=\"OnLinkClick();\">iPhoneDoctor 岐阜土岐店<\/a><\/div>",
+        "lat": 35.3449346,
+        "lng": 137.1764859
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=675\" onclick=\"OnLinkClick();\">iPhone修理ジャパン 岐阜店<\/a><\/div>",
+        "lat": 35.3834141,
+        "lng": 136.7370095
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=719\" onclick=\"OnLinkClick();\">ダイワンテレコム 岐阜六条店<\/a><\/div>",
+        "lat": 35.4006954,
+        "lng": 136.7395653
+    }
+]

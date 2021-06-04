@@ -1,0 +1,37 @@
+[
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=97\" onclick=\"OnLinkClick();\">スマホ修理工房 京都寺町店<\/a><\/div>",
+        "lat": 35.0011295,
+        "lng": 135.7644913
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=98\" onclick=\"OnLinkClick();\">パソコン修理24スマホドック 京都北大路店<\/a><\/div>",
+        "lat": 35.0438574,
+        "lng": 135.7585663
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=270\" onclick=\"OnLinkClick();\">スマホスピタル京都河原町<\/a><\/div>",
+        "lat": 35.0036108,
+        "lng": 135.767964
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=271\" onclick=\"OnLinkClick();\">スマホスピタル京都駅前<\/a><\/div>",
+        "lat": 34.9887797,
+        "lng": 135.7578695
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=272\" onclick=\"OnLinkClick();\">スマホスピタル烏丸<\/a><\/div>",
+        "lat": 35.0059659,
+        "lng": 135.7564609
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=492\" onclick=\"OnLinkClick();\">iCracked Store 京都河原町<\/a><\/div>",
+        "lat": 35.0078607,
+        "lng": 135.7666722
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=493\" onclick=\"OnLinkClick();\">​モバイル修理.jp 新園部店<\/a><\/div>",
+        "lat": 35.1135617,
+        "lng": 135.4663198
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=508\" onclick=\"OnLinkClick();\">モバイル修理.jp 富沢店<\/a><\/div>",
+        "lat": 38.218288,
+        "lng": 140.872597
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=509\" onclick=\"OnLinkClick();\">モバイル修理.jp 六丁の目店<\/a><\/div>",
+        "lat": 38.25301,
+        "lng": 140.945609
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=510\" onclick=\"OnLinkClick();\">モバイル修理.jp ザモール仙台店<\/a><\/div>",
+        "lat": 38.225644,
+        "lng": 140.876877
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=599\" onclick=\"OnLinkClick();\">リンゴ屋 リペア工房石巻店<\/a><\/div>",
+        "lat": 38.441002,
+        "lng": 141.296764
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=731\" onclick=\"OnLinkClick();\">iPhone修理あいあい 仙台店<\/a><\/div>",
+        "lat": 38.264783,
+        "lng": 140.875742
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=734\" onclick=\"OnLinkClick();\">スマップル 仙台店<\/a><\/div>",
+        "lat": 38.262785,
+        "lng": 140.878933
+    }
+]

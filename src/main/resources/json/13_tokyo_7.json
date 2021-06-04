@@ -1,0 +1,42 @@
+[
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=32\" onclick=\"OnLinkClick();\">スマホスピタルU-NEXTストア南青山店<\/a><\/div>",
+        "lat": 35.6690423,
+        "lng": 139.7140883
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=33\" onclick=\"OnLinkClick();\">スマホ修理本舗 池袋店<\/a><\/div>",
+        "lat": 35.7283521,
+        "lng": 139.7064616
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=34\" onclick=\"OnLinkClick();\">スマホ修理本舗 新宿店<\/a><\/div>",
+        "lat": 35.689988,
+        "lng": 139.6954701
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=35\" onclick=\"OnLinkClick();\">スマートまっくす 代々木駅前店<\/a><\/div>",
+        "lat": 35.6827134,
+        "lng": 139.6999128
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=36\" onclick=\"OnLinkClick();\">スマートまっくす 銀座ファイブ店<\/a><\/div>",
+        "lat": 35.6727218,
+        "lng": 139.7598032
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=37\" onclick=\"OnLinkClick();\">iCracked Store 銀座ロフト<\/a><\/div>",
+        "lat": 35.6739916,
+        "lng": 139.7641103
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=38\" onclick=\"OnLinkClick();\">iCracked Spot 西新宿<\/a><\/div>",
+        "lat": 35.6930558,
+        "lng": 139.6912421
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=39\" onclick=\"OnLinkClick();\">iCracked Store 新宿本店<\/a><\/div>",
+        "lat": 35.6908089,
+        "lng": 139.7003836
+    }
+]

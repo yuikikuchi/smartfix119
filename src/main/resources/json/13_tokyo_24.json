@@ -1,0 +1,37 @@
+[
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=32\" onclick=\"OnLinkClick();\">ダイワンテレコム 武蔵境店<\/a><\/div>",
+        "lat": 35.7043532,
+        "lng": 139.5401408
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=33\" onclick=\"OnLinkClick();\">ダイワンテレコム 日暮里店<\/a><\/div>",
+        "lat": 35.7290603,
+        "lng": 139.7683773
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=34\" onclick=\"OnLinkClick();\">ダイワンテレコム 高田馬場店<\/a><\/div>",
+        "lat": 35.7136454,
+        "lng": 139.7024242
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=39\" onclick=\"OnLinkClick();\">ダイワンテレコム 祖師ヶ谷大蔵店<\/a><\/div>",
+        "lat": 35.6404857,
+        "lng": 139.6060238
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=35\" onclick=\"OnLinkClick();\">ダイワンテレコム 田無エリア<\/a><\/div>",
+        "lat": 35.7451517,
+        "lng": 139.5407305
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=36\" onclick=\"OnLinkClick();\">スマップル 渋谷本店<\/a><\/div>",
+        "lat": 35.6594279,
+        "lng": 139.698178
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=37\" onclick=\"OnLinkClick();\">スマップル 桜新町店<\/a><\/div>",
+        "lat": 35.6314808,
+        "lng": 139.6419997
+    }
+]

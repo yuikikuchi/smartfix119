@@ -1,0 +1,42 @@
+[
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=474\" onclick=\"OnLinkClick();\">あいプロ ボーノ相模大野店<\/a><\/div>",
+        "lat": 35.5309925,
+        "lng": 139.4330665
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=488\" onclick=\"OnLinkClick();\">i-SS 横須賀店<\/a><\/div>",
+        "lat": 35.2066205,
+        "lng": 139.6146071
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=559\" onclick=\"OnLinkClick();\">iPhoneDoctor 横浜店<\/a><\/div>",
+        "lat": 35.4690043,
+        "lng": 139.6207213
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=560\" onclick=\"OnLinkClick();\">iPhoneDoctor 川崎店<\/a><\/div>",
+        "lat": 35.5298933,
+        "lng": 139.7006543
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=561\" onclick=\"OnLinkClick();\">Big-Up collectionイオンモール大和店<\/a><\/div>",
+        "lat": 35.4893126,
+        "lng": 139.4556366
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=603\" onclick=\"OnLinkClick();\">リンゴ屋 川崎店<\/a><\/div>",
+        "lat": 35.5287747,
+        "lng": 139.6975116
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=604\" onclick=\"OnLinkClick();\">リンゴ屋 京急線屏風浦駅前店<\/a><\/div>",
+        "lat": 35.394734,
+        "lng": 139.610253
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=628\" onclick=\"OnLinkClick();\">iPhone修理SHOP ナニウル大和桜ヶ丘駅前店<\/a><\/div>",
+        "lat": 35.4508194,
+        "lng": 139.4621119
+    }
+]

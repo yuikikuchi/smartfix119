@@ -1,0 +1,42 @@
+[
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=6\" onclick=\"OnLinkClick();\">スマホ修理王 名古屋栄店<\/a><\/div>",
+        "lat": 35.1691048,
+        "lng": 136.9031501
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=7\" onclick=\"OnLinkClick();\">スマホ修理王 イオシス大須店<\/a><\/div>",
+        "lat": 35.1587708,
+        "lng": 136.9032751
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=80\" onclick=\"OnLinkClick();\">スマホ修理工房 名古屋パルコ店<\/a><\/div>",
+        "lat": 35.1636055,
+        "lng": 136.9059617
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=81\" onclick=\"OnLinkClick();\">スマホ修理工房 豊田店<\/a><\/div>",
+        "lat": 35.0684433,
+        "lng": 137.1206059
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=82\" onclick=\"OnLinkClick();\">スマホ修理工房 豊橋店<\/a><\/div>",
+        "lat": 34.7419613,
+        "lng": 137.3916175
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=83\" onclick=\"OnLinkClick();\">スマホ修理工房 岡崎店<\/a><\/div>",
+        "lat": 34.924547,
+        "lng": 137.1362535
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=84\" onclick=\"OnLinkClick();\">スマホ修理工房 刈谷店<\/a><\/div>",
+        "lat": 35.0018466,
+        "lng": 136.9948616
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=198\" onclick=\"OnLinkClick();\">パソコン修理24スマホドック 名古屋名駅店<\/a><\/div>",
+        "lat": 35.1756421,
+        "lng": 136.8795445
+    }
+]

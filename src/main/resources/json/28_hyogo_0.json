@@ -1,0 +1,42 @@
+[
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=201\" onclick=\"OnLinkClick();\">スマホ修理工房 伊丹店<\/a><\/div>",
+        "lat": 35.0011295,
+        "lng": 135.7644913
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=202\" onclick=\"OnLinkClick();\">スマホ修理工房 神戸三宮店<\/a><\/div>",
+        "lat": 34.6912708,
+        "lng": 135.1879183
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=203\" onclick=\"OnLinkClick();\">スマホ修理工房 神戸西店<\/a><\/div>",
+        "lat": 34.6654994,
+        "lng": 135.0551347
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=236\" onclick=\"OnLinkClick();\">スマホ修理工房 姫路店<\/a><\/div>",
+        "lat": 34.8040586,
+        "lng": 134.6585626
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=237\" onclick=\"OnLinkClick();\">スマホ修理工房 明石店<\/a><\/div>",
+        "lat": 34.6668144,
+        "lng": 134.9884098
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=238\" onclick=\"OnLinkClick();\">スマホ修理工房 加古川店<\/a><\/div>",
+        "lat": 34.7523684,
+        "lng": 134.8519756
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=241\" onclick=\"OnLinkClick();\">​スマホ修理工房 西宮戎前店<\/a><\/div>",
+        "lat": 34.7334482,
+        "lng": 135.3325152
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=242\" onclick=\"OnLinkClick();\">スマホ修理工房 三田店<\/a><\/div>",
+        "lat": 34.8791568,
+        "lng": 135.2254006
+    }
+]

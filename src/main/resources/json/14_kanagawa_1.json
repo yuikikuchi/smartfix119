@@ -1,0 +1,42 @@
+[
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=40\" onclick=\"OnLinkClick();\">スマホ修理工房 平塚OSC湘南シティ店<\/a><\/div>",
+        "lat": 35.3282166,
+        "lng": 139.3557787
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=41\" onclick=\"OnLinkClick();\">スマホ修理工房 セレオ相模原店<\/a><\/div>",
+        "lat": 35.5811042,
+        "lng": 139.3686331
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=42\" onclick=\"OnLinkClick();\">スマホ修理工房 相模原店（ZAO内）<\/a><\/div>",
+        "lat": 35.5590213,
+        "lng": 139.3747863
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=43\" onclick=\"OnLinkClick();\">スマホ修理工房 海老名ビナウォーク店<\/a><\/div>",
+        "lat": 35.4530324,
+        "lng": 139.3898973
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=44\" onclick=\"OnLinkClick();\">スマホ修理工房 厚木店（ZAO内）<\/a><\/div>",
+        "lat": 35.5036358,
+        "lng": 139.3583001
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=163\" onclick=\"OnLinkClick();\">スマホステーション 川崎 ラ チッタデッラ店<\/a><\/div>",
+        "lat": 35.5280603,
+        "lng": 139.6955885
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=190\" onclick=\"OnLinkClick();\">パソコン修理24スマホドック 横浜関内店<\/a><\/div>",
+        "lat": 35.4453032,
+        "lng": 139.6341141
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=191\" onclick=\"OnLinkClick();\">パソコン修理24スマホドック 横浜青葉店<\/a><\/div>",
+        "lat": 35.5239722,
+        "lng": 139.5121692
+    }
+]

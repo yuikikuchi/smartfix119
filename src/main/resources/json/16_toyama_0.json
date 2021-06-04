@@ -1,0 +1,37 @@
+[
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=105\" onclick=\"OnLinkClick();\">スマホ修理工房 富山店<\/a><\/div>",
+        "lat": 36.7072483,
+        "lng": 137.2381267
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=106\" onclick=\"OnLinkClick();\">スマホ修理工房 砺波店<\/a><\/div>",
+        "lat": 36.6272246,
+        "lng": 136.9502533
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=475\" onclick=\"OnLinkClick();\">あいプロ ファボーレ富山店<\/a><\/div>",
+        "lat": 36.6627446,
+        "lng": 137.1695466
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=537\" onclick=\"OnLinkClick();\">モバイル修理.jp 富山店<\/a><\/div>",
+        "lat": 36.7155362,
+        "lng": 137.24743
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=538\" onclick=\"OnLinkClick();\">モバイル修理.jp 射水店<\/a><\/div>",
+        "lat": 36.7331002,
+        "lng": 137.0451832
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=581\" onclick=\"OnLinkClick();\">iPhoneDoctor 富山魚津店<\/a><\/div>",
+        "lat": 36.8171356,
+        "lng": 137.4118113
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=582\" onclick=\"OnLinkClick();\">iPhoneDoctor 高岡店<\/a><\/div>",
+        "lat": 36.6850454,
+        "lng": 136.9736773
+    }
+]

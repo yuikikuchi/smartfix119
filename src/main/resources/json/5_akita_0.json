@@ -1,0 +1,37 @@
+[
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=19\" onclick=\"OnLinkClick();\">スマホ修理工房 秋田店<\/a><\/div>",
+        "lat": 39.710132,
+        "lng": 140.091912
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=466\" onclick=\"OnLinkClick();\">あいプロ イオン秋田中央店<\/a><\/div>",
+        "lat": 39.703827,
+        "lng": 140.109969
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=511\" onclick=\"OnLinkClick();\">モバイル修理.jp 由利本荘店<\/a><\/div>",
+        "lat": 39.433728,
+        "lng": 140.065861
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=596\" onclick=\"OnLinkClick();\">リンゴ屋 日本海チケット秋田新国道店<\/a><\/div>",
+        "lat": 39.730729,
+        "lng": 140.103212
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=597\" onclick=\"OnLinkClick();\">リンゴ屋 日本海チケット横手店<\/a><\/div>",
+        "lat": 39.297998,
+        "lng": 140.536818
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=598\" onclick=\"OnLinkClick();\">リンゴ屋 日本海チケットフレスポ御所野店<\/a><\/div>",
+        "lat": 39.661418,
+        "lng": 140.16476
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=624\" onclick=\"OnLinkClick();\">iPhone修理SHOP ドン・キホーテ秋田店<\/a><\/div>",
+        "lat": 39.714795,
+        "lng": 140.109377
+    }
+]

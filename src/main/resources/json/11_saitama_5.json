@@ -1,0 +1,42 @@
+[
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=356\" onclick=\"OnLinkClick();\">iPhone修理のクイック入間市店<\/a><\/div>",
+        "lat": 35.8348473,
+        "lng": 139.3839253
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=516\" onclick=\"OnLinkClick();\">モバイル修理.jp 本庄店<\/a><\/div>",
+        "lat": 36.2341174,
+        "lng": 139.1845838
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=517\" onclick=\"OnLinkClick();\">モバイル修理.jp アリオ深谷店<\/a><\/div>",
+        "lat": 36.1813545,
+        "lng": 139.29669
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=518\" onclick=\"OnLinkClick();\">モバイル修理.jp ニットーモール熊谷店<\/a><\/div>",
+        "lat": 36.1387566,
+        "lng": 139.3914521
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=519\" onclick=\"OnLinkClick();\">モバイル修理.jp 熊谷北店<\/a><\/div>",
+        "lat": 36.1555424,
+        "lng": 139.3966716
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=520\" onclick=\"OnLinkClick();\">モバイル修理.jp 秩父店<\/a><\/div>",
+        "lat": 35.9983158,
+        "lng": 139.08128
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=521\" onclick=\"OnLinkClick();\">モバイル修理.jp さいたま北店<\/a><\/div>",
+        "lat": 35.9250732,
+        "lng": 139.6138345
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=522\" onclick=\"OnLinkClick();\">モバイル修理.jp 狭山店<\/a><\/div>",
+        "lat": 35.8537015,
+        "lng": 139.3802034
+    }
+]

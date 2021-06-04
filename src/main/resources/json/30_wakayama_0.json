@@ -1,0 +1,12 @@
+[
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=201\" onclick=\"OnLinkClick();\">スマホ修理工房 和歌山店<\/a><\/div>",
+        "lat": 34.2476139,
+        "lng": 135.1563291
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=202\" onclick=\"OnLinkClick();\">スマホスピタル和歌山<\/a><\/div>",
+        "lat": 34.2325816,
+        "lng": 135.1868026
+    }
+]

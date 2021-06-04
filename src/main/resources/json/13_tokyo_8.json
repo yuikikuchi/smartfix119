@@ -1,0 +1,42 @@
+[
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=32\" onclick=\"OnLinkClick();\">iCracked Store 三軒茶屋<\/a><\/div>",
+        "lat": 35.6425026,
+        "lng": 139.6689274
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=33\" onclick=\"OnLinkClick();\">iCracked Store 渋谷<\/a><\/div>",
+        "lat": 35.662038,
+        "lng": 139.6957432
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=34\" onclick=\"OnLinkClick();\">iCracked Store 中野<\/a><\/div>",
+        "lat": 35.7047046,
+        "lng": 139.6628705
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=35\" onclick=\"OnLinkClick();\">iCracked Store 池袋ロフト<\/a><\/div>",
+        "lat": 35.7284816,
+        "lng": 139.7093331
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=36\" onclick=\"OnLinkClick();\">iCracked Store 池袋60階通り<\/a><\/div>",
+        "lat": 35.7296674,
+        "lng": 139.7116776
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=37\" onclick=\"OnLinkClick();\">iCracked Store 赤羽<\/a><\/div>",
+        "lat": 35.7771519,
+        "lng": 139.7179851
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=38\" onclick=\"OnLinkClick();\">iCracked Store 成増<\/a><\/div>",
+        "lat": 35.7777094,
+        "lng": 139.6298055
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=39\" onclick=\"OnLinkClick();\">iCracked Store 立川<\/a><\/div>",
+        "lat": 35.6999702,
+        "lng": 139.4116738
+    }
+]

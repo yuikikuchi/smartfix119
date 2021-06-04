@@ -1,0 +1,42 @@
+[
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=32\" onclick=\"OnLinkClick();\">ダイワンテレコム 大森駅前店<\/a><\/div>",
+        "lat": 35.5886514,
+        "lng": 139.7255308
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=33\" onclick=\"OnLinkClick();\">ダイワンテレコム 自由が丘店<\/a><\/div>",
+        "lat": 35.6082216,
+        "lng": 139.6668287
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=34\" onclick=\"OnLinkClick();\">ダイワンテレコム 赤羽店<\/a><\/div>",
+        "lat": 35.7792933,
+        "lng": 139.7183321
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=39\" onclick=\"OnLinkClick();\">ダイワンテレコム 八王子店<\/a><\/div>",
+        "lat": 35.6579038,
+        "lng": 139.3388059
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=35\" onclick=\"OnLinkClick();\">ダイワンテレコム 町田店<\/a><\/div>",
+        "lat": 35.5452208,
+        "lng": 139.4441139
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=36\" onclick=\"OnLinkClick();\">ダイワンテレコム 北千住店<\/a><\/div>",
+        "lat": 35.7495567,
+        "lng": 139.8040067
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=37\" onclick=\"OnLinkClick();\">ダイワンテレコム 上野店<\/a><\/div>",
+        "lat": 35.709678,
+        "lng": 139.7723222
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=38\" onclick=\"OnLinkClick();\">ダイワンテレコム 下北沢店<\/a><\/div>",
+        "lat": 35.6617776,
+        "lng": 139.666749
+    }
+]

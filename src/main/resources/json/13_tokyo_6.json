@@ -1,0 +1,42 @@
+[
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=32\" onclick=\"OnLinkClick();\">スマホスピタル立川<\/a><\/div>",
+        "lat": 35.6969535,
+        "lng": 139.4131789
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=33\" onclick=\"OnLinkClick();\">スマホスピタル池袋<\/a><\/div>",
+        "lat": 35.7321027,
+        "lng": 139.7091732
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=34\" onclick=\"OnLinkClick();\">スマホスピタル秋葉原<\/a><\/div>",
+        "lat": 35.698096,
+        "lng": 139.7699564
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=35\" onclick=\"OnLinkClick();\">スマホスピタル品川高輪口店<\/a><\/div>",
+        "lat": 35.6314752,
+        "lng": 139.7356765
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=36\" onclick=\"OnLinkClick();\">スマホスピタル高田馬場<\/a><\/div>",
+        "lat": 35.712961,
+        "lng": 139.7041676
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=37\" onclick=\"OnLinkClick();\">スマホスピタル町田<\/a><\/div>",
+        "lat": 35.5435404,
+        "lng": 139.4458676
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=38\" onclick=\"OnLinkClick();\">スマホスピタル新橋駅前<\/a><\/div>",
+        "lat": 35.6664274,
+        "lng": 139.755169
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=39\" onclick=\"OnLinkClick();\">スマホスピタル吉祥寺<\/a><\/div>",
+        "lat": 35.7024778,
+        "lng": 139.5771011
+    }
+]

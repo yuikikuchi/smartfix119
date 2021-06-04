@@ -1,0 +1,17 @@
+[
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=201\" onclick=\"OnLinkClick();\">パソコン修理24スマホドック 徳島店<\/a><\/div>",
+        "lat": 34.0722834,
+        "lng": 134.547968
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=202\" onclick=\"OnLinkClick();\">iCracked Store 徳島<\/a><\/div>",
+        "lat": 34.1119356,
+        "lng": 134.544855
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=203\" onclick=\"OnLinkClick();\">モバイル修理.jp 徳島店<\/a><\/div>",
+        "lat": 34.0486637,
+        "lng": 134.5517932
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=93\" onclick=\"OnLinkClick();\">スマホ修理工房 沼津店<\/a><\/div>",
+        "lat": 35.1163134,
+        "lng": 138.8313333
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=94\" onclick=\"OnLinkClick();\">スマホ修理工房 沼津卸団地店<\/a><\/div>",
+        "lat": 35.095452,
+        "lng": 138.9051354
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=95\" onclick=\"OnLinkClick();\">スマホ修理工房 志太店<\/a><\/div>",
+        "lat": 34.8696856,
+        "lng": 138.2968446
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=96\" onclick=\"OnLinkClick();\">スマホ修理工房 掛川店<\/a><\/div>",
+        "lat": 34.7706562,
+        "lng": 137.9851561
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=235\" onclick=\"OnLinkClick();\">スマホスピタル静岡駅前店<\/a><\/div>",
+        "lat": 34.9746766,
+        "lng": 138.3859507
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=304\" onclick=\"OnLinkClick();\">iCracked Store 富士<\/a><\/div>",
+        "lat": 35.1401373,
+        "lng": 138.6731199
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=305\" onclick=\"OnLinkClick();\">iCracked Store 静岡マルイ<\/a><\/div>",
+        "lat": 34.9721333,
+        "lng": 138.3865068
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=306\" onclick=\"OnLinkClick();\">iCracked Store マークイズ静岡<\/a><\/div>",
+        "lat": 34.9833879,
+        "lng": 138.4066473
+    }
+]

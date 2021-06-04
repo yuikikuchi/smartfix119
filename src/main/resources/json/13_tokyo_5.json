@@ -1,0 +1,42 @@
+[
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=32\" onclick=\"OnLinkClick();\">パソコン修理24スマホドック 新宿オークタワー店<\/a><\/div>",
+        "lat": 35.6939357,
+        "lng": 139.6883538
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=33\" onclick=\"OnLinkClick();\">パソコン修理24スマホドック 西新宿十二社通り店<\/a><\/div>",
+        "lat": 35.6917788,
+        "lng": 139.6851616
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=34\" onclick=\"OnLinkClick();\">パソコン修理24スマホドック 日本橋茅場町店<\/a><\/div>",
+        "lat": 35.6794473,
+        "lng": 139.7770173
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=35\" onclick=\"OnLinkClick();\">パソコン修理24スマホドック 板橋蓮根店<\/a><\/div>",
+        "lat": 35.7836923,
+        "lng": 139.6752073
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=36\" onclick=\"OnLinkClick();\">パソコン修理24スマホドック 武蔵境店<\/a><\/div>",
+        "lat": 35.7115913,
+        "lng": 139.5331763
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=37\" onclick=\"OnLinkClick();\">パソコン修理24スマホドック 八王子店<\/a><\/div>",
+        "lat": 35.6586093,
+        "lng": 139.334657
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=38\" onclick=\"OnLinkClick();\">スマホスピタル新宿東口<\/a><\/div>",
+        "lat": 35.6927272,
+        "lng": 139.69912
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=39\" onclick=\"OnLinkClick();\">スマホスピタル渋谷<\/a><\/div>",
+        "lat": 35.6625773,
+        "lng": 139.6987698
+    }
+]

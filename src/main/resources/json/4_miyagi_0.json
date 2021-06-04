@@ -1,0 +1,42 @@
+[
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=21\" onclick=\"OnLinkClick();\">スマホ修理工房 仙台フォーラス店<\/a><\/div>",
+        "lat": 38.262236,
+        "lng": 140.872153
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=22\" onclick=\"OnLinkClick();\">スマホ修理工房 仙台泉店<\/a><\/div>",
+        "lat": 38.305459,
+        "lng": 140.906629
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=174\" onclick=\"OnLinkClick();\">パソコン修理24スマホドック 仙台店<\/a><\/div>",
+        "lat": 38.264642,
+        "lng": 140.876835
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=274\" onclick=\"OnLinkClick();\">iCracked Store 仙台ロフト<\/a><\/div>",
+        "lat": 38.260149,
+        "lng": 140.880452
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=332\" onclick=\"OnLinkClick();\">iPhone修理のクイック仙台店<\/a><\/div>",
+        "lat": 38.263582,
+        "lng": 140.871265
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=505\" onclick=\"OnLinkClick();\">モバイル修理.jp 長町店<\/a><\/div>",
+        "lat": 38.227636,
+        "lng": 140.884529
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=506\" onclick=\"OnLinkClick();\">モバイル修理.jp 大和町店<\/a><\/div>",
+        "lat": 38.248377,
+        "lng": 140.916049
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=507\" onclick=\"OnLinkClick();\">モバイル修理.jp 雨宮店<\/a><\/div>",
+        "lat": 38.275575,
+        "lng": 140.868394
+    }
+]

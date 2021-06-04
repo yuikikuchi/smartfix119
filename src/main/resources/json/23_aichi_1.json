@@ -1,0 +1,42 @@
+[
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=199\" onclick=\"OnLinkClick();\">パソコン修理24スマホドック 名古屋名東店<\/a><\/div>",
+        "lat": 35.1813532,
+        "lng": 137.0058305
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=232\" onclick=\"OnLinkClick();\">スマホスピタル 名古屋駅前店<\/a><\/div>",
+        "lat": 35.1681785,
+        "lng": 136.8835753
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=233\" onclick=\"OnLinkClick();\">スマホスピタル 名古屋栄店<\/a><\/div>",
+        "lat": 35.1674825,
+        "lng": 136.9022797
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=234\" onclick=\"OnLinkClick();\">スマホスピタル 名古屋金山店<\/a><\/div>",
+        "lat": 35.1440184,
+        "lng": 136.8977308
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=309\" onclick=\"OnLinkClick();\">iCracked Store 名古屋栄本店<\/a><\/div>",
+        "lat": 35.1654251,
+        "lng": 136.9035108
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=310\" onclick=\"OnLinkClick();\">iCracked Store 豊田<\/a><\/div>",
+        "lat": 35.0554014,
+        "lng": 137.1420803
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=460\" onclick=\"OnLinkClick();\">iPhone修理のクイック愛知 名古屋店<\/a><\/div>",
+        "lat": 35.1713844,
+        "lng": 136.8840453
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=490\" onclick=\"OnLinkClick();\">i-SS 豊橋店<\/a><\/div>",
+        "lat": 34.7533612,
+        "lng": 137.4215908
+    }
+]

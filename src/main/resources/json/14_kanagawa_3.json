@@ -1,0 +1,42 @@
+[
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=230\" onclick=\"OnLinkClick();\">スマホスピタルイオン相模原<\/a><\/div>",
+        "lat": 35.5537074,
+        "lng": 139.4147103
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=297\" onclick=\"OnLinkClick();\">iCracked Store モザイクモール港北<\/a><\/div>",
+        "lat": 35.5549977,
+        "lng": 139.5757733
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=298\" onclick=\"OnLinkClick();\">iCracked Store 上大岡<\/a><\/div>",
+        "lat": 35.4074573,
+        "lng": 139.5928192
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=299\" onclick=\"OnLinkClick();\">iCracked Store 湘南藤沢<\/a><\/div>",
+        "lat": 35.3370096,
+        "lng": 139.4860936
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=432\" onclick=\"OnLinkClick();\">iPhone修理のクイック伊勢原エリア出張修理店<\/a><\/div>",
+        "lat": 35.3404048,
+        "lng": 139.4829321
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=433\" onclick=\"OnLinkClick();\">iPhone修理のクイック小田原・秦野エリア出張修理店<\/a><\/div>",
+        "lat": 35.5313683,
+        "lng": 139.6990764
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=434\" onclick=\"OnLinkClick();\">iPhone修理のクイック茅ヶ崎・平塚エリア出張修理店<\/a><\/div>",
+        "lat": 35.446508,
+        "lng": 139.632854
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=435\" onclick=\"OnLinkClick();\">iPhone修理のクイック中山店<\/a><\/div>",
+        "lat": 35.5136184,
+        "lng": 139.5388149
+    }
+]

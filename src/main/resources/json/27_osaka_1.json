@@ -1,0 +1,42 @@
+[
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=201\" onclick=\"OnLinkClick();\">パソコン修理24スマホドック 大阪長堀橋店<\/a><\/div>",
+        "lat": 34.6778144,
+        "lng": 135.5046658
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=202\" onclick=\"OnLinkClick();\">パソコン修理24スマホドック 大阪茨木店<\/a><\/div>",
+        "lat": 34.8111487,
+        "lng": 135.5656457
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=203\" onclick=\"OnLinkClick();\">パソコン修理24スマホドック 高槻店<\/a><\/div>",
+        "lat": 34.8491058,
+        "lng": 135.6158919
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=236\" onclick=\"OnLinkClick();\">スマホスピタル大阪梅田<\/a><\/div>",
+        "lat": 34.7053641,
+        "lng": 135.4943921
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=237\" onclick=\"OnLinkClick();\">スマホスピタル心斎橋本店<\/a><\/div>",
+        "lat": 34.6760455,
+        "lng": 135.4993793
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=238\" onclick=\"OnLinkClick();\">スマホスピタル天王寺<\/a><\/div>",
+        "lat": 34.6473783,
+        "lng": 135.5089564
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=241\" onclick=\"OnLinkClick();\">​スマホスピタル堺東<\/a><\/div>",
+        "lat": 34.5765099,
+        "lng": 135.4825742
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=242\" onclick=\"OnLinkClick();\">スマホスピタル京橋<\/a><\/div>",
+        "lat": 34.6977479,
+        "lng": 135.5302854
+    }
+]

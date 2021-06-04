@@ -1,0 +1,42 @@
+[
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=8\" onclick=\"OnLinkClick();\">スマホ修理王 大阪心斎橋店<\/a><\/div>",
+        "lat": 34.6728274,
+        "lng": 135.4974811
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=123\" onclick=\"OnLinkClick();\">スマホ修理工房 なんばウォーク店<\/a><\/div>",
+        "lat": 34.6671636,
+        "lng": 135.4995614
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=124\" onclick=\"OnLinkClick();\">スマホ修理工房 大阪日本橋店<\/a><\/div>",
+        "lat": 34.6609036,
+        "lng": 135.5029166
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=125\" onclick=\"OnLinkClick();\">スマホ修理工房 堺店<\/a><\/div>",
+        "lat": 34.5486155,
+        "lng": 135.4930891
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=126\" onclick=\"OnLinkClick();\">スマホ修理工房 玉造駅前店<\/a><\/div>",
+        "lat": 34.6736904,
+        "lng": 135.5296323
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=127\" onclick=\"OnLinkClick();\">スマホ修理工房 枚方店<\/a><\/div>",
+        "lat": 34.8145074,
+        "lng": 135.6679363
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=128\" onclick=\"OnLinkClick();\">​スマホ修理工房 岸和田店<\/a><\/div>",
+        "lat": 34.4630357,
+        "lng": 135.3916924
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=200\" onclick=\"OnLinkClick();\">パソコン修理24スマホドック 大阪肥後橋店<\/a><\/div>",
+        "lat": 34.6897699,
+        "lng": 135.4941712
+    }
+]

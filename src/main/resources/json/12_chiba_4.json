@@ -1,0 +1,22 @@
+[
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=709\" onclick=\"OnLinkClick();\">ダイワンテレコム 柏店<\/a><\/div>",
+        "lat": 35.8605609,
+        "lng": 139.971146
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=710\" onclick=\"OnLinkClick();\">ダイワンテレコム 八千代店<\/a><\/div>",
+        "lat": 35.7278722,
+        "lng": 140.0709811
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=711\" onclick=\"OnLinkClick();\">ダイワンテレコム 松戸店<\/a><\/div>",
+        "lat": 35.783037,
+        "lng": 139.8985319
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=712\" onclick=\"OnLinkClick();\">ダイワンテレコム 浦安店<\/a><\/div>",
+        "lat": 35.6645228,
+        "lng": 139.8937257
+    }
+]

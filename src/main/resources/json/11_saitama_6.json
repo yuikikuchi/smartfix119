@@ -1,0 +1,42 @@
+[
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=562\" onclick=\"OnLinkClick();\">iPhoneDoctor ララガーデン春日部店<\/a><\/div>",
+        "lat": 35.9771413,
+        "lng": 139.7532312
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=563\" onclick=\"OnLinkClick();\">iPhoneDoctor メガドンキホーテ蓮田店<\/a><\/div>",
+        "lat": 35.9803731,
+        "lng": 139.6551142
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=605\" onclick=\"OnLinkClick();\">リンゴ屋 狭山店<\/a><\/div>",
+        "lat": 35.8576673,
+        "lng": 139.3914763
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=629\" onclick=\"OnLinkClick();\">iPhone修理SHOP ベイシア滑川モール店<\/a><\/div>",
+        "lat": 36.0591963,
+        "lng": 139.3667385
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=630\" onclick=\"OnLinkClick();\">iPhone修理SHOP 西川口店<\/a><\/div>",
+        "lat": 35.8190102,
+        "lng": 139.706156
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=651\" onclick=\"OnLinkClick();\">iPhone修理ジャパン ステラタウン大宮店<\/a><\/div>",
+        "lat": 35.9329294,
+        "lng": 139.6197511
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=652\" onclick=\"OnLinkClick();\">iPhone修理ジャパン 川口店<\/a><\/div>",
+        "lat": 35.8190102,
+        "lng": 139.706156
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=653\" onclick=\"OnLinkClick();\">iPhone修理ジャパン 川越店<\/a><\/div>",
+        "lat": 35.909051,
+        "lng": 139.4799447
+    }
+]

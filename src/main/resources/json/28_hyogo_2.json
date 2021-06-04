@@ -1,0 +1,27 @@
+[
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=201\" onclick=\"OnLinkClick();\">iCracked Store 神戸三宮元町<\/a><\/div>",
+        "lat": 34.6887915,
+        "lng": 135.1862117
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=202\" onclick=\"OnLinkClick();\">iPhone修理のクイック神戸御影店<\/a><\/div>",
+        "lat": 34.7150204,
+        "lng": 135.2543753
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=203\" onclick=\"OnLinkClick();\">あいプロ 三宮駅前店<\/a><\/div>",
+        "lat": 34.6940457,
+        "lng": 135.1910435
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=236\" onclick=\"OnLinkClick();\">リンゴ屋 川西店<\/a><\/div>",
+        "lat": 34.8565159,
+        "lng": 135.4142677
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=237\" onclick=\"OnLinkClick();\">ダイワンテレコム 姫路店<\/a><\/div>",
+        "lat": 34.8291188,
+        "lng": 134.6904518
+    }
+]

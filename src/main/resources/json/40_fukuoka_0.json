@@ -1,0 +1,42 @@
+[
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=201\" onclick=\"OnLinkClick();\">スマホ修理工房 イオンモール福岡店<\/a><\/div>",
+        "lat": 33.5965484,
+        "lng": 130.4782039
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=202\" onclick=\"OnLinkClick();\">スマホ修理工房 福岡南店<\/a><\/div>",
+        "lat": 33.5744203,
+        "lng": 130.4384499
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=203\" onclick=\"OnLinkClick();\">スマホ修理工房 久留米店<\/a><\/div>",
+        "lat": 33.2859825,
+        "lng": 130.5110733
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=236\" onclick=\"OnLinkClick();\">スマホ修理工房 香椎店<\/a><\/div>",
+        "lat": 33.6533731,
+        "lng": 130.4359454
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=237\" onclick=\"OnLinkClick();\">スマホ修理工房 小倉店<\/a><\/div>",
+        "lat": 33.8417579,
+        "lng": 130.9169016
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=238\" onclick=\"OnLinkClick();\">スマホ修理工房 八幡店<\/a><\/div>",
+        "lat": 33.8463316,
+        "lng": 130.7261839
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=241\" onclick=\"OnLinkClick();\">​スマホステーション UNiCASE 福岡パルコ店<\/a><\/div>",
+        "lat": 33.5906005,
+        "lng": 130.3963777
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=242\" onclick=\"OnLinkClick();\">パソコン修理24スマホドック 博多筑紫通店<\/a><\/div>",
+        "lat": 33.5553589,
+        "lng": 130.451231
+    }
+]

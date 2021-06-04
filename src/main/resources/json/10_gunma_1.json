@@ -1,0 +1,17 @@
+[
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=633\" onclick=\"OnLinkClick();\">iPhone修理SHOP 高崎菅谷店<\/a><\/div>",
+        "lat": 36.3781108,
+        "lng": 139.0070586
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=673\" onclick=\"OnLinkClick();\">iPhone修理ジャパン 群馬前橋店<\/a><\/div>",
+        "lat": 36.3741416,
+        "lng": 139.0420928
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=674\" onclick=\"OnLinkClick();\">iPhone修理ジャパン 高崎菅谷店<\/a><\/div>",
+        "lat": 36.3781003,
+        "lng": 139.0070715
+    }
+]

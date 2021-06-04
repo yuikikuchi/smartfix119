@@ -1,0 +1,42 @@
+[
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=32\" onclick=\"OnLinkClick();\">スマホ修理工房 三鷹店<\/a><\/div>",
+        "lat": 35.7005542,
+        "lng": 139.5590504
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=33\" onclick=\"OnLinkClick();\">スマホ修理工房 調布パルコ店<\/a><\/div>",
+        "lat": 35.6527416,
+        "lng": 139.5413742
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=34\" onclick=\"OnLinkClick();\">スマホ修理工房 秋津店<\/a><\/div>",
+        "lat": 35.7777063,
+        "lng": 139.4928265
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=35\" onclick=\"OnLinkClick();\">スマホ修理工房 八王子オクトーレ店（旧東急スクエア）<\/a><\/div>",
+        "lat": 35.6573331,
+        "lng": 139.3366052
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=36\" onclick=\"OnLinkClick();\">スマホ修理工房 西八王子店<\/a><\/div>",
+        "lat": 35.6570353,
+        "lng": 139.3099023
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=37\" onclick=\"OnLinkClick();\">スマホステーション 吉祥寺店<\/a><\/div>",
+        "lat": 35.7050307,
+        "lng": 139.5769089
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=38\" onclick=\"OnLinkClick();\">スマホステーション 三軒茶屋店<\/a><\/div>",
+        "lat": 35.6434168,
+        "lng": 139.6682386
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=39\" onclick=\"OnLinkClick();\">スマホステーション UNiCASE 錦糸町パルコ店<\/a><\/div>",
+        "lat": 35.6963162,
+        "lng": 139.8134717
+    }
+]

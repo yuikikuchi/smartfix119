@@ -1,0 +1,22 @@
+[
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=201\" onclick=\"OnLinkClick();\">スマホ修理工房 松江店<\/a><\/div>",
+        "lat": 35.4786171,
+        "lng": 133.0663258
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=202\" onclick=\"OnLinkClick();\">あいプロ 島根・イオン出雲店<\/a><\/div>",
+        "lat": 35.3676438,
+        "lng": 132.7367309
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=203\" onclick=\"OnLinkClick();\">あいプロ 松江学園通り店<\/a><\/div>",
+        "lat": 35.4748838,
+        "lng": 133.0660494
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=236\" onclick=\"OnLinkClick();\">ダイワンテレコム 松江店<\/a><\/div>",
+        "lat": 35.4386154,
+        "lng": 133.0450059
+    }
+]

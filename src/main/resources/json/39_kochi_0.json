@@ -1,0 +1,12 @@
+[
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=201\" onclick=\"OnLinkClick();\">パソコン修理24スマホドック 高知店<\/a><\/div>",
+        "lat": 33.5607685,
+        "lng": 133.5330883
+    },
+    {
+        "html": "<div class=\"comment\"><a href=\"\/shop?shopId=202\" onclick=\"OnLinkClick();\">ダイワンテレコム 高知店<\/a><\/div>",
+        "lat": 33.5526565,
+        "lng": 133.5508663
+    }
+]
